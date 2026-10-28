@@ -1,6 +1,6 @@
 # Mailers final presentation — four-minute script
 
-Before the event: fill in team member names if desired, rehearse at normal speaking speed and bring the entire project folder on both laptops. Open dashboard.html before connecting the projector. The schedule allows one minute setup, four minutes presentation and two minutes questions. Keep screenshots in demo/ as backup.
+Before the event: fill in team member names if desired, rehearse at normal speaking speed and bring the entire project folder on both laptops. Open index.html before connecting the projector. The schedule allows one minute setup, four minutes presentation and two minutes questions. Keep screenshots in demo/ as backup.
 
 ## Slides 1–2 · 0:00–0:20
 
@@ -24,11 +24,11 @@ The forecast lab compares a last-observation baseline, a linear trend and a damp
 
 ## Slide 7 · 2:10–3:30 · Live demonstration
 
-Open Trends. The total series shows 97.4 billion pieces for 2023, with a source link behind each point. Switch to a single report edition and choose 2025: the unit changes to pieces per household per year, and the published total is 637.3. These values stay separate.
+Open Mail over time. The total series shows 97.4 billion pieces for 2023, with a source link behind each point. Switch to a single report edition and choose 2025: the unit changes to pieces per household per year, and the published total is 637.3. These values stay separate.
 
-Open Households. In 2025, households headed by someone under 35 received 346.9 pieces per year, while those headed by someone 75 or older received 874.4. Switch to income or ownership to see another survey breakdown. These are associations, not causal estimates or joint household filters.
+Open Who uses mail. In 2025, households headed by someone under 35 received 346.9 pieces per year, while those headed by someone 75 or older received 874.4. Switch to income or ownership to see another survey breakdown. These are associations, not causal estimates or joint household filters.
 
-Open Report insights and choose a topic. Each selected passage links to the actual PDF page. Finally, open Forecast lab and point to the held-out error and baseline comparison. Export a CSV if time allows. If anything fails, show the matching screenshots from demo/.
+Open From the reports and choose a topic. Each selected passage links to the actual PDF page. Finally, open Looking ahead and point to the held-out error and baseline comparison. Export a CSV if time allows. If anything fails, show the matching screenshots from demo/.
 
 ## Slides 8–9 · 3:30–4:00
 

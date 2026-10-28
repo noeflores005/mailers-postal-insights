@@ -1,7 +1,7 @@
 from pathlib import Path
 from pypdf import PdfReader
 import zipfile, shutil, json, re
-root=Path(__file__).resolve().parent
+root=Path(__file__).resolve().parents[1]
 (root/'reports').mkdir(exist_ok=True)
 (root/'data').mkdir(exist_ok=True)
 sources=[Path.home()/'Downloads',Path.home()/'Downloads'/'Python Bootcamp']

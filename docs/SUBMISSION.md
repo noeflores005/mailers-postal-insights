@@ -10,7 +10,7 @@
 
 **What to demonstrate:** 21 historical annual observations per market (2003–2023); newer 2024–2025 results within their own report editions; 19 demographic groups from FY2025; offline extractive TextRank summaries; forecast scenarios with separate validation and held-out evaluation; source reports and CSV downloads.
 
-**Delivery:** Local folder or ZIP; open dashboard.html. No public deployment or account required.
+**Delivery:** Local folder or ZIP; open index.html. No public deployment or account required.
 
 **Technology:** Python data preparation and statistical models; HTML, CSS and JavaScript dashboard; TextRank-style extractive NLP; standard-library optional local server.
 

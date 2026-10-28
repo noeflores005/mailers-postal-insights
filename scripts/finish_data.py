@@ -1,7 +1,7 @@
 """Build traceable annual data, demographics, forecasts and offline NLP evidence."""
 from pathlib import Path
 import json,re,math,csv,collections
-R=Path(__file__).resolve().parent
+R=Path(__file__).resolve().parents[1]
 raw=json.loads((R/'data/markets.json').read_text())
 annual={}
 for row in sorted(raw,key=lambda x:x['edition']):

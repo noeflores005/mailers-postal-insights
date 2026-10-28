@@ -1,26 +1,61 @@
-# Mailers — Postal Insights
+# Mailers · Postal Insights
 
-Double-click **Open Mailers.cmd** or open **dashboard.html** in Brave, Chrome or Edge. Keep the data, reports and demo folders alongside it. The dashboard works offline without Python, an account, installation or an API key.
+A local dashboard for exploring how American households use the mail. Built by team **Mailers** for the USPS Office of Inspector General's Challenge X use case.
 
-For a local web-server preview, run `python app.py`. It opens the browser and listens only on 127.0.0.1. Press Ctrl+C to stop. If the port is occupied, use `python app.py --port 8770`.
+![Postal Insights dashboard](demo/trends.jpg)
 
-## Submission
+## Open the dashboard
 
-- Dashboard: dashboard.html
-- Presentation: Mailers Final Presentation.pptx
-- Speaking script and backup demo route: PRESENTATION.md and demo/
-- Form-ready description: SUBMISSION.md
-- Source definitions, evaluation and limitations: METHODS.md
-- Source PDFs, hashes, text extracts and CSV data: reports/ and data/
+Download the repository ZIP, extract it, and open **index.html** in your browser. Or double-click **Open Mailers.cmd** on Windows.
 
-## Rebuild
+No account, API key, installation or internet connection is needed. Keep the folders together so the data and PDF links work.
 
-Only re-extracting PDF text requires `python -m pip install -r requirements.txt`. Other data scripts use Python's standard library. Run `python ingest.py`, `python build_data.py`, `python finish_data.py`, then `python test_data.py`. Adapt ingest.py source paths if you move laptops. The HTML loads data/dashboard-data.js after rebuilding.
+For a local server instead, run:
 
-## Using Codex
+```sh
+python app.py
+```
 
-Keep this chat for project changes, or choose this folder as a local project in Codex. Describe the outcome and checks: “Add a comparison of two mail markets and verify units,” or “Rebuild from this new report and show the differences.” Review the changed files, try the dashboard and report any problems. The saved local files are the application; Codex helps edit and check them.
+## What's inside
 
-## Scope
+- **Mail over time** — annual mail-market comparisons, 2003–2023, with newer per-household results available by report edition.
+- **Who uses mail** — 19 household groups across age, income, education, ownership and geography in the 2025 survey.
+- **Looking ahead** — forecast scenarios, with separate validation, held-out results and a simple baseline.
+- **From the reports** — relevant source passages selected by extractive NLP, each linked to its PDF page.
+- **Sources & notes** — original reports, CSV exports and the assumptions behind the charts.
 
-Student submission prototype, not an official USPS product. Forecast scenarios use aggregate history through 2023; newer per-household data remains separate. NLP is extractive TextRank, not generative AI. Historical classifications are not fully harmonized. No measured 50% efficiency improvement is claimed. See METHODS.md.
+## Project layout
+
+```text
+index.html           Dashboard
+assets/              Styles and browser code
+data/                Structured data and extracted report text
+reports/             Source PDFs
+scripts/             Data preparation
+tests/               Data checks
+docs/                Methods, presentation script and submission notes
+demo/                Backup screenshots
+app.py               Optional local server
+```
+
+The PowerPoint is delivered separately from the application.
+
+## Rebuild the data
+
+PDF extraction uses pypdf; the other preparation scripts use Python's standard library.
+
+```sh
+python -m pip install -r requirements.txt
+python scripts/ingest.py
+python scripts/build_data.py
+python scripts/finish_data.py
+python -m unittest discover -s tests
+```
+
+The ingestion script looks in Downloads and Downloads/Python Bootcamp on the current machine. The checked-in data lets you use the dashboard without running extraction.
+
+## A note on interpretation
+
+The historical series preserves published revisions but does not resolve every classification change. The newer per-household results are kept separate from aggregate billions of pieces. Projections use a **2023 cutoff** and are exploratory; their error and baseline comparison are visible. Summaries select existing sentences rather than generate new explanations.
+
+Read [the methods](docs/METHODS.md) for details, or [the presentation script](docs/PRESENTATION.md) for a guided demo. This is an independent student project, not an official USPS product. The challenge's 50% preparation-time reduction remains an evaluation target, not a measured result.

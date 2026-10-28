@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,unittest,re
-R=Path(__file__).resolve().parent;D=json.loads((R/'data/submission.json').read_text())
+R=Path(__file__).resolve().parents[1];D=json.loads((R/'data/submission.json').read_text())
 class DataTests(unittest.TestCase):
  def test_sources(self):
   for r in D['editions']+D['demographics']:self.assertTrue((R/'reports'/r['file']).is_file())

@@ -1,7 +1,7 @@
 """Extract Table E.2 while retaining each report's edition and source context."""
 from pathlib import Path
 import json,re,csv
-ROOT=Path(__file__).resolve().parent
+ROOT=Path(__file__).resolve().parents[1]
 manifest=json.loads((ROOT/'data/manifest.json').read_text())
 records=[]
 for item in manifest:

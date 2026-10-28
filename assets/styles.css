@@ -1,0 +1,39 @@
+/* Postal Insights — local, dependency-free dashboard */
+:root{--ink:#213528;--muted:#6b746b;--green:#246546;--paper:#f7f7f1;--line:#e0e5da;--white:#fff;--sidebar:222px}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+button,select,input{font:inherit;color:inherit}
+button,a,select,input,summary{outline-offset:4px}
+button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible,summary:focus-visible{outline:3px solid #9abca2}
+header{margin-left:var(--sidebar);padding:40px 44px 28px;border-bottom:1px solid var(--line);background:#fcfcf8}
+header small{font-size:11px;letter-spacing:2px;color:var(--green);font-weight:750}
+h1{font:normal 46px/1.13 Georgia,"Times New Roman",serif;letter-spacing:-1.5px;margin:12px 0}
+header p{color:var(--muted);margin:12px 0 0;max-width:650px}
+nav{position:fixed;inset:0 auto 0 0;width:var(--sidebar);background:#fff;border-right:1px solid var(--line);display:flex;flex-direction:column;gap:6px;padding:34px 18px;z-index:5}
+nav::before{content:"Mailers.";font:700 32px Georgia,serif;letter-spacing:-1px;padding:0 14px 42px;color:var(--green)}
+nav::after{content:"POSTAL INSIGHTS\A Challenge X · 2026";white-space:pre-line;position:absolute;bottom:30px;left:32px;font-size:11px;line-height:1.9;letter-spacing:1px;color:var(--muted)}
+nav button{padding:13px 15px;text-align:left;border:0;background:transparent;border-radius:7px;color:#626e63;cursor:pointer;transition:background .15s}
+nav button:hover{background:#f2f5ed;color:var(--ink)}
+nav button[aria-selected=true]{background:#e8f0e1;color:#28533a;font-weight:700}
+main{margin-left:var(--sidebar);padding:32px 44px;max-width:1560px}
+.panel{display:none}.panel.active{display:block;animation:appear .2s ease}
+@keyframes appear{from{opacity:.5;transform:translateY(4px)}to{opacity:1;transform:none}}
+.section-intro{margin-bottom:25px}.eyebrow{font-size:10px;font-weight:750;letter-spacing:1.7px;color:#738166}.section-intro h2{font-size:25px;margin:6px 0;font-weight:650;letter-spacing:-.6px}.section-intro p{color:var(--muted);margin:6px 0;max-width:740px}
+.card{background:var(--white);border:1px solid var(--line);border-radius:12px;padding:26px;margin-bottom:22px}
+.controls{display:flex;flex-wrap:wrap;align-items:end;gap:16px;background:#fdfdf9;padding:20px 24px}
+label{display:grid;gap:7px;font-size:11px;font-weight:700;color:#697267;letter-spacing:.2px}
+select,input{height:42px;padding:8px 31px 8px 11px;border:1px solid #d5dccf;background:white;border-radius:6px;max-width:100%;font-size:13px;letter-spacing:0;font-weight:450}
+input{width:min(360px,100%)}
+button{padding:10px 15px;border:1px solid #ced7c8;background:white;border-radius:6px;cursor:pointer;font-size:13px}
+button:hover{background:#f2f6ee}.primary{background:var(--green);color:white;border-color:var(--green)}.primary:hover{background:#174b31}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.grid .card{border-top:3px solid #d9e3ca;padding:21px 24px}.grid .card:first-child{background:#edf2e4;border-top-color:#47764e}.metric{font:normal 43px/1.1 Georgia,serif;letter-spacing:-1px;margin:11px 0;color:#28533a}.grid small{font-size:11px}
+h2{font-size:21px;font-weight:650;margin:0 0 16px;letter-spacing:-.4px}h3{font-size:18px;line-height:1.4}.muted,small{color:var(--muted)}p{max-width:100%;line-height:1.7}.notice{padding:15px 18px;border-left:3px solid #7b9f7a;background:#f1f5eb;font-size:13px;line-height:1.7;margin:18px 0}.warn{border-color:#b49b59;background:#faf6e9}.chart-note{font-size:12px;color:var(--muted);margin:0 0 16px}.chart-note summary{font-weight:450}
+svg{display:block;width:100%;height:auto;margin-top:12px}svg text{font:13px system-ui;fill:#74816d}#numericSummary{border-top:1px solid var(--line);padding-top:18px;font-size:14px;color:#4f604b}
+details{margin-top:20px}summary{cursor:pointer;font-size:13px;font-weight:650}details p{font-size:13px}table{width:100%;border-collapse:collapse;font-size:12px}th,td{text-align:left;padding:12px;border-bottom:1px solid var(--line);vertical-align:top}th{font-weight:650;color:#617157;background:#f5f7f0}.scroll{overflow:auto}td a{overflow-wrap:anywhere}a{color:var(--green);text-underline-offset:3px}.tag{font-size:10px;font-weight:700;letter-spacing:1.2px;color:var(--green);background:#edf2e6;padding:6px 9px;border-radius:4px}
+blockquote{font:normal 21px/1.65 Georgia,serif;margin:25px 0;border-left:3px solid #b7c9a2;padding:2px 24px}blockquote small{display:block;font:11px/1.6 system-ui;margin-top:12px}.barrow{display:grid;grid-template-columns:minmax(120px,215px) minmax(70px,1fr) 70px;gap:18px;align-items:center;margin:24px 0;font-size:13px}.barrow b{text-align:right;font-variant-numeric:tabular-nums}.bar{height:12px;background:#73925c;border-radius:0 4px 4px 0}.barrow:nth-child(even) .bar{background:#3f704c}
+footer{margin-left:var(--sidebar);padding:4px 44px 28px;font-size:10px;color:var(--muted)}
+@media(min-width:1600px){main,header{padding-right:70px;padding-left:60px}}
+@media(max-width:1100px){:root{--sidebar:190px}main{padding:25px}header{padding:30px 25px}h1{font-size:37px}.controls{gap:12px}.card{padding:21px}.metric{font-size:36px}}
+@media(max-width:760px){:root{--sidebar:0px}nav{position:static;inset:auto;width:auto;flex-direction:row;flex-wrap:wrap;padding:12px;border-bottom:1px solid var(--line);gap:4px}nav::before{content:none}nav::after{content:none}nav button{font-size:12px;padding:10px}header{padding:25px 20px}h1{font-size:34px}main{padding:22px 16px}.grid{grid-template-columns:1fr;gap:0}.grid .card{margin-bottom:12px}.controls{align-items:stretch}.controls label{flex:1 1 135px}.controls button{align-self:end}.barrow{grid-template-columns:110px 1fr 55px;gap:10px}blockquote{font-size:18px;padding-left:16px}footer{padding:10px 20px}}
+@media(prefers-reduced-motion:reduce){.panel.active{animation:none}*{scroll-behavior:auto!important}}
+@media print{nav,.controls,button{display:none}.panel{display:block!important}header,main,footer{margin-left:0}.card{break-inside:avoid}body{background:white}}
