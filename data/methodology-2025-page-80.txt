@@ -1,0 +1,34 @@
+ 
+2 0 2 5  H O U S E H O L D  M A I L  S U R V E Y   Appendix B:  M E T H O D O L O G Y  70  
+of households that indicated whether or not they pay any bills by mail, with households that did not respond 
+excluded. Tables in the report that exclude non -responders in this fashion include all tables reporting on 
+methods of receiving bills and statement s or methods of paying bills, all tables reporting on reasons for 
+various mailing behaviors, all tables reporting on level of satisfaction with package services and all tables 
+reporting on share of advertising pieces read or likelihood of response to advertising mail. 
+Some households did not answer questions about characteristics of individual mail pieces, such as contents 
+or industry of sender. Pieces of mail for which these questions are not answered are included in estimates 
+of total volume, and are generally classified as Other, when, due to nonresponse to a question, they cannot 
+be classified into the categories presented in a table.  
+ Change in Definition Affecting Tables of Volumes by Urbanicity 
+Tables reporting volumes by urbanicity—household presence in a large MSA, other MSA or non-MSA—
+were affected by a change in the definition used for a large MSA. Up until January 2025, “Large MSA” 
+included only the 30 largest metropolitan areas in the Unite d States, as defined by the 2020 US Census. 
+Beginning in January 2025, the definition was expanded to include any county located in a metropolitan 
+area with a population of 1 million or more. This broader definition results in approximately 11% of US 
+households shifting from being categorized as “Other MSA” to “Large MSA.” Data presented for 2025 
+represents a hybrid of these two definitions, with households surveyed from October to December being 
+classified according to the old definition and households sur veyed from January to September being 
+classified according to the new definition. Data presented for years prior to 2025 use the old definition. 
+Eliminating the Double-Count for First-Class Mail and Packages 
+First-Class Mail (FCM), including correspondence and transaction mail, and packages are notable because 
+these categories of mail can be sent from household to household. When total household FCM or packages 
+sent and received are tabulated, one must eliminate the double-count of household-to-household mail.  
+The double-count occurs because households report FCM and packages they send to other households with 
+their sent mail and also report FCM and packages they receive from other households with their received 
+mail. The pieces sent to other households and received from other households represent separate estimates 
+of the same flow of mail—that from households to other households. Therefore, if one calculates FCM sent 
+and received by simply adding up FCM sent and FCM received, one counts the household -to-household 
+mail twice.  
+The standard practice in tabulating total household FCM or total household packages is to only include mail 
+or packages reported received from other households, leaving out the mail or packages sent to other 
+households.   

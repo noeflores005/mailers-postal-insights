@@ -88,7 +88,11 @@ for topic in ['Overall mail usage','Correspondence','Transactions bills payments
   if len(chosen)==3:break
  summaries[topic]=[passages[i] for i in chosen]
 
-payload=dict(annual=annual,demographics=demographics,forecasts=forecasts,summaries=summaries,editions=raw,manifest=json.loads((R/'data/manifest.json').read_text()))
+for forecast in forecasts.values():
+ for point in forecast['predictions']:
+  point['source_type']='model projection, not a published observation'
+  point['sources']=[dict(file=r['file'],page=r['page'],year=r['year'],edition=r['edition']) for r in forecast['training']]
+payload=dict(annual=annual,demographics=demographics,forecasts=forecasts,summaries=summaries,editions=raw,manifest=json.loads((R/'data/manifest.json').read_text()),demographicHistory=json.loads((R/'data/demographic-history.json').read_text()) if (R/'data/demographic-history.json').exists() else [])
 (R/'data/submission.json').write_text(json.dumps(payload,indent=2),encoding='utf8')
 (R/'data/dashboard-data.js').write_text('const DATA='+json.dumps(payload)+';',encoding='utf8')
 for name,rows in [('annual',annual),('demographics',demographics)]:

@@ -21,4 +21,28 @@ class DataTests(unittest.TestCase):
   for passages in D['summaries'].values():
    for p in passages:
     original=(R/'data'/(p['file']+'.txt')).read_text(encoding='utf8');self.assertIn(re.sub(r'\s+',' ',p['text']),re.sub(r'\s+',' ',original))
+ def test_every_plotted_point_has_provenance(self):
+  manifest={r['file']:r['pages'] for r in D['manifest']}
+  rows=D['annual']+D['editions']+D['demographics']+D['demographicHistory']
+  for f in D['forecasts'].values():
+   rows+=f['training']
+   for p in f['predictions']:
+    self.assertIn('model projection',p['source_type']);self.assertTrue(p['sources']);rows+=p['sources']
+  for r in rows:
+   self.assertIn(r['file'],manifest);self.assertTrue((R/'reports'/r['file']).is_file());self.assertIsInstance(r['page'],int);self.assertTrue(1<=r['page']<=manifest[r['file']])
+ def test_demographic_history_values(self):
+  rows=D['demographicHistory'];self.assertEqual(len(rows),45)
+  for year,value in [(2015,19.7),(2020,43.4),(2025,50.0)]:
+   r=next(r for r in rows if r['group']=='Non-MSA' and r['year']==year);self.assertEqual(r['value'],value);self.assertEqual(r['page'],52)
+  for year,value in [(2015,14),(2020,11),(2025,11)]:
+   r=next(r for r in rows if r['group']=='Under 35' and r['year']==year and r['metric']=='Share of total mail');self.assertEqual(r['value'],value);self.assertEqual(r['page'],18)
+ def test_rehearsal_numbers(self):
+  self.assertEqual(next(r['value'] for r in D['annual'] if r['year']==2023 and r['market']=='Total'),97.4)
+  self.assertEqual(next(r['received'] for r in D['demographics'] if r['group']=='75 and Over'),874.4)
+  self.assertEqual(round(D['forecasts']['Total']['mae'],2),4.49);self.assertEqual(round(D['forecasts']['Total']['baseline_mae'],2),4.40)
+ def test_static_entry_and_assets(self):
+  page=(R/'index.html').read_text(encoding='utf8')
+  for path in re.findall(r'(?:src|href)="([^"]+)"',page):
+   if not path.startswith(('http:','https:','#','data:')):self.assertTrue((R/path.split('#')[0].split('?')[0]).is_file(),path)
+  self.assertNotIn('Twenty years',page);self.assertIn('url=index.html',(R/'dashboard.html').read_text())
 if __name__=='__main__':unittest.main()

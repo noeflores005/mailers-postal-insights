@@ -1,0 +1,47 @@
+ 
+2 0 2 5  H O U S E H O L D  M A I L  S U R V E Y   Chapter 2: D E M O G R A P H I C S  A N D  M A I L  U S A G E  8  
+In contrast, younger households – those headed by someone aged under 35 – saw their share of total mail 
+fall from 14% in 2015 to 11% in 2025, far below their 20% share of total households in that year. 
+Table 2.7: Age of Householder and Mail Volume Shares 
+(Pieces per Household per Year) 
+Age of 
+Householder 
+2015 2020 2025 
+Share of 
+total mail 
+Share of 
+households 
+Share of 
+total mail 
+Share of 
+households 
+Share of 
+total mail 
+Share of 
+households 
+Under 35 14% 22% 11% 20% 11% 20% 
+35-44 16% 17% 13% 16% 13% 17% 
+45-54 19% 19% 17% 17% 17% 16% 
+55-64 21% 18% 21% 19% 19% 17% 
+65-74 17% 13% 22% 16% 22% 17% 
+75 and Over 14% 11% 16% 12% 18% 13% 
+Source: HMS Diary Sample. Note: Values may not sum to 100% due to rounding. 
+Figure 2.1 illustrates the differences in mail volume between homeowners and renters across age groups . 
+Given that homeownership is strongly correlated with the age of householders, this figure helps isolate the 
+effect of homeownership by comparing renters and homeowners within the same age categories . Roughly 
+speaking, homeowners receive 50% more mail pieces than renters within each age group , as illustrated  
+below. 
+Figure 2.1: Mail Pieces by Age and Homeownership 
+(Pieces per Household per Year, FY2025) 
+ 
+Source: HMS Diary Sample. 
+530
+754
+916
+326
+456
+602
+Under 45
+ 45-64
+ 65 and Over
+Homeowner Renter

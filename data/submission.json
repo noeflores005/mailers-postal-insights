@@ -1984,43 +1984,442 @@
           "year": 2024,
           "value": 55.017,
           "low": 48.4,
-          "high": 61.634
+          "high": 61.634,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2025,
           "value": 53.191,
           "low": 43.833,
-          "high": 62.549
+          "high": 62.549,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2026,
           "value": 51.73,
           "low": 40.269,
-          "high": 63.191
+          "high": 63.191,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2027,
           "value": 50.562,
           "low": 37.327,
-          "high": 63.796
+          "high": 63.796,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2028,
           "value": 49.627,
           "low": 34.83,
-          "high": 64.423
+          "high": 64.423,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2029,
           "value": 48.879,
           "low": 32.67,
-          "high": 65.087
+          "high": 65.087,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2030,
           "value": 48.28,
           "low": 30.773,
-          "high": 65.787
+          "high": 65.787,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         }
       ]
     },
@@ -2159,43 +2558,442 @@
           "year": 2024,
           "value": 13.539,
           "low": 12.764,
-          "high": 14.314
+          "high": 14.314,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2025,
           "value": 13.196,
           "low": 12.1,
-          "high": 14.292
+          "high": 14.292,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2026,
           "value": 12.852,
           "low": 11.51,
-          "high": 14.195
+          "high": 14.195,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2027,
           "value": 12.509,
           "low": 10.959,
-          "high": 14.059
+          "high": 14.059,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2028,
           "value": 12.166,
           "low": 10.433,
-          "high": 13.899
+          "high": 13.899,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2029,
           "value": 11.822,
           "low": 9.924,
-          "high": 13.721
+          "high": 13.721,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2030,
           "value": 11.479,
           "low": 9.428,
-          "high": 13.529
+          "high": 13.529,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         }
       ]
     },
@@ -2334,43 +3132,442 @@
           "year": 2024,
           "value": 7.544,
           "low": 6.777,
-          "high": 8.312
+          "high": 8.312,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2025,
           "value": 7.911,
           "low": 6.825,
-          "high": 8.997
+          "high": 8.997,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2026,
           "value": 8.278,
           "low": 6.948,
-          "high": 9.608
+          "high": 9.608,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2027,
           "value": 8.644,
           "low": 7.109,
-          "high": 10.18
+          "high": 10.18,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2028,
           "value": 9.011,
           "low": 7.294,
-          "high": 10.728
+          "high": 10.728,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2029,
           "value": 9.378,
           "low": 7.497,
-          "high": 11.259
+          "high": 11.259,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2030,
           "value": 9.744,
           "low": 7.713,
-          "high": 11.776
+          "high": 11.776,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         }
       ]
     },
@@ -2509,43 +3706,442 @@
           "year": 2024,
           "value": 3.199,
           "low": 2.882,
-          "high": 3.516
+          "high": 3.516,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2025,
           "value": 3.038,
           "low": 2.589,
-          "high": 3.486
+          "high": 3.486,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2026,
           "value": 2.909,
           "low": 2.36,
-          "high": 3.458
+          "high": 3.458,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2027,
           "value": 2.806,
           "low": 2.171,
-          "high": 3.44
+          "high": 3.44,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2028,
           "value": 2.723,
           "low": 2.014,
-          "high": 3.432
+          "high": 3.432,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2029,
           "value": 2.657,
           "low": 1.88,
-          "high": 3.434
+          "high": 3.434,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2030,
           "value": 2.604,
           "low": 1.765,
-          "high": 3.443
+          "high": 3.443,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         }
       ]
     },
@@ -2684,43 +4280,442 @@
           "year": 2024,
           "value": 94.204,
           "low": 87.695,
-          "high": 100.713
+          "high": 100.713,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2025,
           "value": 91.647,
           "low": 82.442,
-          "high": 100.852
+          "high": 100.852,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2026,
           "value": 89.602,
           "low": 78.328,
-          "high": 100.876
+          "high": 100.876,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2027,
           "value": 87.965,
           "low": 74.947,
-          "high": 100.984
+          "high": 100.984,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2028,
           "value": 86.656,
           "low": 72.102,
-          "high": 101.211
+          "high": 101.211,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2029,
           "value": 85.609,
           "low": 69.665,
-          "high": 101.553
+          "high": 101.553,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2030,
           "value": 84.771,
           "low": 67.55,
-          "high": 101.993
+          "high": 101.993,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         }
       ]
     },
@@ -2859,43 +4854,442 @@
           "year": 2024,
           "value": 15.189,
           "low": 14.282,
-          "high": 16.096
+          "high": 16.096,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2025,
           "value": 14.042,
           "low": 12.759,
-          "high": 15.325
+          "high": 15.325,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2026,
           "value": 12.896,
           "low": 11.324,
-          "high": 14.467
+          "high": 14.467,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2027,
           "value": 11.749,
           "low": 9.935,
-          "high": 13.563
+          "high": 13.563,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2028,
           "value": 10.602,
           "low": 8.574,
-          "high": 12.631
+          "high": 12.631,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2029,
           "value": 9.456,
           "low": 7.234,
-          "high": 11.677
+          "high": 11.677,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         },
         {
           "year": 2030,
           "value": 8.309,
           "low": 5.909,
-          "high": 10.709
+          "high": 10.709,
+          "source_type": "model projection, not a published observation",
+          "sources": [
+            {
+              "file": "USPS_HDS_FY17_Final+Annual+Report.pdf",
+              "page": 10,
+              "year": 2015,
+              "edition": 2017
+            },
+            {
+              "file": "USPS Household Diary Study FY2018.pdf",
+              "page": 10,
+              "year": 2016,
+              "edition": 2018
+            },
+            {
+              "file": "2019+Household+Diary+Study_Final.pdf",
+              "page": 10,
+              "year": 2017,
+              "edition": 2019
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2018,
+              "edition": 2020
+            },
+            {
+              "file": "Final+HDS+2020+Annual+report.pdf",
+              "page": 10,
+              "year": 2019,
+              "edition": 2020
+            },
+            {
+              "file": "2022_Annual+HDS+Report_Final.pdf",
+              "page": 4,
+              "year": 2020,
+              "edition": 2022
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2021,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2022,
+              "edition": 2023
+            },
+            {
+              "file": "FY+2023+Household+Diary+Study.pdf",
+              "page": 11,
+              "year": 2023,
+              "edition": 2023
+            }
+          ]
         }
       ]
     }
@@ -7580,6 +9974,548 @@
       "file": "USPS Household Diary Study FY2018.pdf",
       "pages": 220,
       "sha256": "c1499d26b500ab8f6d9de40db9fdf607a4ada0bb577b4fc884495ec5602e98ac"
+    }
+  ],
+  "demographicHistory": [
+    {
+      "dimension": "Age shares",
+      "group": "Under 35",
+      "year": 2015,
+      "metric": "Share of total mail",
+      "value": 14.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "Under 35",
+      "year": 2015,
+      "metric": "Share of households",
+      "value": 22.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "Under 35",
+      "year": 2020,
+      "metric": "Share of total mail",
+      "value": 11.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "Under 35",
+      "year": 2020,
+      "metric": "Share of households",
+      "value": 20.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "Under 35",
+      "year": 2025,
+      "metric": "Share of total mail",
+      "value": 11.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "Under 35",
+      "year": 2025,
+      "metric": "Share of households",
+      "value": 20.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "35-44",
+      "year": 2015,
+      "metric": "Share of total mail",
+      "value": 16.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "35-44",
+      "year": 2015,
+      "metric": "Share of households",
+      "value": 17.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "35-44",
+      "year": 2020,
+      "metric": "Share of total mail",
+      "value": 13.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "35-44",
+      "year": 2020,
+      "metric": "Share of households",
+      "value": 16.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "35-44",
+      "year": 2025,
+      "metric": "Share of total mail",
+      "value": 13.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "35-44",
+      "year": 2025,
+      "metric": "Share of households",
+      "value": 17.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "45-54",
+      "year": 2015,
+      "metric": "Share of total mail",
+      "value": 19.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "45-54",
+      "year": 2015,
+      "metric": "Share of households",
+      "value": 19.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "45-54",
+      "year": 2020,
+      "metric": "Share of total mail",
+      "value": 17.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "45-54",
+      "year": 2020,
+      "metric": "Share of households",
+      "value": 17.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "45-54",
+      "year": 2025,
+      "metric": "Share of total mail",
+      "value": 17.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "45-54",
+      "year": 2025,
+      "metric": "Share of households",
+      "value": 16.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "55-64",
+      "year": 2015,
+      "metric": "Share of total mail",
+      "value": 21.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "55-64",
+      "year": 2015,
+      "metric": "Share of households",
+      "value": 18.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "55-64",
+      "year": 2020,
+      "metric": "Share of total mail",
+      "value": 21.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "55-64",
+      "year": 2020,
+      "metric": "Share of households",
+      "value": 19.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "55-64",
+      "year": 2025,
+      "metric": "Share of total mail",
+      "value": 19.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "55-64",
+      "year": 2025,
+      "metric": "Share of households",
+      "value": 17.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "65-74",
+      "year": 2015,
+      "metric": "Share of total mail",
+      "value": 17.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "65-74",
+      "year": 2015,
+      "metric": "Share of households",
+      "value": 13.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "65-74",
+      "year": 2020,
+      "metric": "Share of total mail",
+      "value": 22.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "65-74",
+      "year": 2020,
+      "metric": "Share of households",
+      "value": 16.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "65-74",
+      "year": 2025,
+      "metric": "Share of total mail",
+      "value": 22.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "65-74",
+      "year": 2025,
+      "metric": "Share of households",
+      "value": 17.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "75 and Over",
+      "year": 2015,
+      "metric": "Share of total mail",
+      "value": 14.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "75 and Over",
+      "year": 2015,
+      "metric": "Share of households",
+      "value": 11.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "75 and Over",
+      "year": 2020,
+      "metric": "Share of total mail",
+      "value": 16.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "75 and Over",
+      "year": 2020,
+      "metric": "Share of households",
+      "value": 12.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "75 and Over",
+      "year": 2025,
+      "metric": "Share of total mail",
+      "value": 18.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Age shares",
+      "group": "75 and Over",
+      "year": 2025,
+      "metric": "Share of households",
+      "value": 13.0,
+      "unit": "Percent",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 18,
+      "table": "2.7",
+      "edition": 2025
+    },
+    {
+      "dimension": "Packages by metro classification",
+      "group": "Large MSA",
+      "year": 2015,
+      "metric": "Packages received",
+      "value": 33.4,
+      "unit": "Pieces per household per year",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 52,
+      "table": "7.2",
+      "edition": 2025
+    },
+    {
+      "dimension": "Packages by metro classification",
+      "group": "Large MSA",
+      "year": 2020,
+      "metric": "Packages received",
+      "value": 41.3,
+      "unit": "Pieces per household per year",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 52,
+      "table": "7.2",
+      "edition": 2025
+    },
+    {
+      "dimension": "Packages by metro classification",
+      "group": "Large MSA",
+      "year": 2025,
+      "metric": "Packages received",
+      "value": 32.8,
+      "unit": "Pieces per household per year",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 52,
+      "table": "7.2",
+      "edition": 2025
+    },
+    {
+      "dimension": "Packages by metro classification",
+      "group": "Other MSA",
+      "year": 2015,
+      "metric": "Packages received",
+      "value": 27.4,
+      "unit": "Pieces per household per year",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 52,
+      "table": "7.2",
+      "edition": 2025
+    },
+    {
+      "dimension": "Packages by metro classification",
+      "group": "Other MSA",
+      "year": 2020,
+      "metric": "Packages received",
+      "value": 46.9,
+      "unit": "Pieces per household per year",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 52,
+      "table": "7.2",
+      "edition": 2025
+    },
+    {
+      "dimension": "Packages by metro classification",
+      "group": "Other MSA",
+      "year": 2025,
+      "metric": "Packages received",
+      "value": 46.0,
+      "unit": "Pieces per household per year",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 52,
+      "table": "7.2",
+      "edition": 2025
+    },
+    {
+      "dimension": "Packages by metro classification",
+      "group": "Non-MSA",
+      "year": 2015,
+      "metric": "Packages received",
+      "value": 19.7,
+      "unit": "Pieces per household per year",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 52,
+      "table": "7.2",
+      "edition": 2025
+    },
+    {
+      "dimension": "Packages by metro classification",
+      "group": "Non-MSA",
+      "year": 2020,
+      "metric": "Packages received",
+      "value": 43.4,
+      "unit": "Pieces per household per year",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 52,
+      "table": "7.2",
+      "edition": 2025
+    },
+    {
+      "dimension": "Packages by metro classification",
+      "group": "Non-MSA",
+      "year": 2025,
+      "metric": "Packages received",
+      "value": 50.0,
+      "unit": "Pieces per household per year",
+      "file": "2025+HOUSEHOLD+MAIL+SURVEY.pdf",
+      "page": 52,
+      "table": "7.2",
+      "edition": 2025
     }
   ]
 }

@@ -33,3 +33,22 @@ The cutoff is explicitly 2023. Projections are not updated through 2025. More re
 Checks cover year/market uniqueness, source paths, unit separation, known table values, demographic coverage, quote provenance and forecast arithmetic. Selected demographic tables are compared with rendered source pages. Browser checks cover tabs, filters, downloads and source access. This is not a manual audit of all values.
 
 The 50% preparation-time reduction is a challenge target, not an achieved result. Validate it with a timed comparison of identical report-writing tasks with and without the dashboard, including errors and user confidence. No results or participants have been invented.
+
+
+## January 2025 survey break (verified)
+
+FY2025 HMS Appendix B, PDF page 75 (printed p. 65), says the redesign and name change began in January 2025. FY2025 therefore combines Oct–Dec 2024 under the previous design with Jan–Sep 2025 under the new one; the report's 2015 and 2020 comparisons use the old design. The new design uses residential-address sampling with specified exclusions and strata targeting lower-income/renter areas (p. 75), and web or telephone-assisted collection (p. 76). The old design offered both paper and online diaries (FY2024 report, PDF pp. 80–82). It would be inaccurate to describe the earlier survey as paper-only or to assert a quantitatively wider sampling frame without evidence. Collection, sampling and weighting changed; observed differences need not be entirely behavioral.
+
+FY2025 Appendix B, PDF p. 80, documents the Large MSA expansion from the 30 largest metros to metropolitan areas with at least one million people in January 2025. About 11% of households shift from Other MSA to Large MSA. FY2025 is a hybrid of old/new definitions. MSA classification is not a rural/urban indicator.
+
+## Demographic comparisons added for the showcase
+
+Table 2.7, FY2025 PDF p. 18, provides six age groups' shares of mail and shares of households in 2015/2020/2025 (36 observations). Its row measures are percentages despite the printed table's pieces-per-household subtitle. Table 7.2, PDF p. 52, provides packages received by Large MSA, Other MSA and Non-MSA for those years (nine observations). Both tables retain source edition 2025, table number, page and units. The app does not infer missing historical received/sent mail volumes from age shares. Non-MSA packages received are 19.7, 43.4 and 50.0; Large MSA are 33.4, 41.3 and 32.8. These published comparisons span both method and classification changes.
+
+## Coverage follow-up
+
+The supplied FY2011 PDF URL returned HTTP 404 during this check. The official HTML report remains a reference, but no PDF was added and existing historical estimates were unchanged. A focused official-source search did not locate the FY2003 report cheaply. Neither gap was filled with inferred values.
+
+## Hosting and exports
+
+GitHub Pages serves main at /. All runtime assets use relative paths. Brief exports resolve source PDF/page URLs against the current site location and include all selected trend rows, units, source editions and pages, the forecast caveat, and selected exact passages. The exported arithmetic and extracts are not generated explanations. URL hash state is allow-listed and validated against available options. dashboard.html redirects old bookmarks to index.html.

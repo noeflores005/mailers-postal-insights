@@ -1,0 +1,40 @@
+ 
+2 0 2 5  H O U S E H O L D  M A I L  S U R V E Y   Appendix B:  M E T H O D O L O G Y  65  
+Appendix B: Methodology 
+Timing of Recent Changes to the Survey 
+Substantial changes were made to the Household Mail Survey (including its name change from Household 
+Diary Study) as of January 2025, meaning that the old survey was still in effect during the first quarter of 
+Fiscal Year 2025, from October to December 202 4, while the new survey was in effect for the remaining 
+three quarters, from January to September 2025. The results presented in the 2025 Annual Report for 
+FY2025 are thus based on data both from the old survey and the new, while results for 2015 and 2020 are 
+based on data from the old survey. This appendix describes the methodology used to collect, process, 
+weight, and present the data from the new survey, constituting the majority of the data behind the 2025 
+estimates. For discussion of the methodology behind the data for the first quarter of FY2025, as well as all 
+prior years, please refer to the methodology section of the 2024 HDS Annual Report. 
+Population and Sampling 
+A sampling frame was constructed that includes all residential addresses in the 50 states and Washington, 
+DC. Post office (P.O.) boxes were excluded from the frame, except in cases where they were the sole means 
+of receiving mail, in which case they were retained. Addresses with drop point deliveries with more than 5 
+units attributed to the address were removed.  
+The sampling frame was enhanced by joining data on rural-urban-continuum codes at the county level and 
+estimates of proportion of persons renting and below the poverty level from the 2023 Census planning 
+database. These additional data sources along with the geography of the addresses were used to construct 
+sampling strata. 
+Sampling strata were constructed to allow for the targeting of areas with a high concentration of lower -
+income and renter households, as these households tend to respond to surveys at a lower rate. In addition, 
+sampling strata were constructed using the four Census regions below (Table B.1). 
+Table B.1: Census Regions 
+Region States/Districts 
+Northeast Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New 
+York, Pennsylvania, Rhode Island, and Vermont. 
+Midwest Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, 
+North Dakota, Ohio, South Dakota, and Wisconsin. 
+South 
+Alabama, Arkansas, Delaware, District of Columbia, Florida, Georgia, 
+Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, 
+South Carolina, Tennessee, Texas, Virginia, and West Virginia. 
+West Arizona, Alaska, California, Colorado, Hawaii, Idaho, Montana, Nevada, 
+New Mexico, Oregon, Utah, Washington, and Wyoming. 
+Table B.2 defines the sampling strata based on combinations of Census region, rural -urban continuum 
+codes, and estimates of the percentage of persons in the tract who are renters and the percentage of persons 
+in the tract who are below the poverty line. Th e strata definitions in Table B.2 collapse some possible 

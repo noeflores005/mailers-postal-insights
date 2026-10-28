@@ -1,0 +1,41 @@
+ 
+2 0 2 5  H O U S E H O L D  M A I L  S U R V E Y   Appendix B:  M E T H O D O L O G Y  67  
+Upon completing the recruitment section of the survey, consisting of questions about their household, 
+respondents were instructed to proceed to the diary portion of the survey to record all the mail they sent and 
+received over a one-week period. Respondents selected their preferred diary week by choosing a Monday 
+from the calendar displayed within the survey. Respondents were allowed to complete the diary by the end 
+of the quarter corresponding to their batch release. Assistance for participants was provide d via an email 
+address and a toll-free help line. After completing the survey, respondents could choose an electronic gift 
+card or a paper check for compensation. 
+Submitted surveys were assessed for completeness and fitness for analysis. The recruitment sample consists 
+of the set of households that adequately completed the recruitment section of the survey. Households that 
+reached the end of the recruitment section and answered at least half of all questions asked in that section 
+(with an answer other than “don’t know” or “rather not say”) were included in the recruitment sample. 
+The diary sample consists of the set of households that adequately completed a mail diary. Households were 
+only included in the diary sample if, on average, the respondent answered more than half the questions 
+asked about each mail piece reported. Additionally, a household was not included in the diary sample if it 
+was excluded from the recruitment sample. If a diary was submitted less than six days after the recruitment 
+survey was started, that diary was excluded from the diary sample. 
+Imputation of Missing Values 
+Demographic variables used in weighting —namely age of householder, education level of householder, 
+and homeownership—require imputation of missing values. Imputation of missing demographic variables 
+was conducted using a chained random forests method. Rand om forest imputation is  a machine learning 
+technique which can accommodate nonlinearities and interactions and does not require a particular 
+regression model to be specified.5 
+Weighting 
+After the data were cleaned and unknown values of key demographic variables imputed, household weights 
+were generated for each quarter. These weights were designed to adjust for unequal probabilities of being 
+sampled across sampling strata and to align the  weighted sample to population in terms of key variables 
+like age, education, and homeownership. The following sections describe the weighting process. 
+Base Weights 
+First, a base weight WBASES for each household was calculated by dividing the number of addresses in that 
+household’s stratum NS by the number of addresses in that stratum to which an invitation was sent IS.  
+𝑊𝐵𝐴𝑆𝐸𝑠 = 𝑁𝑠
+𝐼𝑠
+⁄  
+The base weight was the same for all households within a stratum and represented the inverse probability 
+that an address in a given stratum would be mailed an invitation. If more invitations than average were sent 
+ 
+5 A. D. Shah, J. W. Bartlett, J. Carpenter, O. Nicholas, and H. Hemingway, "Comparison of Random Forest and Parametric 
+Imputation Models for Imputing Missing Data Using MICE: A CALIBER Study ," American Journal of Epidemiology 179, no. 6 
+(2014): 764–774. 

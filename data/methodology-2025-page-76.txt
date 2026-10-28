@@ -1,0 +1,43 @@
+ 
+2 0 2 5  H O U S E H O L D  M A I L  S U R V E Y   Appendix B:  M E T H O D O L O G Y  66  
+combinations of the factors that define strata to ensure that each stratum’s target population was above a 
+minimum size.  
+Table B.2: Sampling Stratum Definitions and Approximate Number of Frame Addresses  
+Sampling 
+Stratum 
+Strata Description Addresses 
+1 Midwest, Large Metro, low % renter and poverty tracts 9,850,540 
+2 Midwest, Large Metro, high % renter and/or poverty tracts 4,701,190 
+3 Midwest, Small/Medium Metro, low % renter and poverty tracts 6,484,472 
+4 Midwest, Small/Medium Metro, high % renter and/or poverty tracts 2,612,284 
+5 Midwest, Non-Metro 6,327,857 
+6 Northeast, Large Metro, low % renter and poverty tracts 8,847,823 
+7 Northeast, Small/Medium/Large Metro, high % renter and/or poverty tracts 8,223,816 
+8 Northeast, Small/Medium Metro, low % renter and poverty tracts 4,545,252 
+9 Northeast, Non-Metro 2,192,008 
+10 South, Large Metro, low % renter and poverty tracts 18,093,591 
+11 South, Large Metro, high % renter and/or poverty tracts 10,277,663 
+12 South, Small/Medium Metro, low % renter and poverty tracts 12,492,027 
+13 South, Small/Medium Metro, high % renter and/or poverty tracts 6,310,072 
+14 South, Non-Metro, low % renter and poverty tracts 5,267,247 
+15 South, Non-Metro, high % renter and/or poverty tracts 3,426,901 
+16 West, Large Metro, low % renter and poverty tracts 11,567,817 
+17 West, Large Metro, high % renter and/or poverty tracts 8,073,905 
+18 West, Small/Medium Metro, low % renter and poverty tracts 5,583,498 
+19 West, Small/Medium Metro, high % renter and/or poverty tracts 2,437,984 
+20 West, Non-Metro 2,460,619 
+There was a large degree of uncertainty in the expected completion rate for the data collection process. A 
+strategy was employed that allowed flexibility to increase or decrease the released sample over the course 
+of the quarter depending on the observed c ompletion rates. A maximum total sample size based on an 
+estimated lower limit of the expected response rate was computed based on previous iterations of the survey.  
+Survey invitations in the form of postcards were sent out across the quarter in batches every two weeks. 
+The sample size sent out for a given batch was pre-determined for the first several batches but flexible for 
+the later batches and dependent on the observed completion rate from earlier in the quarter. To accomplish 
+this, within each of the 20 sampling strata, the total maximum sample is divided into approximately equal 
+groups called replicate groups when the initial sample is drawn before the start of the quarter.  
+Data Collection 
+Participants accessed the survey using information on their invitation postcards. To be eligible to 
+participate, respondents must be at least 18 years old, live at the sampled address, and have knowledge of 
+the household’s sent and received mail. Informed consent was collected online prior to the start of the 
+survey. Participants completed the survey via a dedicated website, or over the web or over the phone with 
+the assistance of a telephone interviewer. 

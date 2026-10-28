@@ -1,0 +1,42 @@
+ 
+2 0 2 5  H O U S E H O L D  M A I L  S U R V E Y   Chapter 7: P A C K A G E S  42  
+Figure 7.6: Package Volumes by MSA Classification 
+(Pieces per Household per Year, FY2025) 
+ 
+Source: HMS Diary Sample, FY 2025. 
+The higher package volumes received by households living outside of an MSA is a fairly recent 
+development. As seen in Table 7.2, non -MSA households had the lowest average number of packages 
+received in 2015, just over half of the average volume for households living in large MSAs . By 2020, all 
+MSA classifications had about the same average volume of packages received, in the range of 41 to 47 per 
+year. But by 2025, households living outside MSAs were receiving an average of 50 packages per year, 
+about 50% more than the average for households living in large MSAs. Put differently, between 2015 and 
+2025, average packages received skyrocketed 154% for non-MSA households but were about the same for 
+households living in large MSAs (-2%). 
+Table 7.2: Packages Received by MSA Classification 
+(Pieces per household per Year) 
+Metro Area 
+Classification 2015 2020 2025 % change 
+2015-2025 
+% change 
+2020-2025 
+Large MSA 33.4 41.3 32.8 -2% -21% 
+Other MSA 27.4 46.9 46.0 67% -2% 
+Non-MSA 19.7 43.4 50.0 154% 15% 
+Source: HMS Diary Sample.  
+Reasons for using the Postal Service to Send Packages 
+The HMS recruitment survey asks which delivery company the household used for the most recent package 
+they sent. Of those answering, 71% say they used the Postal Service. These households were subsequently 
+asked the main reason why they use the Postal Service to send packages. Results are shown in Table 7.3. 
+Nearly half of the households who sent their last package using USPS said that “convenient location” was 
+the main reason for doing so. About a third said it was because USPS s ervice had a better price  than its 
+competitors. Other key reasons , which 13% selected, were aspects of USPS service – reliability, online 
+tracking, greater efficiency, and faster delivery. 
+ 
+32.8
+46.0
+50.0
+4.3 4.9 5.9
+Large MSA
+ Other MSA
+ Non-MSA
+Received Sent

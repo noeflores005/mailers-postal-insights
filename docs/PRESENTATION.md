@@ -47,3 +47,25 @@ The value is a shorter path from a question to an auditable table, comparison an
 **Can I filter by exact USPS product?** The current historical view uses mail-market purpose from E.2. It does not provide a full postal-product taxonomy. That would require additional source-table extraction and mapping.
 
 **Are all years fully digitized?** No. We have full report files, but structured extraction focuses on summary E.2 tables and FY2025 demographic tables. The source library describes the scope and image-based pages.
+
+
+## Showcase additions and Q&A
+
+Live URL: https://noeflores005.github.io/mailers-postal-insights/
+
+In Who uses mail, scroll to Households over time and choose packages by metro classification. The 2025 report's Table 7.2 (PDF p. 52) shows Non-MSA packages received per household rising from 19.7 in 2015 to 43.4 in 2020 and 50.0 in 2025. Do not call this an unqualified rural/urban causal effect: metro status is not rural status, and the survey and Large MSA definition changed. The age comparison uses shares from Table 2.7 (PDF p. 18), not historical received-piece volumes.
+
+**Did the 2025 survey change?** Yes. Appendix B (PDF pp. 75–77) dates the redesign and name change to January 2025. The year mixes one old-method quarter with three new-method quarters. The old survey offered paper and online diaries; the new design describes web and telephone-assisted collection and a revised address-based sampling/stratification process. Differences can reflect the method as well as household behavior.
+
+**Is Non-MSA the same as rural?** No. We use the report's metro categories. Appendix B (PDF p. 80) says the Large MSA definition changed in January 2025, moving about 11% of households from Other MSA to Large MSA. This limits longitudinal interpretation.
+
+**Can we take the findings away?** Export brief downloads the current trend calculations, all selected point sources, the forecast caveat and selected quoted evidence in Markdown. Copy the URL to return to the same tab and filters.
+
+### Number verification for rehearsal
+
+- 97.4 billion household mail pieces, 2023: FY2023 Table E.2, PDF p. 11.
+- 637.3 pieces per household per year, 2025: FY2025 Table E.2, PDF p. 7.
+- 346.9 received for Under 35 and 874.4 for 75 and Over, FY2025: Table 2.2, PDF p. 16.
+- Total held-out MAE rounds to 4.49 billion pieces; last-observation baseline to 4.40. Recomputed from the three 2021–2023 held-out rows in data/submission.json. These are app evaluation results, not numbers printed in a USPS report.
+
+Before presenting, run the live and offline demo on both actual showcase laptops. Only the current laptop is accessible to Codex; the second-laptop check must be performed by the team.
