@@ -1,0 +1,1043 @@
+--- PDF PAGE 1 ---
+ 
+Appendix C: Survey Instruments 
+ 
+ 
+--- PDF PAGE 2 ---
+ 
+--- PDF PAGE 3 ---
+ 
+Appendix C1: Recruitment Questionnaire 
+--- PDF PAGE 4 ---
+ 
+--- PDF PAGE 5 ---
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 1 of 24  
+Recruitment Questionnaire – FY2008 
+Acronym Dictionary 
+DK = Don’t Know 
+RF = Refusal 
+NA = Not applicable 
+ 
+ 
+IMPORTED SAMPLE FIELDS: 
+«TZONE »  
+«SAMPN »  
+«LISTD » 
+«REP » 
+«STYPE » 
+«HHNAM » 
+«CTFIP » 
+«PSU » 
+«REGN » 
+«DIV » 
+«CR » 
+«STRAT » 
+«PHONE » 
+ 
+ 
+PROGRAMMING NOTE: FOLLOW THE FY ’07 CATI SCRIPT FOR THE FOLLOWING VARIABLES, UNLESS 
+SOMETHING HAS CHANGED, OR SHOULD CHANGE. 
+«DISPO »  
+«GTIME »  
+«GDAY »  
+«DAYTM »  
+«SHFT1 »  
+«SHFT2 »  
+«SHFT3 »  
+«SHFT4 »  
+«SHFT5 »  
+«SHFT6 »  
+«SKP1 »  
+«MOV1 »  
+«SKP2 »  
+«MOV2 » 
+AND SO ON THROUGH SKP6 AND MOV6 
+«SKOT1 » AND THEN 2, 3, AND 4 
+ 
+ 
+ 
+1. [INT01]  Hello, my name is _______, and I’m calling on behalf of the U.S. Postal Service.  We’re not selling 
+anything.  May I speak with an adult in the household, 18 or older?   
+THE HOUSEHOLD NAME IS <HHNAM> THE CALLBACK NAME WE HAVE IS <NAME>  
+IF NAME IS BLANK, IT IS UNLISTED SAMPLE. 
+OK .......Continue =>GO TO END 
+NA .......No Answer =>GO TO END 
+BZ ........Busy =>GO TO END 
+AM .......Answering Machine =>GO TO 
+END 
+ID .........Disconnect =>GO TO END 
+IM ........Computer/Fax Machine =>GO TO 
+END 
+IG ........Business/Government =>GO TO 
+END 
+IL ..........Deaf/Language Barrier =>GO TO 
+END 
+R1 ........1st Refusal =>GO TO REFU1 
+KB ....... Call Back, Specific =>GO TO CB 
+KH…….Call Back, General =>GO TO CB 
+KR ....... Spanish Callback, General =>GO 
+TO CB 
+KS…….Spanish Callback, Specific =>GO 
+TO CB 
+RH ....... Hang Up =>GO TO END 
+PM ...... Caller ID =>GO TO END 
+RF ........ Strong Refusal =>GO TO REFUS 
+QA……No ASSN Dates Available (only to be 
+used at end of FY) =>GO TO END 
+QD…….Non-qualified, Special (Permission 
+only) =>GO TO END
+--- PDF PAGE 6 ---
+2 of 24 FINAL R e c r u i t m e n t  Q u e s t i o n n a i r e   2008 HOUSEHOLD DIARY STUDY 
+2. [LETTR] The U.S. Postal Service is conducting a study to better understand the type and amount of mail 
+households like yours receive and send.  We sent a letter recently explaining the study and letting 
+you know we would contact you. Did you receive it? 
+1 ......... Yes => CONTINUE WITH INT05 
+2 ......... No => VERIFY ADDRESS [SKIP TO VADD] 
+[INT05 ] With your participation, the Postal Service can ma ke wise decisions about postage rates and staffing 
+needs to ensure an efficient national mail system and keep costs at a minimum. This is purely a 
+research effort and any information you provide will be held strictly confidential. For this study, your 
+household will use diaries to answer questions about the mail you receive and send for one week, and 
+we’ll give you a gift for completing the diaries.  Before I can get your diaries out to you, I need to get 
+some information about your household, which includes you, members of your family and other 
+people living in your home who are not related to you. 
+ IF NEEDED – TYPICALLY ON LY NEED THIS KIND OF TERMINATION AT END OF A 
+QUARTER; SEE CURRENT PROGRAM AND MODEL THIS TO MATCH: Your household was 
+selected to participate in the diary study the week of _____.  I’m sorry your household is not eligible 
+for another week, but thank you for your time and interest.   
+OK ...... Continue 
+KB ....... Call Back – specific =>GO TO CB 
+KH ....... Call Back – general =>GO TO CB 
+KS ........ Spanish Call Back – specific =>GO TO CB 
+KR ....... Spanish Call Back – general =>GO TO CB 
+QA ...... No available assignment dates (only to be used at end of FY) =>GO TO END 
+R1 ....... 1
+st Refusal =>GO TO REFU1 
+RH ....... Hang Up =>GO TO END
+3. [VADD] I’d like to verify your mail ing address.  Is it . . .  
+ADDR<MADDR>  APT<MSUIT>   
+CITY<MCITY>  STATE<MSTAT>  ZIP<MZIP1><MZIP2><APTML> 
+1 ......... Yes    
+2 No    
+AFTER VERIFYING ADDRESS IF LETTR=2, READ INT05 BUT THEN SKIP VADD AND  
+GO TO POBOX.  
+4. [POBOX] Does your household have a PO Box? 
+1 ......... Yes    
+2 ......... No    
+5. [Q11] Do any members of your household rent a box from a private mailing service, like Post Office Plus, or 
+Parcel Place? 
+1 ......... Yes    
+2 ......... No    
+8 ......... DK 
+9 ......... NA/RF 
+6. [RECV]  Do you receive mail in your home mailbox? [WE WANT TO KNOW IF THEY RECEIVE MAIL AT 
+THEIR PHYSICAL HOME ADDRESS] 
+1 ......... Yes    
+2 ......... No    
+8 ......... DK 
+9 ......... RF 
+--- PDF PAGE 7 ---
+ 
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 3 of 24  
+IF RECV = 1, CONTINUE 
+IF RECV = 2, 8 OR 9, THANK AND TERMINATE, AND MARK IT QN or QM  
+QN=wrong address if aptml=0; QM=doesn’t receive mail in their home mailbox 
+7. [Q1] RESPONDENT GENDER, DON’T ASK 
+1 ..........Male 
+2 ..........Female 
+8. [Q4] OK, thanks. Now, we can begin our questions. In total, how many personal letters, including post 
+cards and thank you notes, would you say members of your household write in the average month?  
+I’m talking about personal letters and notes, not greeting cards, not e-mail, and not letters written 
+for business or in conjunction with a job. 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-90 
+98 ........DK 
+99 ........NA/RF 
+9. [Q5A] About how many greeting cards did your househol d send by mail during the Christmas / Hanukkah / 
+Kwanzaa season last year? 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-997 
+998 ......DK 
+999 ......NA/RF 
+10. [Q5B] About how many greeting cards did your household receive by mail during the Christmas / 
+Hanukkah / Kwanzaa season last year? 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-997 
+998 ......DK 
+999 ......NA/RF 
+11. [Q6A] Not counting the holiday cards we just talked ab out, approximately how many greeting cards would 
+you say your household sends to friends or relatives in an average month? 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-997 
+998 ......DK 
+999 ......NA/RF 
+12. [Q6B] Again, not counting holiday card s, approximately how many greeting cards would you say your 
+household receives from friends or relatives in an average month? 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-997 
+98 ........DK 
+99 ........NA/RF 
+13. [SCRIP8]/[Q8] Not counting the Christmas and Hanukkah packages your household sends, about how 
+many packages did your household send in the last month?  
+IF NEEDED: This is by any courier/method not just the U.S. Postal Service.  
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-75 
+98 ........DK 
+99 ........NA/RF 
+--- PDF PAGE 8 ---
+4 of 24 FINAL R e c r u i t m e n t  Q u e s t i o n n a i r e   2008 HOUSEHOLD DIARY STUDY 
+14. [Q9R_01-05] Which of the following methods of mailing personal packages—not letter mail—have 
+household members used in the last six months?   
+MULTIPLE RESPONSE 
+1 ......... Took package to the Post Office 
+4 ......... Gave the package to our mail carrier 
+6 ......... Put the package in a Postal Service collection box 
+3 ......... Took it to a private package shipping company, like UPS or FedEx, or DHL 
+2 ......... Took it to a private mailing service, like Post Office Plus or Parcel Place 
+7 ......... OTHER, SPECIFY 
+5 ......... NONE (HAVE NOT MAILED PACKAGES IN THE LAST SIX MONTHS) 
+8 ......... DK 
+9 ......... NA/RF 
+15. [Q12] How many times in an average month do household members go to a U.S. Postal Office but not to the 
+service counter? IF NEEDED: We mean an outside drop off box, going to your PO Box, or using an 
+automated machine.  
+VERIFY RESPONSE IF MORE THAN 30, RANGE: 0-60 
+98 ....... DK 
+99 ....... NA/RF 
+16. [Q14B] How many times in an average month do household members go inside a U.S. Postal Office to the 
+service counter?  
+VERIFY RESPONSE IF MORE THAN 30, RANGE: 0-60 
+00 ....... NONE 
+98 ....... DK 
+99 ....... NA/RF 
+17. [Q13] How many times in an average month do househol d members go to a private mailing service?   
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-30 
+00 ....... None => GO TO Q22 
+98 ....... DK   => GO TO Q22 
+99 ....... NA/RF   => GO TO Q22 
+18. [Q14] Why does your household use a mailing service rather than the post office?   
+IF THEY SAY “CONVENIENT” OR “EASIER” OR OTHER VAGUE RESPONSE,  
+ASK “Why is it convenient or easier?” SELECT BEST FIT.
+01 ....... HOURS-LONGER/LATER 
+02 ....... LOCATION 
+03 ....... OFFERS PICK UP SERVICE 
+04 ....... CHEAPER 
+05 ....... FASTER/OVERNIGHT DELIVERY 
+06 ....... OFFERS DROP OFF SERVICE 
+07 ....... PACKAGES IT UP 
+08 ....... SERVICE-BETTER/MORE 
+EFFICIENT/FRIENDLY 
+09 ....... MORE RELIABLE/SEEMS SAFER 
+11 ....... USES ONLY IN SPECIAL 
+CIRCUMSTANCES 
+12 ....... FOR EXTRA SERVICES (COPYING, 
+FAXES, MAIL BOXES, ETC.) 
+13 ....... SHORTER WAIT TIME/LINES, LESS 
+CROWDED 
+14 ....... ‘SHIP TO’ REQUESTED IT  
+16 ....... ACCEPTS ODD-
+SHAPED/OVERSIZED PACKAGES 
+18 ....... ON-LINE TRACKING SERVICE 
+20 ....... USES ONLY FOR JOB/WORK-
+RELATED PACKAGES 
+21 ....... TO USE UPS 
+97 ....... OTHER, SPECIFY 
+99 ....... DK/RF
+--- PDF PAGE 9 ---
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 5 of 24  
+19. [Q22] Many people are now using the Internet to communicate, pay bills and conduct other household 
+activities that were traditionally done by mail. In this next set of questions, we’ll be asking about 
+your household’s access to and use of personal computers and the Internet.  How many personal 
+computers, including desktops and laptops, does your household own?   
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-9 
+98 ........DK 
+99 ........NA/RF 
+IF Q22 = 0, 98 or 99, SKIP TO Q26A  
+20. [Q23] How many of these computers have Internet access?   
+IF Q22 = 1 SAY: Does this computer have Internet access?  
+DO NOT ACCEPT A NUMBER GREATER THEN <Q22>.  
+IF Q23 = 0,98,98, SKIP TO Q26C 
+98 ........DK 
+99 ........NA/RF 
+21. [Q24] What is the primary type of Internet connec tion used in your household?  Is it . . . 
+01 ........Dial-up (modem) 
+05 ........DSL 
+03 ........Cable modem 
+04 ........Other Broadband (for example, fiber optic) 
+02 ....... [NOW BLANK] 
+06 ....... [NOW BLANK] 
+97 ....... OTHER, SPECIFY 
+99 ....... DK/RF
+IF Q24 = 01 or 99, SKIP TO Q26E 
+IF Q24 = 03, 04, 05, or 97, SKIP TO Q55A 
+22. [Q26A] How likely is it that members of this household will get a personal computer in the near future?  
+Very likely, somewhat likely, somewhat unlikely or not at all likely? 
+4 ..........VERY LIKELY 
+3 ..........SOMEWHAT LIKELY 
+2 ..........SOMEWHAT UNLIKELY 
+1 ..........NOT AT ALL LIKELY 
+9 ..........DK/RF 
+IF Q26A = 4, 3, or 2, ASK Q26C  
+IF Q26A = 1, or 9, SKIP TO Q55A 
+23. [Q26C] How likely is it that members of this household will get Internet access in the near future?   
+Very likely, somewhat likely, somewhat unlikely or not at all likely? 
+4 ..........VERY LIKELY 
+3 ..........SOMEWHAT LIKELY 
+2 ..........SOMEWHAT UNLIKELY 
+1 ..........NOT AT ALL LIKELY 
+9 ..........DK/RF 
+IF Q26C = 4, 3, or 2, ASK Q26F  
+IF Q26C = 1 or 9, SKIP TO Q55A 
+--- PDF PAGE 10 ---
+6 of 24 FINAL R e c r u i t m e n t  Q u e s t i o n n a i r e   2008 HOUSEHOLD DIARY STUDY 
+24. [Q26F] How likely is it that members of this household will get a dial up Internet connection in the near 
+future? 
+4 ......... VERY LIKELY 
+3 ......... SOMEWHAT LIKELY 
+2 ......... SOMEWHAT UNLIKELY 
+1 ......... NOT AT ALL LIKELY 
+9 ......... DK/RF 
+IF Q26F = 4, 3, or 9, SKIP TO Q55A  
+IF Q26F = 1 or 2, ASK Q26E 
+25. [Q26E] How likely is it that members of this household will get a broadband Internet connection in the near 
+future?  
+4 ......... VERY LIKELY 
+3 ......... SOMEWHAT LIKELY 
+2 ......... SOMEWHAT UNLIKELY 
+1 ......... NOT AT ALL LIKELY 
+9 ......... DK/RF 
+ASK EVERYONE Q55A 
+26. [Q55A] Do you have any of the following Internet access devices in your home? 
+1 ......... Cellular phone with Internet access 
+2 ......... Handheld computers such as Palm Pilot or Blackberry 
+4 ......... Other dedicated email devices 
+7 ......... Other Internet access devices [SPECIFY] 
+0 ......... NONE 
+8 ......... DK 
+9 ......... RF 
+ASK EVERYONE Q25R 
+27. [Q25R] Do any members of your household - including you - use the Internet from any other location? 
+1 ......... Yes 
+2 ......... No 
+8 ......... DK 
+9 ......... RF 
+IF (Q25R = 2,8,9, or Missing) AND (Q23=0, 98, 99 or Missing), SKIP TO Q28C  
+PLEASE CHECK THIS CAREFULLY DURING TESTING! 
+28. [Q57A1] How long have members of your household been using the Internet for non-business purposes at 
+any location? 
+1 ......... Less than 1 year 
+2 ......... 1 to 3 years 
+3 ......... 4 to 5 years 
+4 ......... More than 5 years 
+0 ......... Don’t use the Internet for non-business purposes => GO TO Q28C 
+8 ......... DK 
+9 ......... RF 
+--- PDF PAGE 11 ---
+ 
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 7 of 24  
+29. [Q57B1] During the last month, how often did the members of your household use the Internet for non-
+business purposes at any location? Would you say… 
+1 ..........Several times a day 
+2 ..........Almost every day 
+3 ..........Several times a week 
+4 ..........Once a week 
+5 ..........Once a month 
+6 ..........Less than once a month 
+8 ..........DK 
+9 ..........RF 
+30. [Q57C1] Which of the following Internet activities do members of your household use?  
+MULTIPLE RESPONSE 
+01 ........E-mailing, instant messaging, 
+visiting chat rooms or listservs*   
+09 ........Pay bills online 
+10 ........Receive / view bills online 
+05 ........Online banking not including bill 
+payment (view statement, transfer 
+funds, apply for a loan) 
+06 ........Searching for information about 
+products and services 
+08 ........ Purchasing products or services 
+03 ........ Getting news, weather or sports information 
+02 ........ BLANK 
+04 ........ BLANK 
+07 ........ BLANK 
+97 ........ OTHER, SPECIFY  
+98 ........ DK 
+99 ........ RF 
+*listservs defined as an e-mail discussion group or an online mailing list 
+31. [Q57E] How many personal e-mails, not related to your job, do you send in a typical day? 
+0 ..........NONE 
+1 ..........1 to 3 
+2 ..........4 to 6 
+3 ..........7 to 10 
+4 ..........11 or more 
+8 ..........DK 
+9 ..........RF 
+32. [Q57F] How many personal e-mails, not related to your job, do you receive in a typical day? 
+0 ..........NONE 
+1 ..........1 to 3 
+2 ..........4 to 6 
+3 ..........7 to 10 
+4 ..........11 or more 
+8 ..........DK 
+9 ..........RF  
+33. [Q7] About how many electronic greeting cards—not e-mail messages—did your household send through 
+the Internet last month? 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-80 
+98 ........DK 
+99 ........NA/RF 
+IF (Q23=0, 98, 99 or Missing) AND (Q25R = 2,8,9, or Missing), SKIP TO Q28C 
+--- PDF PAGE 12 ---
+8 of 24 FINAL R e c r u i t m e n t  Q u e s t i o n n a i r e   2008 HOUSEHOLD DIARY STUDY 
+34. [SCRP3] Traditionally, people pay bills in person or by mail. Now, many banks and other companies offer bill 
+payments by telephone and over the Internet.  
+35. [Q28] How many bills or other types of account statem ents does your household receive electronically, 
+either on-line at a website or though e-mail, each month?   
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-80 
+00 ....... None => GO TO Q28C 
+99 ....... DK/RF 
+36. [Q28A] Approximately how long has your household been receiving bills or account statements 
+electronically? 
+1 ......... Less than 1 month 
+2 ......... 1 to 6 months 
+3 ......... 6 months to a year 
+4 ......... More than 1 year 
+9 ......... DK/RF 
+37. [Q28B] For how many of these <Q28> bills and accounts do you also receive paper statements?   
+PROBE FOR SPECIFIC NUMBER, RANGE: 1-80 
+00 ....... None 
+99 ....... DK/RF 
+38. [Q28C] How many bills or other types of account statements does your household receive each month by 
+mail only?  
+IF NEEDED: Meaning, they do not also receive the statement electronically or by any other method.  
+PROBE FOR SPECIFIC NUMBER, RANGE 1-80 
+00 ....... None 
+99 ....... DK/RF 
+40. [Q29] About how many total bills does your household pay, by any method, in an average month?   
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-80 
+98 ....... DK 
+99 ....... NA/RF 
+41. [Q31] Of these <Q29> household bills, about how many are paid… 
+SKIP ALL THE INTERNET QUESTIONS IF (Q23=0, 98, 99 or Missing) AND (Q25R = 2,8,9, or Missing) 
+[Q31A] By mail   
+[Q31D] By Internet  
+[Q31B] In Person  
+[Q31C] By telephone 
+[Q31F] By automatic deduction from bank ac count, or charge to debit card  
+[Q31G] By automatic charge to credit card  
+--- PDF PAGE 13 ---
+ 
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 9 of 24  
+NOTE: If Q31D = 0, 98, 99, SKIP Q105A 
+42. [Q105A] What service do you use most often to pay bills over the Internet? 
+1 ..........Bank or credit union 
+2 ..........Check free Web service 
+3 ..........Website of company requesting payment 
+97 ........OTHER, SPECIFY 
+98 ........DK 
+99 ........RF 
+FOR Q32A_01-16 THRU [Q32G_01-16], ONLY ASK ABOUT THIS METHOD  
+IF RESPONDENT SAID THEY PAY THAT WAY In Q31A thru G  
+43. [Q32A_01-16] What types of bills does your household pay by mail?  
+ 
+PLEASE READ THE LIST 
+01 ........Natural Gas/Propane/Fuel Oil/Etc. 
+02 ........Electric 
+03 ........Telephone (landline) 
+04 ........Water/Sewer 
+05 ........Credit Cards 
+06 ........Rent/Mortgage 
+11 ........Car Payment 
+09 ........Other loan(s)or line of credit  
+07 ....... Cable TV/Satellite TV 
+08 ....... Insurance 
+10 ....... Cell Phone 
+12 ....... Medical or dental Bills 
+13 ....... Internet Services 
+14 ....... Alimony/child support 
+15 ....... Taxes (e.g., property or income) 
+97 ....... OTHER SPECIFY
+44. [Q33A] What is the main reason that you pay these bills by mail? 
+PLEASE DO NOT READ THE LIST 
+01 ........EASY TO USE 
+02 ........SAVES TIME 
+06 ........HABIT/LIKE TRADITIONAL WAY 
+07 ........NO OTHER OPTION 
+08 ........OUT OF STATE/NOT LOCAL 
+12 ........MOST TRUSTED METHOD 
+14 ....... WANT WRITTEN RECORD/ 
+TO TRACK/ MORE CONTROL 
+19 ....... CHEAPEST METHOD 
+97 ....... OTHER, SPECIFY 
+99 ....... DK/RF
+45. [Q32B_01-16] What types of bills do you pay In Person?   
+ 
+PLEASE READ THE LIST 
+01 ........Natural Gas/Propane/Fuel Oil/Etc. 
+02 ........Electric 
+03 ........Telephone (landline) 
+04 ........Water/Sewer 
+05 ........Credit Cards 
+06 ........Rent/Mortgage 
+11 ........Car Payment 
+09 ........Other loan(s)or line of credit  
+07 ....... Cable TV/Satellite TV 
+08 ....... Insurance 
+10 ....... Cell Phone 
+12 ....... Medical or dental Bills 
+13 ....... Internet Services 
+14 ....... Alimony/child support 
+15 ....... Taxes (e.g., property or income) 
+97 ....... OTHER SPECIFY
+--- PDF PAGE 14 ---
+10 of 24 FINAL R e c r u i t m e n t  Q u e s t i o n n a i r e   2008 HOUSEHOLD DIARY STUDY 
+46. [Q32C_01-16] What type of bills do you pay by telephone?  
+ 
+PLEASE READ THE LIST 
+01 ....... Natural Gas/Propane/Fuel Oil/Etc. 
+02 ....... Electric 
+03 ....... Telephone (landline) 
+04 ....... Water/Sewer 
+05 ....... Credit Cards 
+06 ....... Rent/Mortgage 
+11 ....... Car Payment 
+09 ....... Other loan(s)or line of credit  
+07 ....... Cable TV/Satellite TV 
+08 ....... Insurance 
+10 ....... Cell Phone 
+12 ....... Medical or dental Bills 
+13 ....... Internet Services 
+14 ....... Alimony/child support 
+15 ....... Taxes (e.g., property or income) 
+97 ....... OTHER SPECIFY
+47. [Q32D_01-16] If Q31D>1: What type of bills do you pay over the Internet?   
+NOTE: SKIP ALL THE INTERNET QUESTIONS IF (Q23=0, 98, 99 or Missing) AND (Q25R = 2,8,9, or Missing) 
+ 
+PLEASE READ THE LIST 
+01 ....... Natural Gas/Propane/Fuel Oil/Etc. 
+02 ....... Electric 
+03 ....... Telephone (landline) 
+04 ....... Water/Sewer 
+05 ....... Credit Cards 
+06 ....... Rent/Mortgage 
+11 ....... Car Payment 
+09 ....... Other loan(s)or line of credit  
+07 ....... Cable TV/Satellite TV 
+08 ....... Insurance 
+10 ....... Cell Phone 
+12 ....... Medical or dental Bills 
+13 ....... Internet Services 
+14 ....... Alimony/child support 
+15 ....... Taxes (e.g., property or income) 
+97 ....... OTHER SPECIFY
+ 
+48. [Q32F_01-16] What type of bills do you pay by automatic deduction from a bank account, or charge to a 
+debit card? 
+ 
+PLEASE READ THE LIST 
+01 ....... Natural Gas/Propane/Fuel Oil/Etc. 
+02 ....... Electric 
+03 ....... Telephone (landline) 
+04 ....... Water/Sewer 
+05 ....... Credit Cards 
+06 ....... Rent/Mortgage 
+11 ....... Car Payment 
+09 ....... Other loan(s)or line of credit  
+07 ....... Cable TV/Satellite TV 
+08 ....... Insurance 
+10 ....... Cell Phone 
+12 ....... Medical or dental Bills 
+13 ....... Internet Services 
+14 ....... Alimony/child support 
+15 ....... Taxes (e.g., property or income) 
+97 ....... OTHER SPECIFY 
+ 
+49. [Q32G_01-16] What type of bills do you pay by au tomatic charge to a credit card?    
+ 
+PLEASE READ THE LIST 
+01 ....... Natural Gas/Propane/Fuel Oil/Etc. 
+02 ....... Electric 
+03 ....... Telephone (landline) 
+04 ....... Water/Sewer 
+05 ....... Credit Cards 
+06 ....... Rent/Mortgage 
+11 ....... Car Payment 
+09 ....... Other loan(s)or line of credit  
+07 ....... Cable TV/Satellite TV 
+08 ....... Insurance 
+10 ....... Cell Phone 
+12 ....... Medical or dental Bills 
+13 ....... Internet Services 
+14 ....... Alimony/child support 
+15 ....... Taxes (e.g., property or income) 
+97 ....... OTHER SPECIFY
+--- PDF PAGE 15 ---
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 11 of 24  
+50. [Q36] How many different magazine subscriptions do the members of your household receive through the 
+mail? 
+98 ........DK  
+99 ........RF    
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-50 
+51. [Q38] How many different magazine subscriptions do me mbers of your household purchase or receive free 
+by any other method such as Internet, door hanger, or other?  
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-15, VERIFY IF > 10 
+98 ........DK 
+99 ........RF 
+52. [Q40] How many different newspaper subscriptions do members of your household receive through the 
+mail in an average week? 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-15 
+98 ........DK  
+99 ........RF  
+53. [Q42] How many different newspaper subscriptions do members of your household purchase or receive free 
+by any other method, such as by email or the Internet? 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-32 
+98 ........DK 
+99 ........RF 
+54. [Q153A] IF (Q23=0, 98, 99 or Missing) AND (Q25R = 2,8,9, or Missing)): How many electronic newsletters 
+do members of your household receive in a typical week?  
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-97 
+98 ........DK 
+99 ........RF 
+Now I’m going to ask some questions about advertising.  
+55. [Q47] When members of your household receive advert ising material through the mail, do they . . . 
+1 ..........Usually read it 
+2 ..........Usually scan it 
+3 ..........Read some, don’t read others 
+4 ..........Usually don’t read it 
+8 ..........DK 
+9 ..........NA/RF 
+--- PDF PAGE 16 ---
+12 of 24 FINAL R e c r u i t m e n t  Q u e s t i o n n a i r e   2008 HOUSEHOLD DIARY STUDY 
+56. [Q51] Within the past 12 months, has anyone in your hous ehold ordered an article or product as a result of 
+receiving advertising, a catalog or other promotional material in the mail, including credit card 
+solicitations?  
+1 ......... Yes => CONTINUE 
+2 ......... No => GO TO Q53 
+8 ......... DK => GO TO Q53  
+9 ......... NA/RF => GO TO Q53  
+57. [Q52] Of those orders placed in the past 12 months, how many were made by… 
+RANGE 0 TO 80; VERIFY IF MORE THAN 60 
+[Q52A.]  Mail?  
+[IF NEEDED Again, this is as a result of receiving advertising, a catalog or other 
+promotional material in the mail, including credit card offers.]  
+[Q52B.]  Internet?  IF (Q23=0, 98, 99 or Missing) AND (Q25R = 2,8,9, or Missing)), DO NOT ASK 
+[Q52C.]  Phone?  
+[Q52D.]  In person? 
+[Q52E.]  By some other method?  
+IF 52A, 52B, 52C, 52D or 52E = DK/NOT SURE: Just give me your best estimate. 
+58. [Q53] How about in the last month, how many orders di d your household place as a result of receiving 
+catalogs or other promotional material in the mail, including credit card offers?   
+RANGE: 0-30 VERIFY IF MORE THAN 20. 
+00 ....... NONE  => GO TO Q50   
+98 ....... DK => GO TO Q50 
+99 ....... RF => GO TO Q50  
+IF DK/NOT SURE: Just give me your best estimate. 
+59. [Q54] Of the <Q53> orders in the last mo nth, how many were placed by . . .ORDER IS DIFFERENT 
+[Q54B] Mail  (VERIFY IF OVER 15, RANGE: 0-20) 
+[Q54C] Internet (VERIFY IF OVER 15, RANGE: 0-20)  
+IF (Q23=0, 98, 99 or Missing) AND (Q25R = 2,8,9, or Missing)), DO NOT ASK 
+[Q54A] Phone  (VERIFY IF OVER 20, RANGE: 0-30) 
+[Q54E] In person (VERIFY IF OVER 15, RANGE 0-20) 
+[Q54D] Some other method (VERIFY IF OVER 15, RANGE: 0-20) 
+98 ....... DK 
+99 RF 
+60. [Q50] Currently, the law does not allow anyone other than a U.S. Postal employee to place material in your 
+mailbox or slot.  How would you feel about changing the law to allow anyone to place material in 
+your mailbox or slot?  Do you… 
+1 ......... Prefer it 
+2 ......... Oppose it 
+3 ......... Not care one way or the other 
+8 ......... DK 
+9 ......... NA/RF 
+--- PDF PAGE 17 ---
+ 
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 13 of 24  
+61. [Q55R] In the last month, about how many personal purchases did your household make over the Internet?  
+NOTE: SKIP ALL THE INTERNET QUESTIONS IF ((Q23=0, 98, 99 or Missing) AND (Q25R = 2,8,9, or Missing)) 
+VERIFY IF OVER 100, RANGE: 0-200 
+998 ......DK 
+999 ......RF 
+IF Q55R = 0, 998, OR 999, SKIP TO Q177F  
+62. [Q177A] How many of these Internet purchases were ship ped and delivered to you, as opposed to being 
+delivered to you electronically (such as e-tickets, software, or a gift certificate for an online retailer)?   
+VERIFY IF OVER 100, RANGE: 0-200 
+998 ......DK 
+999 ......RF 
+If Q177A=0, 998, or 999 SKIP to 177E 
+63. [Q177B] Think about your most recent Internet purchase that was shipped and delivered to you. Was this 
+purchase delivered to your… 
+1 ..........Home address 
+2 ..........Work address 
+3 ..........School address 
+7 ..........OTHER, SPECIFY 
+8 ..........DK 
+9 ..........NA/RF 
+64. [Q177D] Which company delivered the merchandise? 
+1 ..........United States Postal Service (USPS) 
+2 ..........United Parcel Service (UPS) 
+3 ..........Fed-Ex 
+4 ..........DHL  
+7 ..........OTHER, SPECIFY 
+8 ..........DK 
+9 ..........NA/RF 
+--- PDF PAGE 18 ---
+14 of 24 FINAL R e c r u i t m e n t  Q u e s t i o n n a i r e   2008 HOUSEHOLD DIARY STUDY 
+65. [Q177C] Was your purchase delivered using… CHOICE CODES SHOULD BE SPECIFIC TO RETAILER 
+CHOSEN In Q177D; NEED TO ALL BE DIFFERENT CODE NUMBERS 
+IF 177D WAS USPS, CHOICES SHOULD BE: 
+ 
+01 ....... Express Mail (IF NEEDED: OVERNIGHT SERVICE, MOST LOCATIONS ARRIVE In 1 DAY, MOST 
+EXPENSIVE) 
+02 ....... Priority Mail (IF NEEDED: 2 TO 3 DAYS, COSTS LESS THAN EXPRESS) 
+03 ....... First Class Mail (IF NEEDED: REGULAR MAIL, CAN TAKE SEVERAL DAYS TO ARRIVE AT LOCATION) 
+04 ....... Parcel Post (IF NEEDED: SLOWER AND LESS EXPENSIVE THAN 1ST CLASS) 
+97 ....... OTHER, SPECIFY 
+98 ....... DK 
+99 ....... NA/RF 
+ 
+IF 177D WAS FedEx, CHOICES SHOULD BE: 
+05 ....... Overnight (IF NEEDED: TAKES 1 DAY TO MOST US LOCATIONS, MOST EXPENSIVE, GUARANTEED 
+ARRIVAL) 
+06 ....... 2-day (IF NEEDED: TAKES 2 DAYS, COSTS LESS THAN OVERNIGHT, GUARANTEED ARRIVAL) 
+10 ....... 3-day (IF NEEDED: TAKES 3 DAYS, COSTS LESS THAN 2-DAY, GUARANTEED ARRIVAL) 
+11 ....... Ground (IF NEEDED: LESS EXPENSIVE THAN OTHER METHODS, CAN TAKE SEVERAL DAYS, NO 
+GUARANTEE) 
+97 ....... OTHER, SPECIFY 
+98 ....... DK 
+99 ....... NA/RF 
+ 
+IF 177D WAS UPS, CHOICES SHOULD BE: 
+12 ....... Next-day Air (IF NEEDED: 1 DAY TO MOST US CITIES, MOST EXPENSIVE, GUARANTEED ARRIVAL) 
+13 ....... 2nd Day Air (IF NEEDED: TAKES 2 DAYS, COSTS LESS THAN OVERNIGHT, GUARANTEED ARRIVAL) 
+14 ....... Ground (IF NEEDED: LESS EXPENSIVE THAN OTHER METHODS, CAN TAKE SEVERAL DAYS, NO 
+GUARANTEE) 
+97 ....... OTHER, SPECIFY 
+98 ....... DK 
+99 ....... NA/RF 
+ 
+IF 177D WAS DHL, CHOICES SHOULD BE: 
+15 ....... Next Day (IF NEEDED: TAKES 1 DAY TO MOST US LOCATIONS, MOST EXPENSIVE, GUARANTEED 
+ARRIVAL) 
+16 ....... 2nd Day (IF NEEDED: TAKES 2 DAYS, COSTS LESS THAN OVERNIGHT, GUARANTEED ARRIVAL) 
+17 ....... Ground (IF NEEDED: LESS EXPENSIVE THAN OTHER METHODS, CAN TAKE SEVERAL DAYS, NO 
+GUARANTEE) 
+97 ....... OTHER, SPECIFY 
+98 ....... DK 
+99 ....... NA/RF 
+ 
+66. [Q177E] Earlier you stated your household made <Q55R> pe rsonal purchases over the Internet in the last 
+month.  Of these Internet purchases you stated <Q177A> were shipped and delivered to you.  In the 
+last month, how many personal purchases did you make over the Internet that were delivered 
+electronically?  
+IF NEEDED: Such as electronic tickets, software, services, etc. 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-97 
+98 ....... DK  
+99 ....... RF  
+--- PDF PAGE 19 ---
+ 
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 15 of 24  
+67A. [Q177F] When you make purchases, do you feel more secure providing personal information through the 
+Internet or through the U.S. Mail, or is it about the same? 
+NOTE: THE CHOICE IS BETWEEN THE INTERNET AND THE MAIL.  
+AN ANSWER OF ‘MORE SECURE’, OR ‘LESS SECURE’, ETC., IS NOT ACCEPTABLE. YOU MUST CLARIFY. 
+1 ..........Internet 
+2 ..........US Mail 
+3 ..........About the same 
+8 ..........DK 
+9 ..........RF 
+67B. [Q177G] When you make purchases, do you feel more secure providing personal information through the 
+Internet or making the transaction in person, or is it about the same? 
+NOTE: THE CHOICE IS BETWEEN THE INTERNET AND THE MAIL.  
+AN ANSWER OF ‘MORE SECURE’, OR ‘LESS SECURE’, ETC., IS NOT ACCEPTABLE. YOU MUST CLARIFY. 
+1 ..........Internet 
+2 ..........In-person 
+3 ..........About the same 
+8 ..........DK 
+9 ..........RF 
+68. [SCRP5] The Postal Service is interested in learning more about what makes up its mail volume.  Account 
+statements from banks and other financial companies represent a large portion of the mail. I’ll be 
+asking you some questions about the types of financial statements you receive, but please be assured 
+we are not collecting any specific financial information. As with everything in this survey, your 
+answers are completely confidential. 
+1 ..........Continue 
+69. [Q57] How many of your accounts are? 
+READ ITEMS 
+[Q57A] IRA or other retirement accounts  (RANGE: 0-20) 
+[Q57B] Bank, Savings & Loan, or credi t union accounts  (RANGE: 0-30) 
+[Q57C] Stock brokerage, commodity, mutual fund, or Money market accounts  (RANGE: 0-30) 
+98 ........DK 
+99 ........RF 
+IF NEEDED: We simply want to get a sense of the volume and types of mail you receive from 
+financial companies such as banks, credit cards, investment firms and similar organizations. We do 
+not ask any details about your personal financial information. 
+70. [Q58] How many of the following insurance policies do people in your household have?  Please exclude any 
+policies held through their jobs.   
+[Q58A] Property  (RANGE: 0-20) 
+[Q58B] Life  (RANGE: 0-16) 
+[Q58C] Health  (RANGE: 0-40) 
+[Q58D] Automobile  (RANGE: 0-50) 
+98 ........DK 
+99 ........RF 
+--- PDF PAGE 20 ---
+16 of 24 FINAL R e c r u i t m e n t  Q u e s t i o n n a i r e   2008 HOUSEHOLD DIARY STUDY 
+71. [Q59] In total, how many credit cards do people in your household have from . . . 
+READ ITEMS 
+[Q59A] Retail stores – Sears, JC Penny, Macy’s  (RANGE: 0-70) 
+[Q59B] Gasoline and oil companies  (RANGE: 0-12) 
+[Q59C] Bank credit cards, like Master Card and Visa;  Sponsor credit cards such as Target Visa or 
+American Airlines Master Card  (RANGE: 0-30) 
+[Q59D] Credit card companies like American Express and Diners Club  (RANGE: 0-10) 
+98 ....... DK 
+99 ....... RF 
+72. [Q60] The next set of questions are for classification pu rposes only.  The answers allow us to compare your 
+household to other households with similar characteristics.  Including yourself, how many people live 
+in your household?   
+PROBE FOR SPECIFIC NUMBER, RANGE: 1-16 
+01 ....... ONE => GO TO AGE 
+99 ....... RF 
+73. [Q65] How many adults, 18 years of age or older are in your household? 
+PROBE FOR SPECIFIC NUMBER, RANGE: 1-10 
+99 ....... RF 
+IF Q65 = Q60 BUT NOT 99, SKIP TO SCRP6  
+74. [Q61] How many of them are under age 6?   
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-9 
+99 ....... RF 
+75. [Q62] How many are between the ages of 6 and 12? 
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-6 
+99 ....... RF 
+76. [Q63] How many are between the ages of 13 and 17?  
+PROBE FOR SPECIFIC NUMBER, RANGE: 0-5 
+99 ....... RF 
+77. [SCRP6] The next questions concern the <Q65> person/people, that are 18 years and older that is/are in your 
+household.  Let’s begin with you.   
+1 ......... CONTINUE 
+--- PDF PAGE 21 ---
+ 
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 17 of 24  
+78. [AGE] What is your age?  
+01 ........18-21 
+02 ........22-24 
+03 ........25-34 
+04 ........35-44 
+05 ........45-54 
+06 ........55-64 
+07 ........65-69 
+08 ........70-74 
+09 ........75+ 
+99 ........NA/RF 
+79. [Q68] What is your marital status? 
+1 ..........Married   
+2 ..........Living as married   
+3 ..........Single, never been married   
+4 ..........Divorced   
+5 ..........Separated   
+6 ..........Widowed   
+9 ..........NA/RF 
+80. [Q69] Are you currently . . . 
+1 ..........Employed full-time => GO TO Q72 
+2 ..........Employed part-time => GO TO Q72 
+3 ..........Retired, or   
+4 ..........Not employed 
+9 ..........NA/RF 
+81. [Q70] Have you been employed within the last 12-months? 
+1 ..........Yes => GO TO Q72 
+2 ..........No   => IF Q69=3 AND Q70=2 SKIP TO Q79 
+9 ..........NA/RF 
+82. [Q71] Are you currently . . . 
+1 ..........A student => GO TO Q79 
+2 ..........A homemaker => GO TO Q79 
+3 ..........Disabled => GO TO Q79 
+4 ..........Temporarily laid off => GO TO Q79 
+5 ..........Retired => GO TO Q79 
+6 ..........Other, specify => GO TO Q79 
+9 ..........NA/RF => GO TO Q79 
+83. [Q72] Which category best des cribes your occupation or the last job you held? 
+01 ........Professional or managerial 
+02 ........Sales, office, administrative including clerical, technical 
+03 ........Craftsman/foreman, mechanic 
+04 ........Service worker – food, health, cleaner, yard 
+06 ........Construction, extraction or maintenance 
+07 ........Production, transportation or material moving 
+05 ........Farming, fishing or forestry  
+97 ........Other, SPECIFY 
+99 ........NA/RF 
+--- PDF PAGE 22 ---
+18 of 24 FINAL R e c r u i t m e n t  Q u e s t i o n n a i r e   2008 HOUSEHOLD DIARY STUDY 
+84. [Q79] What was the last grade you completed in school? 
+1 ......... 8th grade or less 
+2 ......... Some high school 
+3 ......... High school graduate 
+4 ......... Some college   
+5 ......... Technical school graduate 
+6 ......... College graduate 
+7 ......... Post graduate work 
+9 ......... NA/RF 
+85. [Q81A] Are you of Spanish/Hispanic/Latino Origin? 
+1 ......... YES 
+2 ......... NO 
+9 ......... NA/RF 
+86. [Q81B] Which of the following do you consider yourself/this household member to be? 
+1 ......... White/Caucasian 
+2 ......... Black/African American 
+3 ......... Asian 
+4 ......... American Indian and Alaska Native 
+5 ......... Native Hawaiian and Other Pacific Islander 
+7 ......... OTHER 
+8 ......... DK 
+9 ......... NA/RF 
+87. [Q82] Would you say you are one of the heads of the household? 
+1 ......... Yes 
+2 ......... No 
+9 ......... NA/RF 
+[PREND] END OF THE PERSON ROSTER YOU HAVE FINISHED <Q65>  
+IN A <Q63> PERSON HOUSEHOLD (13 OR OLDER)   
+YOU MUST COLLECT INFO FOR ALL <Q63> PERSONS.  
+1 ......... GO TO NEXT PERSON   
+2 ......... DONE WITH HH MEMBERS   
+88. [Q84] For statistical purposes, was your total household income last year, before taxes and including all 
+household members, above or below $50,000?   
+1 ......... Under $50,000 a year 
+2 ......... Over $50,000 a year 
+8 ......... DK 
+9 ......... RF 
+IF NEEDED or IF Q84 = 9: I understand if you feel uncomfortable answering this question. 
+However, we only ask about income to ensure all households are equally represented in our survey. 
+Your answer is completely confidential and only used as part of this research study in combination 
+with other households across the country. Was your household income last year above or below 
+$50,000? 
+IF RF A 2ND TIME, CONTINUE WITH THE SURVEY 
+IF THEY PROVIDE AN ANSWER, BE SURE TO SAY THANK YOU! 
+--- PDF PAGE 23 ---
+ 
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 19 of 24  
+89. [Q85] IF UNDER $50K: Stop me when I say an income  category that best matches your household 
+income… 
+01 ........Under $7,000 a year 
+02 ........$7,000 - $9,999 a year 
+03 ........$10,000 - $14,999 a year 
+04 ........$15,000 - $19,999 a year 
+05 ........$20,000 - $24,999 a year 
+06 ....... $25,000 - $34,999 a year 
+07 ....... $35,000 - $49,999 a year 
+98 ....... DK 
+99 ....... RF
+IF Q85 = 99: IF NEEDED: This more specific detail is used to analyze the data and will not be used 
+for any purpose outside this study. 
+IF RF A 2ND TIME, CONTINUE WITH THE SURVEY 
+IF THEY PROVIDE AN ANSWER, BE SURE TO SAY THANK YOU! 
+90. [Q86] IF OVER $50K: Stop me when I say an income ca tegory that best matches your household income… 
+08 ........$50,000 - $64,999 a year 
+09 ........$65,000 - $79,999 a year 
+10 ........$80,000 - $99,999 a year 
+11 ........$100,000 - $119,999 a year 
+12 ....... $120,000 - $149,999 a year 
+13 ....... $150,000 and over 
+98 ....... DK 
+99 RF 
+ 
+IF Q86 = 99: IF NEEDED: This more specific detail is used to analyze the data and will not be used for any 
+purpose outside this study. 
+91. [Q66] How many workers earning at least $5,000 per year are there in you household?   
+PROBE FOR SPECIFIC NUMBER, RANGE 0-11 
+98 ........DK 
+99 ........RF 
+92. [Q87] Do you own or rent your home?   
+1 ..........Own 
+2 ..........Rent 
+9 ..........NA/RF 
+93. [Q88] How long have you lived in your present home?   
+PROBE FOR SPECIFIC NUMBER, RANGE 0-80 
+IF LESS THEN ONE YEAR, ENTER ZERO 
+98 ........DK 
+99 ........RF 
+94. [Q89] Which of the following best describes your home? 
+1 ..........Single family detached home  
+2 ..........Apartment or condominium  
+3 ..........Mobile home 
+6 ..........Duplex or townhouse 
+9 ..........RF 
+95. [Q91] ASK IF Q89 = 2, 6: About how many units are connected to the property? 
+1 ..........1 
+2 ..........2 
+3 ..........3-4 
+4 ......... 5-9 
+5 ......... 10+ 
+9 ......... RF 
+--- PDF PAGE 24 ---
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 20 of 24  
+96. [PHLNS] How many telephone lines does your household have?   
+PROBE FOR SPECIFIC NUMBER, RANGE 0-20 
+00 ....... NONE, CELL PHONE ONLY => GO TO Q92 
+01 ....... ONE => GO TO Q92 
+98 ....... DK => CONTINUE 
+99 ....... RF => CONTINUE 
+97. [DEDIC] How many of these <PHLNS> telephone lines are used exclusively for business, fax, or computer 
+modems? 
+IF PHLNS WAS 98 OR 99, ASK: “How many of your household’s telephone lines are used exclusively 
+for business, fax, or computer modems?” 
+PROBE FOR SPECIFIC NUMBER, RANGE 1-20 
+00 ....... NONE 
+98 ....... DK 
+99 ....... RF 
+98. [Q92] Do you or any member of your household have a business that is operated from home? 
+1 ......... YES 
+2 ......... NO => GO TO Q96 
+8 ......... DK => GO TO Q96 
+9 ......... RF => GO TO Q96  
+99. [Q93] About how many pieces of mail does the business receive each week?   
+PROBE FOR SPECIFIC NUMBER, RANGE 0-75, VERIFY RESPONSE IF ZERO 
+98 ....... DK 
+99 ....... RF 
+100. [Q94] About how many pieces of mail does the business send each week?   
+PROBE FOR SPECIFIC NUMBER, RANGE 0-75, VERIFY RESPONSE IF ZERO 
+98 ....... DK 
+99 ....... RF 
+101. [Q95] Do you do a lot of business work from your home? 
+1 ......... YES 
+2 ......... NO 
+9 ......... NA/RF 
+102. [SCRP7] Remember, when you do your household diary, we are interested only in household mail, so 
+please do not include this business mail in your diary.   
+103. [Q96] Do you plan to send out a large number of items like party invitations, wedding invitations, club 
+news, etc, during the next three weeks? 
+1 ......... YES 
+2 ......... NO 
+9 ......... NA/RF 
+--- PDF PAGE 25 ---
+ 
+2008 HOUSEHOLD DIARY STUDY  FINAL Recruitment Questionnaire 21 of 24  
+104. [Q97] As I mentioned earlier in our conversation, the second part of this study involves daily diaries. In 
+them, you answer detailed questions about the mail your household sends and receives for 7 days. 
+You will also receive your choice of either 100 First-Class stamps or a $30 check for completing the 
+diaries. [IF NEEDED] How long it takes depends on how much mail you receive. The first day of 
+your diary-recording week will take the longest as you become more familiar with the survey. After 
+that, on average, it should take about 3-5 minutes for each piece of mail. However, we have a USPS 
+hotline available to provide you with step-by-step instructions if needed, and to answer any 
+questions you may have. IF ASKED: That toll free number is 888-441-8777.  
+1 ..........Continue 
+9 ..........RF => GO TO INT03 
+105. [GIFT] Which gift would you like to receive for completing the diaries?   
+2 ..........100 First-Class stamps 
+3 ..........Thirty dollars 
+106. [ASSNC] Okay, we’re almost finished. We 'd like for you to answer questions about your household's mail 
+for the week of READ DATE.  Is that a good week for you?  IF NOT, THEN OFFER NEXT ASSN 
+WEEK.  So let me confirm that you understand we'll be mailing you a set of household diaries that 
+you'll complete during your assignment week, which is READ DATE.  In appreciation for completing 
+those diaries, we will send you the gift you requested in about 10-12 weeks once we receive your 
+completed diaries.  Do you have any questions for me about the diaries?  ANSWER QUESTIONS AS 
+NEEDED AND CONTINUE 
+1 ..........CONTINUE 
+[RFNAM/RLNAM] So that we may mail the survey materials to you, please tell us what is your full name? 
+PLEASE ENTER ONLY THE FIRST AND LAST NAME OF THE RESPONDENT.  
+DO NOT ENTER MIDDLE INITIAL, MR. OR MRS. 
+FOR PROCESSING PURPOSES, IT IS IMPORTANT THAT WE HAVE ONLY ONE FIRST AND ONE LAST NAME  
+PER HOUSEHOLD. ANY ADDITIONAL INFORMATION WILL DELAY PROCESSING. 
+[VPHON]  The phone number that we have fo r you is <PHONE>. Is that correct?  
+IF NEEDED – TYPICALLY ONLY NEED THIS KIND OF TERMINATION AT END OF A 
+QUARTER; SEE CURRENT PROGRAM AND MODEL THIS TO MATCH 
+IF NOT OKAY, SAY: I’m sorry, but your household was selected to participate the week of ________.  
+I’m sorry your household is not eligible, but thank you very much for your time and participation.  
+107. [MATRL] Would you prefer your diary materials in English or Spanish? 
+ASK ONLY IF ANY PORTION OF SURVEY WAS CONDUCTED IN SPANISH.   
+(IF ALL OF SURVEY WAS CONDUCTED IN ENGLISH, PICK “ENGLISH.”) 
+1 ..........ENGLISH 
+2 ..........SPANISH 
+108. [DIFHP] A few days after we mail your diaries, we want to call to make sure you’ve received them and also 
+to remind you of the dates we need you to track your mail for.  When we do this, should we call you 
+at this number or is there a different number where you would prefer to be called?   
+READ THE NUMBER TO RESPONDENT 
+1 ..........YES, THE NUMBER IS OK  
+2 ..........NO, CALL DIFFERENT NUMBER => NEED TO COLLECT DIFFEENT NUMBER 

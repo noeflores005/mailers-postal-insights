@@ -1,0 +1,1330 @@
+--- PDF PAGE 1 ---
+John Mazzone - Financial Economist
+Samie Rehman - Manager, Revenue and Volume Forecasting
+Finance and Planning Department
+United States Postal Service Headquarters
+Washington, D.C. 20260-5323
+May 2013, Contract #102592-02-B-1502
+NuStats
+206 Wild Basin Road, Suite A-300
+Austin, Texas 78746
+The Household 
+Diary Study
+Mail Use & Attitudes 
+in FY 2012
+The Household 
+Diary Study
+Mail Use & Attitudes 
+in FY 2012
+475 L’Enfant Plaza, SW RM 8441
+--- PDF PAGE 2 ---
+ 
+--- PDF PAGE 3 ---
+2012 HOUSEHOLD DIARY STUDY Table of Contents  
+Table of Contents 
+E Executive Summary 1 
+Background 1 
+Overview  1 
+Mail Markets 1 
+1 Chapter 1:  Introduction – Volumes & Trends 5  
+The Survey 5 
+U.S. Postal Service Volumes 5  
+Mail Flows 10 
+Household Mail 10 
+Classes and Markets 11  
+Report Organization 12 
+2 Chapter 2:  Profile of Mail Usage 13  
+Introduction 13 
+Mail Volume and Demographics 13  
+Characteristics of Higher- and Lower-Volume Households 14  
+Demographic Characteristics of U.S. Households 15  
+Use of the Post Office 18  
+3 Chapter 3:  Correspondence 21  
+Introduction 21 
+Correspondence Mail Volume 21  
+Correspondence Mail and Household Characteristics 21  
+Personal Correspondence 25  
+Business Correspondence 28  
+4 Chapter 4:  Transactions 29  
+Introduction 29 
+Transactions Mail Volume 29  
+Transactions Mail and Household Characteristics 30  
+Bill Payment 32 
+Bills and Statements Received 36  
+5 Chapter 5:  Advertising Mail 39  
+Introduction 39 
+The Advertising Market 39  
+Advertising Mail Volumes 40  
+Advertising Mail and Household Characteristics 41  
+Senders of Advertising Mail 43  
+Attitudes toward Advertising 44  
+Effectiveness of Advertising Mail 46  
+--- PDF PAGE 4 ---
+ Table of Contents 2012 HOUSEHOLD DIARY STUDY  
+6 Chapter 6:  Periodicals 47  
+Introduction 47 
+The Periodicals Market 47  
+Advertising’s Impact on Periodicals 48  
+Household Periodicals Volume 48  
+Periodicals Mail and Household Characteristics 50  
+Subscription Type 52 
+Volume Drivers 53 
+7 Chapter 7:  Packages 55  
+Introduction 55 
+The Package Market 55 
+Postal Service Package Volume 57  
+Packages and Household Characteristics 59  
+Household Package Contents 62  
+A Appendix A:  Comparative Tables 1987, 2011 & 2012 
+Concordance 
+A1. Total Mail Overview 
+A2. First-Class Mail 
+A3. Standard Mail (A) 
+A4. Direct Mail Advertising 
+A5. Periodicals 
+A6. Packages & Expedited (This section has been redacted) 
+A7. Electronic Communications 
+A8. Annual Trends 
+B Appendix B:  Methodology 
+Study Design and Methodology 
+Sample Design 
+Data Collection Method 
+Data Processing 
+Sample Demographic Profile 
+Data Weighting and Expansion 
+C Appendix C:  Survey Instruments 
+C1. Recruitment Questionnaire 
+C2. Diary Package 
+ Advance Letter 
+ Diary Package Cover Letter 
+ Instruction Booklet 
+ Photo Quick Start 
+ Question Booklet 
+ Answer Booklet 
+ Daily Envelope 
+ Gift Selection Form 
+ "I'm Done. . . ." Card 
+--- PDF PAGE 5 ---
+2012 HOUSEHOLD DIARY STUDY L i s t  o f  T a b l e s  a n d  F i g u r e s   
+List of Tables and Figures 
+E Executive Summary 1 
+Table E.1:  Mail Received and Sent by Households 1  
+Table E.2:  Household Mail Volume Received and Sent by Market Served 2  
+Table E.3:  Advertising by Mail Class 2  
+Table E.4:  Periodical Type Received 2  
+Table E.5:  Packages Received and Sent via the U.S. Postal Service 3  
+1 Chapter 1:  Introduction – Volumes & Trends 5  
+Table 1.1:  Total Mail Volume: FY 2010, 2011, and 2012 6  
+Table 1.2:  Total Mail: Revenue, Pieces, and Weight by Shape, FY 2012 7  
+Table 1.3:  Total Mail: Revenue and Weight per Piece by Shape, FY 2012 9  
+Table 1.4a:  Total Domestic Mail Flows 10  
+Table 1.4b:  Total Domestic Mail Flows 10  
+Table 1.4c:  Domestic Mail Flows per Household per Week 10  
+Table 1.5:  Mail Received and Sent by Households 10  
+Table 1.6:  Pieces Received and Sent per Household 11  
+Table 1.7:  Mail Received and Sent by Households 11  
+2 Chapter 2:  Profile of Mail Usage 13  
+Table 2.1:  Mail Volume and Demographics Average Annual Growth, 1981-2012 13  
+Table 2.2:  Characteristics of Higher- and Lower-Mail-Volume Households 15  
+Table 2.3:  Education of Higher- and Lower-Mail-Volume Households 15  
+Table 2.4:  Households by Income and Education 16  
+Table 2.5:  Households by Income and Age 16  
+Table 2.6:  Households by Number of Adults 16  
+Table 2.7:  Households by Size 17  
+Table 2.8:  Households by Type of Internet Access 17  
+Figure 2.1a:  Internet Access by Income and Type 17  
+Figure 2.1b:  Internet Access by Age and Type 18  
+Figure 2.2:  Broadband Subscribers 18  
+Figure 2.3:  Household Visits to Post Office in Past Month 19  
+3 Chapter 3:  Correspondence 21  
+Table 3.1:  First-Class Correspondence Mail Sent and Received by Sector 21  
+Table 3.2:  Correspondence Mail Received by Income and Education 22  
+Table 3.3:  Correspondence Mail Sent by Income and Education 22  
+Table 3.4:  Correspondence Mail Received by Income and Age 23  
+Table 3.5:  Correspondence Mail Sent by Income and Age 23  
+Table 3.6:  Correspondence Mail Received and Sent by Household Size 24  
+Table 3.7:  Correspondence Mail Received and Sent by Number of Adults in Household 24  
+Table 3.8:  Correspondence Mail Received and Sent by Type of Internet Access 24  
+Table 3.9:  Income and Education by Type of Internet Access 24  
+Table 3.10:  Personal Correspondence Sent and Received 25  
+--- PDF PAGE 6 ---
+ L i s t  o f  T a b l e s  a n d  F i g u r e s  2012 HOUSEHOLD DIARY STUDY  
+Figure 3.1:  Personal Correspondence Sent by Income Group 26  
+Figure 3.2:  Personal Correspondence Sent by Age Cohort 26  
+Figure 3.3:  Holiday Greetings Sent by Age and Income, FY 2010, 2011, and 2012 27  
+Table 3.11:  Personal Correspondence by Type of Internet Access 27  
+Table 3.12: Business Correspondence Type (Sent and Received) by Sector (Millions of Pieces) 28  
+4 Chapter 4:  Transactions 29  
+Table 4.1:  Transactions Mail Sent and Received 29  
+Table 4.1:  Transactions Mail Sent and Received (cont.) 30  
+Table 4.2:  Transactions Mail Received by Income and Education 30  
+Table 4.3:  Transactions Mail Sent by Income and Education 31  
+Table 4.4:  Transactions Mail Received by Income and Age 31  
+Table 4.5:  Transactions Mail Sent by Income and Age 31  
+Table 4.6:  Transactions Mail Received and Sent by Household Size 31  
+Table 4.7:  Transactions Mail Received and Sent by Number of Adults in Household 32  
+Table 4.8:  Transactions Mail Received and Sent by Internet Access 32  
+Table 4.9:  Income and Education by Type of Internet Access 32  
+Table 4.10:  Bill Payment by Method, FY 2010, 2011, and 2012 33  
+Figure 4.1:  Monthly Average Household Bill Payment by Method 33  
+Figure 4.2:  Average Monthly Automatic Deductions per Household 34  
+Table 4.11:  Types of Bills Paid by Mail 34  
+Figure 4.3:  Average Bills Paid per Month by Income and Age 35  
+Figure 4.4:  Bill Payment Method by Age 35  
+Table 4.12:  Bill and Statement Volumes by Industry 36  
+Table 4.13:  Average Monthly Bills and Statements Received by Method 37  
+5 Chapter 5:  Advertising Mail 39  
+Table 5.1:  U.S. Advertising Spending Growth by Medium, 2010-2012 39  
+Figure 5.1:  Direct Mail as a Share of Total Advertising, 1991-2012 39  
+Table 5.2:  Advertising Mail by Mail Classification 40  
+Table 5.3:  Advertising Mail by Mail Classification 41  
+Table 5.4:  Advertising Mail Received by Income and Education 41  
+Table 5.5:  Advertising Mail Received by Income and Age 42  
+Table 5.6:  Advertising Mail Received by Size of Household 42  
+Table 5.7:  Advertising Mail Received by Number of Adults 42  
+Table 5.8:  Advertising Mail Received by Internet Access 43  
+Table 5.9:  Income and Education by Type of Internet Access 43  
+Figure 5.2:  Advertising Volumes for First-Class and Standard Mail Advertising by Sender Type 43  
+Figure 5.3:  Advertising Mail Behavioral Trends, FY 1987, 2010, 2011, and 2012 44  
+Figure 5.4:  Treatment of Standard Mail by Type 44  
+Figure 5.5:  Treatment of Standard Advertising Mail by Number of Standard Mail Pieces 
+Received per Week 45  
+Table 5.10: Intended Response to Advertising Mail by Class 46  
+Figure 5.6:  Weekly Number of Intended Responses by Income 46  
+  
+--- PDF PAGE 7 ---
+2012 HOUSEHOLD DIARY STUDY L i s t  o f  T a b l e s  a n d  F i g u r e s   
+6 Chapter 6:  Periodicals 47  
+Figure 6.1:  Periodicals Mail Volume per Person, 1971-2012 47  
+Figure 6.2:  Real Per-Capita Magazine Advertising Spending, 1980-2012 48  
+Table 6.1:  Periodical Type by Year 49  
+Figure 6.3:  Newspaper Circulation, 1970-2011* 49  
+Figure 6.4:  Daily Newspaper Readership, 1987-2012 50  
+Table 6.2:  Periodicals by Income and Education 50  
+Table 6.3:  Periodicals by Income and Age 51  
+Table 6.4:  Periodicals by Size of Household 51  
+Table 6.5:  Periodicals by Number of Adults in Household 51  
+Table 6.6:  Periodicals by Type of Internet Access 51  
+Table 6.7:  Income and Education by Type of Internet Access 51  
+Figure 6.5:  Subscription Type by Year 52  
+Table 6.8:  Periodicals by Sender Type 52  
+Figure 6.6:  Number of Periodicals Received per Week by Households by Income Group 53  
+7 Chapter 7:  Packages 55  
+Table 7.1:  Total Package Market Volume Growth 56  
+Figure 7.1:  Package Delivery Market Segment Share 56  
+Table 7.2:  Postal Service Sent and Received Packages, FY 2010, 2011, and 2012 58  
+Figure 7.2:  Postal Service Sent and Received Packages by Household Income 59  
+Table 7.3:  Postal Service Received Packages by Income and Age 59  
+Table 7.4:  Postal Service Sent Packages by Income and Age 59  
+Table 7.5:  Postal Service Received Packages by Income and Education 60  
+Table 7.6:  Postal Service Sent Packages by Income and Education 60  
+Table 7.7:  Postal Service Received and Sent Packages  by Size of Household 61  
+Table 7.8:  Postal Service Received and Sent Packages  by Number of Adults in Household 61  
+Table 7.9:  Received and Sent Packages by Household Internet Access 61  
+Table 7.10:  Income and Education by Type of Internet Access 61  
+Table 7.11:  Contents of Postal Service Sent and Received Packages 62  
+--- PDF PAGE 8 ---
+
+--- PDF PAGE 9 ---
+2012 HOUSEHOLD DIARY STUDY Executive Summary 1  
+Executive Summary 
+This report documents the findings of the United 
+States Postal Service’s Household Diary Study 
+(HDS) for Fiscal Year (FY) 2012. The three main 
+study purposes are to: 
+• Measure the mail sent and received by U.S. 
+households,  
+• Provide a means to track household mail trends 
+over time, and  
+• Make comparisons of mail use between different 
+types of households.  
+The report examines these trends in the context of 
+changes and developments in the wider markets for 
+communications and package delivery. 
+Background 
+The Household Diary Study survey, fielded 
+continuously since 1987, aims to collect information 
+on household use of the mail and how that use 
+changes over time. The survey collects household 
+information on demographics, lifestyle, attitudes 
+toward mail and advertising, bill payment behavior, 
+and use of the Internet and other information 
+technologies. 
+The FY 2012 report covers Government Fiscal Year 
+2012, with comparisons to 2010, 2011, and other 
+years, as appropriate. 
+The Household Diary Study collects information 
+on household mail use and provides  
+a look at how that use changes over time. 
+Overview 
+In 2012, U.S. households received 121.4 billion 
+pieces of mail, and sent 14.8 billion, as seen in Table 
+E.1. Mail sent or received by households constituted 
+83 percent of total mail in FY 2012. Fifty-seven 
+percent of the mail households received was sent 
+Standard Mail. Only three percent of household 
+mail was sent between households; the rest was 
+sent between households and non-households. 
+Table E.1:  
+Mail Received and Sent by Households 
+ (Billions of Pieces) 
+Mail Classification Received Sent 
+First-Class Mail 45.5 14.4 
+Standard Regular Mail 55.8 — 
+Standard Nonprofit Mail 12.8 — 
+Periodicals 5.1 — 
+Package & Shipping 
+Services * 2.3 0.4 
+Total 121.4 14.8 
+Household to Household 4.5 
+Total Mail Received and 
+Sent by Households 131.7 
+FY 2012 RPW Total * 159.6 
+Non-household to  
+Non-household Residual 27.9 
+Unaddressed 1.0 — 
+Source:  HDS Diary Sample, FY 2012. 
+Note:  Totals may not sum due to rounding. 
+* Includes First-Class and Standard Mail packages. 
+Mail Markets 
+The Household Diary Study examines mail by the 
+markets it serves. This design cuts across classes, 
+but provides a foundation for understanding mail 
+flows and the marketplace changes that affect them. 
+Table E.2 shows the volume of household mail by 
+market for 2010 through 2012. 
+Thirty five percent of household mail contains 
+correspondence and transactions, a share that is 
+unchanged from 2011. In terms of volume, total 
+correspondence fell 6.3 percent compared to 2011. 
+Since 2002, correspondence fell 38 percent. In part, 
+the decline in correspondence is a continuation of 
+long-term trends, but it is also strongly related to 
+changing demographics and new technologies. 
+Younger households send and receive fewer pieces 
+of correspondence mail because they tend to be early 
+adaptors of new and faster communication media 
+such as e-mails, social networking, and smart 
+phones. 
+--- PDF PAGE 10 ---
+2  Executive Summary 2012 HOUSEHOLD DIARY STUDY  
+Table E.2:  
+Household Mail Volume Received and Sent by Market Served 
+(Billions of Pieces) 
+Market 2010 2011 2012 
+Correspondence 12.9 12.6 11.8 
+Transactions 37.6 35.6 34.3 
+Advertising 83.5 85.0 79.6 
+Periodicals 5.5 5.4 5.1 
+Packages 3.6 4.0 3.3 
+Unclassified 4.7 3.9 3.6 
+Total 141.2 139.1 131.7 
+Source:  HDS Diary Sample, FY 2010, 2011, and 2012. 
+Notes:   
+Correspondence and Transactions include 6.1 billion pieces of First-Class 
+advertising-enclosed mail (excluded from totals). 
+Package volumes include ground packages and expedited, as well as  
+0.8 billion pieces of CD/DVD rentals. 
+In 2012, only 40 percent of all bills were 
+paid by mail. 
+Electronic alternatives also affect transactions mail 
+volume. Over time, automatic deduction and online 
+bill pay account for a growing share of household 
+bill payments. Compared to 2002, the percentage of 
+bills paid by electronic methods increased from 17 
+percent to 56 percent in 2012. In contrast, bills paid 
+by mail decreased from 75 percent to 40 percent of 
+total payments over the same period of time.  In-
+person payments decreased from 8 percent in 2002 
+to 4 percent in 2012. Similarly, the Internet has 
+contributed to some decline in the share of bills and 
+statements households received through the mail. 
+Bills and statements received online continue to 
+grow at a fast pace, albeit from a relatively small 
+base (in 2012 households received an average of 1.7 
+pieces of bills and statements online, compared to 
+13.5 pieces in the mail). 
+Advertising mail represented well over half (60 
+percent) of all mail received by households in 2012. 
+As shown in Table E.3, 86 percent of all advertising 
+mail received by households is Standard Mail (68.6 
+billion pieces). The remainder consists of First-Class 
+Mail; either stand-alone advertising (4.9 billion 
+pieces), or advertising-enclosed pieces that are sent 
+along with other matter (6.1 billion pieces).  
+Over time, the data show a steady decline in the 
+share of First-Class advertising mail, from 21 
+percent in 2002 to only 14 percent in 2012. 
+Table E.3:  
+Advertising by Mail Class 
+Mail Classification Volume 
+(Billions) 
+Percent of 
+Total 
+Advertising 
+First-Class Advertising 11.0 14% 
+Standard Regular Mail 55.8 70% 
+Standard Nonprofit Mail 12.8 16% 
+Total Advertising Mail 79.6 100% 
+Source:  HDS Diary Sample, FY 2012. 
+As shown in Table E.4, households received 5.1 
+billion Periodicals via mail in 2012, less than in 
+both 2010 and 2011.  More than three-quarters of 
+these were magazines. Newspapers are only 15 
+percent of total Periodicals, down from 35 percent in 
+1987. Contributors to the decline in newspaper 
+volumes were lower circulation and readership 
+levels, as well as a strong growth of the Internet as 
+an alternative delivery method over the past decade. 
+Table E.4:  
+Periodical Type Received 
+Mail Classification Volume 
+(Billions) 
+Percent of 
+Total 
+Periodicals 
+Newspapers 0.8 15% 
+Magazines 3.9 77% 
+Unclassified 0.4 8% 
+Total Periodicals 5.1 100% 
+Source:  Household Diary Study, FY 2012. 
+In 2012, households received 2.9 billion and sent 0.5 
+billion packages. Compared to 2011, total packages 
+sent and received decreased 17 percent, with most 
+of the decline coming from CD/DVD rentals included 
+in First-Class packages for this report.  Excluding 
+0.8 billion pieces of CD/DVD rentals, total packages 
+sent and received increased 6.7 percent.  In general, 
+delivery from mail order and Internet retailers is an 
+important driver of package volume. While the HDS 
+data is not designed to quantify this, there are 
+indications that online auction sites (like eBay) are 
+responsible for some of the recent increase in 
+packages sent by households. 
+--- PDF PAGE 11 ---
+2012 HOUSEHOLD DIARY STUDY Executive Summary 3  
+Table E.5:  
+Packages Received and Sent via the U.S. Postal Service 
+(Millions of Pieces) 
+Mail Classification 
+2012 
+Received Sent 
+Number Percent Number Percent
+First-Class Mail 1,077 38% 402 75% 
+Expedited 360 13% 70 13% 
+Standard Mail 513 18% — — 
+Package & Shipping 
+Services 791 28% 65 12% 
+Unclassified 106 4% 0 0% 
+Total Packages 2,847 100% 537 100% 
+Source:  HDS Diary Sample, FY 2012. 
+Notes:  
+Totals may not sum due to rounding. 
+Expedited includes Priority Mail and Express Mail. 
+First-Class packages include 0.8 billion pieces of CD/DVD rentals sent to and 
+received from Netflix, Blockbuster, etc., reported in First-Class Mail letters in 
+Tables E.1, 1.5, and 1.6. 
+ 
+--- PDF PAGE 12 ---
+
+--- PDF PAGE 13 ---
+2012 HOUSEHOLD DIARY STUDY C h a p t e r  1 :   I n t r o d u c t i o n – V o l u m e s  &  T r e n d s  5 
+Chapter 1:  Introduction – Volumes & Trends 
+The United States Postal Service Household Diary 
+Study (HDS) Report documents the findings of the 
+Fiscal Year (FY) 2012 study. The HDS measures the 
+mail sent and received by U.S. households, tracks 
+household mail trends, and compares mail use 
+between different types of households.  
+The Household Diary Study  
+provides a means to track  
+household mail trends over time.  
+The Survey 
+The Household Diary Study survey, fielded 
+continuously since 1987, aims to collect information 
+on household use of the mail and how that use 
+changes over time. The survey collects household 
+information on:  
+• Volumes of mail sent and received, 
+• Demographics, 
+• Attitudes toward mail and advertising, 
+• Bill payment behavior, and 
+• Use of the Internet and other information 
+technologies. 
+These data are used for market research, 
+forecasting, and strategic planning within the 
+Postal Service. 
+The Survey Consists of Two Parts: 
+1) An entry, or recruitment interview, 
+conducted by phone or Web, collects 
+demographic and attitudinal information from 
+about 8,500 households.  
+2) These households then receive a mail diary, 
+which collects information on the mail the 
+household sends and receives in a one-week 
+period. Annually, about 5,200 households 
+successfully complete the diary. 
+The data generated by these two instruments are 
+the basis of the analysis in this report. 
+The HDS FY 2012 report covers the period from 
+September 25, 2011, through September 28, 2012, 
+roughly equivalent to the Government Fiscal Year 
+(GFY) used by the Postal Service. Data from FY 
+2010 and FY 2011 are also reported on a GFY basis.  
+U.S. Postal Service Volumes 
+Serving a nation containing five percent of the 
+world’s population, according to the Universal 
+Postal Union, the Postal Service delivers over 40 
+percent of the world’s mail. The Postal Service 
+delivered 159.9 billion pieces of mail in FY 2012—a 
+decrease of 8.4 billion pieces, or 5.0 percent, from 
+2011. 
+In 2012, mail volumes were negatively impacted by 
+the continuing migration of transaction and 
+correspondence mail to the Internet and other 
+electronic alternatives.  Additionally, the sluggish 
+economic recovery provided little or no boost to mail 
+volumes. 
+Standard Mail volume, consisting mostly of 
+advertising material, declined 5.8 percent (about 5.0 
+billion pieces) from 2011 to 2012, driven by a weak 
+market for traditional advertising and a fragile 
+economy. 
+In 2012, First-Class Mail volume fell 5.6 percent 
+(about 4 billion pieces), continuing a long downward 
+trend that began 2001. Ongoing diversion of 
+correspondence and transaction mail to electronic 
+alternatives and the weak economy were key 
+contributors to the decline. First-Class Single-Piece 
+letters and cards, impacted mostly by the growing 
+use of online bill payments and emails, fell 8.1 
+percent from 2011 to 2012. Presort letters and cards 
+(which include most of the advertising material that 
+is sent First-Class) fell 3.7 percent from the 
+combined impact of electronic diversion and a 
+sluggish economy.  
+The Postal Service estimates the revenues, volumes, 
+and weight of mail pieces going through the postal 
+network by using a combination of statistical 
+sampling systems, mailing statements, and 
+accounting data. These data are published in the 
+Revenue, Pieces, and Weight (RPW) Reports.  
+--- PDF PAGE 14 ---
+6 C h a p t e r  1 :   I n t r o d u c t i o n – V o l u m e s  &  T r e n d s  2012 HOUSEHOLD DIARY STUDY  
+Table 1.1 presents the RPW volumes for FY 2012, 
+along with data for FY 2011 and FY 2010.  
+Table 1.2 reports revenue, pieces, and weight data 
+by class and shape for FY 2012. 
+• The letters column heading includes postcards 
+and refers to pieces that are less than 11.5 
+inches wide by 6.125 inches tall and less than 
+.25 inches thick. 
+• Flats consist of pieces that are greater than 
+11.5 inches wide, 6.125 inches tall, or .25 inches 
+thick, but less than 12 by 15 by .75 inches. 
+• Parcels are pieces that are larger than 12 by 15 
+inches, or thicker than .75 inches. 
+Because of the difficulty involved in recording mail-
+piece characteristics in the Household Diary, these 
+categories do not correspond precisely to the shape 
+categories used by HDS respondents. 
+Table 1.3 is derived from Table 1.2 and shows the 
+revenue per piece and weight per piece for each 
+subclass of mail by shape. 
+Table 1.1:  
+Total Mail Volume: FY 2010, 2011, and 2012 
+(Billions of Pieces) 
+Mail Classification 2010 2011 2012 
+Mailing Services:      
+First-Class Mail:      
+Single-Piece Letters & Cards 28.9 26.0 23.9 
+Presort Letters & Cards 46.2 44.3 42.5 
+Flats 2.5 2.2 2.1 
+Parcels 0.6 0.5 0.3 
+Other * 0.3 0.7 0.8 
+Total First-Class Mail 78.2 73.7 69.6 
+Standard Mail:      
+High Density & Saturation Letters 5.4 5.7 5.6 
+High Density & Saturation Flats & Parcels 11.4 11.4 11.8 
+Carrier Route 9.4 9.3 9.1 
+Letters 48.3 50.6 46.2 
+Flats 7.0 6.8 5.9 
+Not Flat-Machinables & Parcels 0.7 0.7 0.3 
+Other * 0.3 0.2 0.9 
+Total Standard Mail 82.5 84.7 79.8 
+Periodicals 7.3 7.1 6.7 
+Package Services 0.7 0.7 0.6 
+USPS and Free Mail 0.5 0.5 0.5 
+Total Mailing Services 169.2 166.7 157.3 
+Shipping Services 1.5 1.6 2.5 
+Total All Mail 170.9 168.3 159.9 
+Source:  RPW Reports. 
+Note:  Totals may not sum due to rounding. 
+* Other includes: Negotiated Service Agreements (NSAs), International Mail, Express Mail, and Fees (not reported by shape). 
+--- PDF PAGE 15 ---
+2012 HOUSEHOLD DIARY STUDY Chapter 1:  Introduction–Volumes & Trends 7  
+Table 1.2:  
+Total Mail: Revenue, Pieces, and Weight by Shape, FY 2012 
+Mail Classification 
+Revenue Pieces Weight 
+(Millions of Dollars) (Millions of Pieces) (Millions of Pounds) 
+Letters Flats Parcels Total Letters Flats Parcels Total Letters Flats Parcels Total 
+Mailing Services:             
+First-Class Mail:             
+Single-Piece Letters & Cards 10,902 0 0 10,902 23,914 0 0 23,914 718 0 0 718 
+Presort Letters & Cards 15,084 0 0 15,084 42,524 0 0 42,524 2,146 0 0 2,146 
+Flats 25 2,644 0 2,668 19 2,030 0 2,049 6 412 0 419 
+Parcels 0 103 546 649 0 56 237 293 0 15 77 91 
+Total First-Class By Shape 26,010 2,747 546 29, 303 66,457 2,087 237 68,780 2,870 427 77 3,374 
+Other*    1,131    859    155 
+Total First-Class Mail    30,433    69,640    3,529 
+Standard Mail:             
+High Density & Saturation Letters 767 0 0 767 5,564 0 0 5,564 234 0 0 234 
+High Density & Saturation Flats & 
+Parcels 76 1,874 0 1,951 532 11,237 1 11,770 25 2,122 0 2,148 
+Carrier Route 21 2,223 0 2,244 102 9,018 0 9,120 4 1,998 0 2,003 
+Letters 8,979 0 0 8,979 46,150 0 0 46,150 2,378 0 0 2,378 
+Flats 2 2,226 1 2,230 4 5,933 3 5,940 1 1,495 0 1,496 
+Not Flat-Machinables & Parcels 0 0 285 285 0 0 304 304 0 0 126 126 
+Total Standard By Shape 9,845 6,324 287 16,456 52,351 26,188 308 78,847 2,642 5,615 127 8,384 
+Other*    257    954    42 
+Total Standard Mail    16,713    79,801    8,427 
+Periodicals:             
+Total Periodicals By Shape 12 1,707 4 1,723 67 6,668 6 6,741 5 2,521 10 2,535 
+Other *    8    0    0 
+Total Periodicals    1,731    6,741    2,535 
+Package Services             
+Total Package Services  
+By Shape 0 213 1,373 1,586 0 240 405 645 0 351 1,407 1,757 
+Other*    24    1    19 
+Total Package Services    1,610    646    1,777 
+USPS and Free Mail    0    497    170 
+              
+--- PDF PAGE 16 ---
+8  Chapter 1:  Introduction–Volumes & Trends 2012 HOUSEHOLD DIARY STUDY  
+Mail Classification 
+Revenue Pieces Weight 
+(Millions of Dollars) (Millions of Pieces) (Millions of Pounds) 
+Letters Flats Parcels Total Letters Flats Parcels Total Letters Flats Parcels Total 
+Total Mailing Services  
+By Shape 35,867 10,992 2,209 49,068 118,874 35,183 956 155,014 5,518 8,914 1,620 16,051 
+Total Other*    1,421    2,312    386 
+Total Mailing Services    50,488    157,326    16,438 
+              
+Shipping Services:             
+Total Shipping Services  
+By Shape 23 881 7,367 8,271 5 186 2,029 2,220 0 126 3,588 3,715 
+Total Other*    2,640    313    342 
+Total Shipping Services    10,910    2,533    4,057 
+              
+Total All Mail    61,399    159,859    20,495 
+Total All Services**    3,848    2,625     
+Total All Mail & Services    65,247         
+Source:  RPW Reports. 
+Note:  Totals may not sum due to rounding. 
+* Other includes: NSAs, International Mail, Express Mail and Fees (not reported by shape). 
+** All Services include Ancillary and Special Services. 
+ 
+--- PDF PAGE 17 ---
+2012 HOUSEHOLD DIARY STUDY C h a p t e r  1 :   I n t r o d u c t i o n – V o l u m e s  &  T r e n d s  9 
+Table 1.3:  
+Total Mail: Revenue and Weight per Piece by Shape, FY 2012 
+Mail Classification 
+Revenue per Piece Weight per Piece
+(Dollars) (Ounces) 
+Letters Flats Parcels Total Letters Flats Parcels Total 
+Mailing Services:         
+First-Class Mail:         
+Single-Piece Letters & Cards 0.456   0.456 0.480   0.480 
+Presort Letters & Cards 0.355   0.355 0.808   0.808 
+Flats 1.293 1.302  1.302 5.156 3.251  3.268 
+Parcels  1.827 2.303 2.211  4.172 5.167 4.976 
+Total First-Class By Shape 0.391 1.316 2.303 0.426 0.691 3.276 5.167 0.785 
+Other*    1.316    2.889 
+Total First-Class Mail    0.437    0.811 
+Standard Mail:         
+High Density & Saturation Letters 0.138   0.138 0.672   0.672 
+High Density & Saturation Flats  
+& Parcels 0.143 0.167 0.503 0.166 0.755 3.021  2.919 
+Carrier Route 0.204 0.247 0.684 0.246 0.671 3.545 6.739 3.514 
+Letters 0.195   0.195 0.825   0.825 
+Flats 0.472 0.375 0.456 0.375 4.264 4.031 0.627 4.029 
+Not Flat-Machinables & Parcels   0.938 0.938   6.656 6.656 
+Total Standard By Shape 0.188 0.241 0.932 0.209 0.808 3.431 6.597 1.701 
+Other*    0.270    0.710 
+Total Standard Mail    0.209    1.690 
+Periodicals         
+Total Periodicals By Shape 0.177 0.256 0.701 0.256 1.185 6.049 24.517 6.018 
+Other*         
+Total Periodicals    0.257    6.018 
+Package Services         
+Total Package Services  
+By Shape 0.000 0.888 3.390 2.458 0.000 23.339 55.586 43.575 
+Other*         
+Total Package Services    2.491    43.977 
+USPS and Free Mail    0.000    4.841 
+         
+Total Mailing Services  
+By Shape 0.302 0.312 2.311 0.317 0.743 4.054 27.107 1.657 
+Total Other*    0.614    2.674 
+Total Mailing Services    0.321    1.672 
+          
+Shipping Services:         
+Total Shipping Services  
+By Shape 4.545 4.742 3.631 3.726 1.010 10.872 28.296 26.776 
+Total Other*    8.424    17.475 
+Total Shipping Services    4.307    25.625 
+          
+Total All Mail    0.384    2.051 
+Source:  RPW Reports. 
+Note:  Totals may not sum due to rounding. 
+* Other includes: NSAs, International Mail, Express Mail, and Fees (not reported by shape). 
+ 
+--- PDF PAGE 18 ---
+10 C h a p t e r  1 :   I n t r o d u c t i o n – V o l u m e s  &  T r e n d s  2012 HOUSEHOLD DIARY STUDY  
+Mail Flows 
+Mail volume can be broken into four basic flows, 
+based on origin and destination. These flows are: 
+1) Household to household,  
+2) Household to non-household,  
+3) Non-household to household, and 
+4) Non-household to non-household.  
+Table 1.4a shows the total mail in each flow, and 
+Table 1.4b shows pieces per household per week. 
+Table 1.4a:  
+Total Domestic Mail Flows 
+(Billions of Pieces) 
+Sent By: 
+Received By: 
+Household Non-
+household 
+Total 
+Originating 
+Household 4.5 10.3 14.8 
+Non-household 116.9 28.2 145.1 
+Total 
+Destinating 121.4 38.5 159.9 
+Source:  HDS Diary Sample, FY 2012. 
+Note:  Totals may not sum due to rounding. 
+Table 1.4b:  
+Total Domestic Mail Flows 
+Mail Flows Billions of 
+Pieces 
+Percent of Total 
+Mail 
+Sent by Household 14.8 9% 
+Non-Household to 
+Household 116.9 73% 
+Total Household 
+Mail 131.7 82% 
+Non-Household to  
+Non-Household 28.2 18% 
+Total Mail 159.9 100% 
+Table 1.4c:  
+Domestic Mail Flows per Household per Week 
+Sent By: 
+Received By: 
+Household Non-household 
+Household 0.7 1.6 
+Non-household 18.6 N/A 
+Source:  Household Diary Study, FY 2012. 
+Household Mail 
+As shown in Tables 1.4a-c, domestic mail to and 
+from households constituted 82 percent of total mail 
+volume in 2012, which equates to 20.9 pieces per 
+week sent and received by U.S. households. Table 
+1.5 presents the volumes of mail sent and received 
+by households as estimated from the HDS. The 
+table shows the categories in which the households 
+record their mail. Households received 121.4 billion 
+pieces of mail and sent 14.8 billion. Both of these 
+totals include the 4.5 billion pieces of mail that 
+households sent to each other. The total mail 
+received or sent by households in FY 2012 was 131.7 
+billion pieces. 
+Table 1.5:  
+Mail Received and Sent by Households 
+(Billions of Pieces) 
+Mail Classification Received Sent 
+First-Class Mail 45.5 14.4 
+Standard Regular Mail 55.8 — 
+Standard Nonprofit Mail 12.8 — 
+Periodicals 5.1 — 
+Packages & Shipping 
+Services* 2.3 0.4 
+Total 121.4 14.8 
+Household to Household 4.5 
+Total Mail Received and 
+Sent by Households 131.7 
+FY 2012 RPW Total 159.9 
+Non-household to  
+Non-household (Residual) 28.2 
+Unaddressed 1.0 — 
+Source:  HDS Diary Sample, FY 2012. 
+Note:  Totals may not sum due to rounding. 
+* Includes First-Class and Standard Mail packages. 
+Table 1.6 presents these data in two other forms, 
+annual volumes per household and pieces per 
+household per week. Many of the subsequent results 
+in this report are presented in terms of pieces per 
+household per week. 
+--- PDF PAGE 19 ---
+2012 HOUSEHOLD DIARY STUDY C h a p t e r  1 :   I n t r o d u c t i o n – V o l u m e s  &  T r e n d s  11 
+Table 1.6:  
+Pieces Received and Sent per Household 
+Classification Annual Pieces 
+per Household 
+Pieces per 
+Household  
+per Week 
+Mail Received   
+First-Class Mail 376 7.2 
+Standard Regular Mail 461 8.9 
+Standard Nonprofit 
+Mail 106 2.0 
+Periodicals 42 0.8 
+Packages & Shipping 
+Services* 18 0.4 
+   
+Total Mail Received 1,003 19.3 
+Mail Sent   
+First-Class Mail: 119 2.3 
+Packages & Shipping 
+Services*  3 0.0 
+   
+Total Mail Sent 122 2.3 
+Unaddressed 8 0.2 
+Source:  HDS Diary Sample, FY 2012.  
+Note: Totals may not sum due to rounding. 
+* Includes First-Class and Standard Mail packages. 
+Classes and Markets 
+• First-Class Mail is used to send transactional 
+mail, correspondence, and advertising. Because 
+it is limited to pieces weighing thirteen ounces 
+or less, it primarily includes letters and cards. 
+• Standard Mail is advertising mail. For the 
+most part, Standard Mail comprises letters and 
+flats, although it contains a few postcards and 
+packages as well. 
+• Periodicals are magazines and newspapers, 
+and are predominantly flat-shaped. 
+• Package and Shipping Services is used to 
+deliver merchandise, books, catalogs, and media 
+such as CDs and DVDs. Most of this mail is 
+parcel-shaped. 
+Table 1.7 crosswalks between classes of mail and 
+the markets they serve. 
+Table 1.7:  
+Mail Received and Sent by Households 
+Class 
+Market (Billions of Pieces) 
+Correspondence Transactions Advertising Periodicals Packages Total 
+First-Class Mail 11.8 34.3 11.0 — 1.5 52.5 
+Standard Mail — — 68.5 — 0.5 69.1 
+Periodicals — — — 5.1 — 5.1 
+Packages & Shipping 
+Services — — — — 1.3 1.3 
+Total 11.8  34.3 79.6 5.1 3.3 128.1 
+Unclassified      3.6 
+Total Mail Received and 
+Sent by Households      131.7 
+Source:  HDS Diary Sample FY 2012. 
+Notes: Correspondence and Transactions include 6.1 billion pieces of secondary advertising mail also reported in Advertising Mail. 
+The “Total” column for each class does not include pieces that could not be identified according to markets (Unclassified).  
+First-Class Packages include 0.8 billion pieces of CD/DVD rentals sent to and received from Netflix, Blockbuster, etc., reported in First-Class Mail letters in 
+Tables E.1, 1.5, and 1.6. 
+ 
+--- PDF PAGE 20 ---
+12 C h a p t e r  1 :   I n t r o d u c t i o n  –  V o l u m e s  &  T r e n d s  2012 HOUSEHOLD DIARY STUDY  
+Report Organization 
+The rest of the Household Diary Study report is 
+organized around the markets the mail serves. Each 
+chapter contains an analysis of the trends in the 
+HDS data, as well as a discussion of how those 
+trends affect and are affected by changes in the 
+broader market. The following provides an overview 
+of each chapter. 
+Chapter 2: Profile of Mail Usage gives an 
+analysis of household demographics. This chapter 
+examines demographic trends over time and their 
+impact on the mail, and discusses attributing 
+factors, such as access to technology and changing 
+attitudes. 
+Chapter 3: Correspondence examines mail that 
+is used solely or primarily to deliver (non-sales-
+related) communications, such as letters and 
+greeting cards. This chapter includes analysis of 
+both personal and business correspondence.  
+Chapter 4: Transactions reviews financial 
+transactions in the mail and the impact of new 
+technologies on that market. It analyzes household 
+bill payment trends with a focus on technological 
+and demographic change.  
+Chapter 5: Advertising Mail presents the trends 
+in mail used to deliver sales-related messages. It 
+contains information on household attitudes 
+towards advertising by various media, treatment of 
+advertising mail, and demographic determinants of 
+advertising mail receipt. 
+Chapter 6: Periodicals examines magazines and 
+newspapers delivered in the mail. It looks at how 
+changing demographics are affecting the market for 
+periodicals, and what the implications are for future 
+volume. 
+Chapter 7: Packages analyzes household use of 
+various types of packages, and it discusses the 
+household market for merchandise delivery.  
+In addition, there are three appendices to the 
+report: 
+Appendix A contains a set of comparative tables 
+for FY 1987, FY 2011, and FY 2012, organized by 
+class of mail. A concordance is presented for 
+comparison with pre-2000 reports.  
+Appendix B documents the study methodology and 
+discusses how the data were collected, weighted, 
+and adjusted, and compares demographic data in 
+the sample to that of the population as a whole. 
+Appendix C contains the instruments used to 
+administer the survey. 
+ 
+--- PDF PAGE 21 ---
+2012 HOUSEHOLD DIARY STUDY C h a p t e r  2 :   P r o f i l e  o f  M a i l  U s a g e  13 
+Chapter 2:  Profile of Mail Usage 
+Introduction 
+This chapter provides information on demographic 
+trends and other factors affecting mail volume, 
+providing a basis for assessing mail volume 
+changes. The breakouts introduced provide the 
+basis for much of the analyses in subsequent 
+chapters. 
+The first section looks at growth in mail volume, 
+population, households, and delivery points over 
+recent decades. The next section examines the 
+demographic characteristics of mail users, 
+contrasting higher-mail-volume households with 
+lower-volume households. The third section details 
+the emerging demographic and technological trends 
+that will affect the future of mail. The last section 
+examines some of the factors affecting the use of 
+post offices and mailboxes. 
+Mail Volume and Demographics 
+Total U.S. mail volume grew from 110 billion pieces 
+in 1981 to 160 billion in 2012, an increase of 45 
+percent. This growth outpaced the rate of 
+population growth and was close to household 
+formation. Over the same period, according to the 
+U.S. Census Bureau, the adult population grew 34 
+percent and households grew about 47 percent. The 
+number of places to which the Postal Service 
+delivers increased still faster, growing by 55 percent 
+(see the USPS annual reports). As Table 2.1 shows, 
+however, volume decreased by an average of 2.4 
+percent per year over the last eleven years (due to 
+large declines from 2007 onward), while U.S. 
+population growth, household formation, and 
+delivery points increased by an average of about one 
+percent per year. With falling revenues and rising 
+costs, the Postal Service suffered significant 
+financial losses towards the end of the decade.  
+Total U.S. mail volume decreased by  
+an average of 2.4 percent per year  
+between 2001 and 2012,  
+while population and household  
+formation increased by an average  
+of about one percent per year. 
+The 1980s was a time of extraordinary mail volume 
+growth that began in 1978 and continued through 
+1988. In 1984, mail volume grew more than ten 
+percent. During this period, technology facilitated 
+this growth. Construction of computerized 
+databases and techniques for sorting large amounts 
+of data created a fertile climate for direct mail 
+marketing. Computerization of financial systems 
+encouraged billing by mail and payments through 
+the mail. These innovations in business processes 
+were further encouraged by the expansion of postal 
+rate discounts.  
+The Postal Service introduced work-sharing 
+discounts, encouraging mailers to prepare the mail 
+in ways that reduce the total system cost of creating 
+and delivering the mail. Mailers could take 
+advantage of these discounts by sorting the mail in 
+advance. The Postal Service would receive the mail 
+presorted to the individual ZIP codes and/or to the 
+carrier routes associated with those ZIP codes. 
+In the late 1980s and early 1990s, mail volume 
+growth barely kept pace with household growth. 
+The demand for mail was hurt by a recession and 
+two very large rate increases. This was also a period 
+in which the Postal Service absorbed substantial 
+costs that were reapportioned from the Federal 
+government’s retirement programs. 
+Table 2.1:  
+Mail Volume and Demographics 
+Average Annual Growth, 1981-2012 
+ 1981-
+1990 
+1991-
+2000 
+2001-
+2012 
+Total Mail Volume 4.6% 2.3% -2.4% 
+Delivery Points 1.7% 1.5% 0.9% 
+Adult Population 1.5% 1.3% 1.2% 
+Households 1.4%  0.9% 1.0% 
+Source:  U.S. Postal Service, U.S. Census Bureau. 
+The latter half of the 1990s saw rapid growth in 
+mail volume, spurred by a strong economy and rates 
+that increased by less than inflation. The Postal 
+Service also realigned the incentives built into its 
+price structure. It reduced the incentives mailers 
+had for presorting mail and encouraged them to 
+prebarcode their mail. By 2002, the majority of 
+letters the Postal Service received had qualifying 
+barcodes on them. This restructuring of the rates 
+took advantage of the extensive automation of mail 
+preparation and sorting that occurred in the 
+previous decade. 
+--- PDF PAGE 22 ---
+14 C h a p t e r  2 :  P r o f i l e  o f  M a i l  U s a g e  2012 HOUSEHOLD DIARY STUDY 
+During the 1990s, the U.S. economy rapidly 
+embraced information technology and integrated 
+the Internet into its business processes. An 
+economic recession followed that began in March 
+2001. The 2001 terrorist attacks on the World Trade 
+Center and the Pentagon led to large-scale 
+disruptions of those mail services dependent on air 
+transport, such as First-Class, Priority, and Express 
+Mail. When air service was restored, Priority Mail 
+was no longer allowed on commercial passenger 
+flights. Soon afterwards, lethal anthrax was sent 
+through the mail, which resulted in five deaths and 
+a number of serious injuries. These terrorist 
+attacks, combined with the economic recession, 
+caused mail volume to decline 2.2 percent in 2002, 
+which was, at the time, the largest annual decline 
+since World War II. In 2003, Standard Mail volume 
+recovered to a new high, but total First-Class 
+volume continued to decline. Work-shared First-
+Class Mail fell for the first time ever. Since 2003, 
+Standard Mail volume grew along with the 
+economy, reaching new highs and exceeding First-
+Class Mail for the first time in 2005. Total First-
+Class volume, on the other hand, continued to 
+decline, in part due to the diversion of bills and 
+statements to electronic alternatives and the lower-
+cost Standard Mail option as an alternative to First-
+Class advertising. 
+The economic recession that began in December 
+2007 and ended in June 2009 had a severe impact 
+on the mail. Total mail volume plunged 12.7 percent 
+in 2009—the largest decline since the Great 
+Depression. In July 2009, the recession was 
+officially over but was followed by a slow recovery 
+that continued through the end of 2012.  As a result, 
+total mail volume declined an additional ten percent 
+between 2009 and 2012.  Both Standard Mail and 
+First-Class Mail contributed to the overall decline in 
+mail volume, falling 3.8 and 18.0 percent 
+respectively.  
+Between 2001 and 2012, total mail volume fell 23 
+percent.  During the same time period, the adult 
+population increased 14 percent, households 
+increased 12 percent, and the Postal Service added 
+ten percent more delivery points to its network. 
+Continued growth in delivery points  
+has become an ongoing source  
+of pressure on postal costs. 
+The Postal Service depends on mail volume growth 
+to fund universal service. The number of addresses 
+the delivery network serves increases as the 
+number of American businesses and households 
+increases. When mail volume falls, as was the case 
+between 2001 and 2012 the Postal Service’s ability 
+to fund delivery service is hampered because the 
+Postal Service charges its customers for piece 
+volume but does not assess connect charges, access 
+fees, or system fees, like many other network 
+enterprises. 
+Characteristics of Higher- and 
+Lower-Volume Households 
+Tables 2.2 and 2.3 show the demographic 
+characteristics of households by the amount of mail 
+received. It is apparent that household mail use is 
+strongly correlated with both income and education. 
+Note, however, the similar correlation between mail 
+receipt and Internet access, which is also related to 
+income and education. Therefore, households that 
+make the most use of the mail are the households 
+with the greatest opportunity to use alternatives to 
+the mail. 
+These high-volume households are taking 
+advantage of the opportunity to move away from the 
+mail. Households that receive 30 or more pieces of 
+mail each week pay an average of 37 percent of their 
+bills online, up from 33 percent in 2010 and 35 
+percent in 2011.  Households that receive less than 
+30 pieces of mail each week are quickly catching up, 
+however, as they paid an average of 35 percent of 
+their bills online.  The percentage of online bill 
+payments among these lower-volume households 
+has increased from 28 percent in 2010 and 30 
+percent in 2011.  
+ 
+ 
+ 
+ 
+ 
+ 
+--- PDF PAGE 23 ---
+2012 HOUSEHOLD DIARY STUDY C h a p t e r  2 :   P r o f i l e  o f  M a i l  U s a g e  15 
+Table 2.2:  
+Characteristics of Higher- and Lower-Mail-Volume Households 
+Mail Received 
+(Pieces per 
+Household  
+per week) 
+Households 
+(Millions) 
+Median 
+Annual 
+Household 
+Income 
+Households 
+w/ Internet 
+Access  
+(Percent) 
+Total Paid 
+(Pieces per 
+Household 
+per week) 
+ 
+Bills Paid 
+by Internet 
+(Pieces per 
+Household 
+per week) 
+Mail Sent 
+(Pieces per 
+Household 
+per week) 
+45 or more 7.3 $101,193 92% 3.6 1.2 5.3 
+36-44 9.9 $89,536 91% 3.4 1.4 3.5 
+30-35 12.2 $79,756 93% 3.4 1.3 3.2 
+24-29 17.9 $71,508 89% 3.1 1.2 2.8 
+18-23 21.7 $58,618 87% 2.8 1.0 2.3 
+12-17 24.0 $44,778 80% 2.6 0.9 1.7 
+Less than 12 28.1 $25,640 74% 1.9 0.6 1.2 
+Total 121.1 $55,913 84% 2.8 1.0 2.4 
+Source:  HDS Diary Sample, FY 2012.  
+Note:  Mail received includes USPS and Non-USPS mail. 
+Table 2.3:  
+Education of Higher- and Lower-Mail-Volume Households 
+Mail Received 
+(Pieces per 
+Household  
+per week) 
+Households 
+(Millions) 
+Educational Attainment of Head of Household 
+Less than  
+High School 
+High School 
+Graduate 
+Some College or 
+Technical School 
+College 
+Graduate 
+45 or more 7.3 8% 12% 15% 65% 
+36-44 9.9 6% 23% 19% 52% 
+30-35 12.2 9% 22% 22% 47% 
+24-29 17.9 7% 30% 22% 40% 
+18-23 21.7 9% 35% 23% 32% 
+12-17 24.0 16% 32% 23% 29% 
+Less than 12 28.1 18% 29% 25% 27% 
+Total 121.1 12% 29% 22% 37% 
+Source:  HDS Diary Sample, FY 2012. 
+Note:  Percentages may not total 100 percent due to heads of households who did not answer the educational attainment question.  
+Percentages in this table are row percentages. 
+Excludes households not receiving any mail delivery at their home address (using mailbox only). 
+ 
+Demographic Characteristics of 
+U.S. Households 
+This section develops breakouts of households by 
+demographic categories that influence the volume of 
+mail sent and received. It looks at both traditional 
+and newly emerging factors. The following chapters 
+will show how mail volume varies with these 
+household characteristics. 
+Income, Education, and Age 
+Traditionally, mail use was largely determined by 
+household income, education, and age. As Table 2.4 
+shows, income and education are strongly correlated 
+with each other, as expected. 
+The relationship between income and age, shown in 
+Table 2.5, is somewhat more complicated. Up to 
+retirement, household income and age are fairly 
+closely related. After retirement, households earn 
+substantially less; although by that point, mail 
+behavior is pretty well set, and older households 
+continue to receive similar amounts of advertising 
+and periodicals, and pay similar amounts of bills, 
+even though their income declines. 
+--- PDF PAGE 24 ---
+16 C h a p t e r  2 :  P r o f i l e  o f  M a i l  U s a g e  2012 HOUSEHOLD DIARY STUDY 
+Table 2.4:  
+Households by Income and Education 
+(Percent of Households) 
+Household 
+Income 
+(Thousands) 
+Educational Attainment of Head of Household 
+Total Less than  
+High School 
+High School 
+Graduate 
+Some College 
+or Technical 
+School 
+College 
+Graduate 
+Under $35 25% 36%  24% 15% 100% 
+$35 to $65 11% 34% 26% 29% 100% 
+$65 to $100 4% 26% 22% 48% 100% 
+Over $100 1% 14% 18% 67% 100% 
+Don’t know/ 
+Refused 9% 26% 20% 42% 100% 
+Total 12% 29% 22% 37% 100% 
+Source:  HDS Diary Sample, FY 2012.  
+Note:  Totals may not sum due to rounding. 
+Table 2.5:  
+Households by Income and Age 
+(Percent of Households) 
+Household 
+Income 
+(Thousands) 
+Age of Head of Household 
+Total 
+Under 35 35 to 54 Over 55 Don’t Know/ 
+Refused 
+Under $35 22% 28% 50% 0% 100% 
+$35 to $65 24% 34% 41% 0% 100% 
+$65 to $100 21% 45% 34% 0% 100% 
+Over $100 15% 53% 32% 0% 100% 
+Don’t know/ 
+Refused 24% 29% 42% 5% 100% 
+Total 21% 37% 41% 1% 100% 
+Source:  HDS Diary Sample, FY 2012. 
+Note:  Totals may not sum due to rounding. 
+ 
+Household Size 
+The majority of U.S. households include either one 
+or two adults, but households with three or more 
+adults make up 19 percent of the total. Once 
+considered the norm, nuclear families—two adults 
+and at least one child—now account for only 20 
+percent of households (per the U.S. Census Bureau). 
+The changing composition of households impacted 
+the amount and kinds of mail sent and received by 
+households over the past 20 years, generating more 
+and different kinds of advertising mail, as well as 
+affecting transaction mail trends (bills tend to be 
+tied to households as much as to individuals).
+  
+Table 2.6:  
+Households by Number of Adults 
+(Millions of Households) 
+Number of Adults  
+One  28.2 
+Two 70.0 
+Three or more 22.9 
+Total Households 121.1 
+Source:  HDS Diary Sample, FY 2012.  
+Note:  Totals may not sum due to rounding. 
+ 
+--- PDF PAGE 25 ---
+2012 HOUSEHOLD DIARY STUDY C h a p t e r  2 :   P r o f i l e  o f  M a i l  U s a g e  17 
+Table 2.7:  
+Households by Size 
+(Millions of Households) 
+Household Size  
+One person 24.7 
+Two 45.0 
+Three 20.1 
+Four 17.5 
+Five or more 13.8 
+Total Households 121.1  
+Source:  HDS Diary Sample, FY 2012. 
+Note:  Total may not sum due to rounding. 
+Internet Access 
+Access to the Internet and use of new technologies, 
+such as Broadband, have a large and growing 
+impact on mail use. Bills, statements, and bill 
+payments still represent a significant number of 
+pieces sent and received by households. However, 
+electronic activity in this area is diverting mail once 
+used for these purposes. On the other hand, online 
+shopping potentially adds packages and catalog 
+delivery to the Postal Service mail stream. 
+Table 2.8 shows that 84 percent of households have 
+Internet access and 79 percent have Broadband 
+access. The highest levels of Internet and 
+Broadband access are within households with 
+incomes over $100,000 (98 and 95 percent, 
+respectively), as seen in Figure 2.1a. In comparison, 
+households with incomes below $35,000 are less 
+likely to have access to the Internet and Broadband 
+(61 and 54 percent, respectively). As shown in 
+Figure 2.1b, age is also an important determinant of 
+households having Internet access. Younger 
+households (heads of households younger than 35 
+years old) are more likely to have access to both the 
+Internet and Broadband (93 and 90 percent, 
+respectively). Older households (heads of households 
+older than 55 years of age), on the other hand, are 
+less likely to have access to the Internet and 
+Broadband (67 and 60 percent, respectively). 
+Table 2.8:  
+Households by Type of Internet Access 
+(Millions of Households) 
+Type of  
+Internet Access  
+Broadband 95.5 
+Dial-up 6.5 
+None 19.0 
+Total Households 121.1 
+Source:  HDS Diary Sample, FY 2012. 
+Note:  Totals may not sum due to rounding. 
+Figure 2.2 shows the trend in Broadband 
+connections. The rapid growth of Broadband 
+expands the potential scope of electronic diversion of 
+the mail. The Internet’s fast, always-on connection 
+makes it a stronger alternative medium for the 
+delivery of entertainment, information, and 
+communication. As more households begin using 
+Broadband, the more that bill payments, bill and 
+statement presentment, periodicals, and even 
+advertising mail, will be affected. 
+Figure 2.1a:  
+Internet Access by Income and Type 
+ 
+Source:  HDS Recruitment Data, FY 2012. 
+Note:  Sum of Internet Access and None does not equal 100 percent due to missing responses and access outside the home only.  Sum of 
+Broadband and Dial-up does not equal the 100 percent due to missing responses. 
+3% 3% 2% 2%3% 2% 2% 1%
+61%
+86%
+95% 98%
+54%
+81% 91%
+95%
+0%
+20%
+40%
+60%
+80%
+100%
+under $35K $35K-$65K $65K-$100K $100K+
+Percent of U.S. Households  
+Household Income
+None Dial-up Internet Access Broadband

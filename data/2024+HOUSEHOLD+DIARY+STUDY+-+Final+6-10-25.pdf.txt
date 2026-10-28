@@ -1,0 +1,995 @@
+--- PDF PAGE 1 ---
+ 
+The Household 
+Diary Study 
+Mail Use & Attitudes 
+in FY 
+2024 
+ 
+ 
+ 
+ 
+ 
+Leon Michos – Financial Demand Economist 
+Strategic Business and Financial Planning 
+United States  Postal Service Headquarters 
+475 L’Enfant Plaza, SW RM 8441 
+Washington, D.C. 20260-5323 
+June 2025 
+ 
+  
+RCF Economic & Financial Consulting 
+333 North Michigan Avenue, Suite 2000 
+Chicago, Illinois 60601 
+ 
+Postal Regulatory Commission
+Submitted 06/26/2025 12:45 PM
+Filing ID: 136876
+Accepted 6/26/2025
+--- PDF PAGE 2 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y   Table of Contents 
+ 
+HOUSEHOLD DIARY STUDY (HDS) FY 2024 
+ 
+Table of Contents 
+ 
+Executive Summary ............................................................................................................................................................. i 
+Background ................................................................................................................................................................ i 
+Overview ..................................................................................................................................................................... i 
+Mail Markets .............................................................................................................................................................. ii 
+Chapter 1: Introduction – Volumes & Trends................................................................................................................... 1 
+The Survey ................................................................................................................................................................ 1 
+U.S. Postal Service Volumes ..................................................................................................................................... 1 
+Mail Classes .............................................................................................................................................................. 1 
+Mail Flows: Sender and Recipient ............................................................................................................................. 3 
+Mail Markets .............................................................................................................................................................. 5 
+Report Organization................................................................................................................................................... 6 
+Chapter 2: Demographics and Mail Usage ....................................................................................................................... 7 
+Introduction ................................................................................................................................................................ 7 
+Mail Volume and Demographics ................................................................................................................................ 7 
+Chapter 3: Correspondence Mail ..................................................................................................................................... 11 
+Introduction .............................................................................................................................................................. 11 
+Correspondence Mail Volume ................................................................................................................................. 11 
+Correspondence Mail and Household Characteristics ............................................................................................. 13 
+Chapter 4: Transactions.................................................................................................................................................... 17 
+Transaction Mail ...................................................................................................................................................... 17 
+Transaction Mail and Household Characteristics..................................................................................................... 18 
+Bills and Statements Received by Households ....................................................................................................... 19 
+Mailed vs. Online Bills and Statements.................................................................................................................... 20 
+Household Bill Payments ......................................................................................................................................... 24 
+Chapter 5: Marketing and Advertising Mail .................................................................................................................... 26 
+Introduction .............................................................................................................................................................. 26 
+The Advertising Mail Market .................................................................................................................................... 26 
+Senders of Advertising Mail ..................................................................................................................................... 27 
+Advertising Mail and Household Demographics ...................................................................................................... 28 
+Attitudes toward Advertising .................................................................................................................................... 31 
+Effectiveness of Advertising Mail ............................................................................................................................. 32 
+--- PDF PAGE 3 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y   Table of Contents 
+ 
+Chapter 6: Periodicals ....................................................................................................................................................... 35 
+Introduction .............................................................................................................................................................. 35 
+Household Periodicals ............................................................................................................................................. 35 
+Periodicals Mail and Household Demographics ...................................................................................................... 36 
+Chapter 7: Packages ......................................................................................................................................................... 40 
+Introduction .............................................................................................................................................................. 40 
+The Package Market................................................................................................................................................ 40 
+Postal Service Package Volume .............................................................................................................................. 40 
+Packages and Household Characteristics ............................................................................................................... 41 
+Reasons for using the Postal Service to Send Packages ........................................................................................ 45 
+Appendix A: Annual Trends ............................................................................................................................................. 46 
+Appendix B: Methodology ................................................................................................................................................ 69 
+Study Design and Methodology ............................................................................................................................... 69 
+Sampling Design...................................................................................................................................................... 69 
+Data Collection Method ........................................................................................................................................... 70 
+Data Management ................................................................................................................................................... 72 
+Sample Demographic Profile (All Counts Unweighted), Government Fiscal Year 2024 .......................................... 74 
+Data Weighting and Expansion ............................................................................................................................... 76 
+Data Presentation .................................................................................................................................................... 81 
+ 
+ 
+ 
+--- PDF PAGE 4 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y   List of Tables 
+ 
+List of Tables 
+Table E.1: Mail Received and Sent by Households ........................................................................................................ i 
+Table E.2: Household Mail Volume Sent and Received by Mail Market Served ............................................................ ii 
+Table E.3: Correspondence Mail Volumes by Age of Household Head ........................................................................ iii 
+Table E.4: Shares of Household Bills Paid vs. Bills and Statements Received ............................................................ iii 
+Table E.5: Reading and Response Rates to Marketing Mail Advertising by Past Relationship .................................... iv 
+Table E.6: Postal Service Periodical Type by Year ....................................................................................................... iv 
+Table E.7: Packages Received by MSA Classification .................................................................................................. v 
+Table 1.1: Total Mail Volume: FY 2014, 2019, and 2024 ............................................................................................... 2 
+Table 1.2: Total Domestic Mail Flows: 2024 .................................................................................................................. 3 
+Table 1.3: Mail Received and Sent by Households in 2024 ........................................................................................... 4 
+Table 1.4: Mail Received and Sent by Households 2014, 2019, 2024 ........................................................................... 4 
+Table 1.5: Pieces Received and Sent per Household - Markets .................................................................................... 5 
+Table 2.1: Mail Volume and Mail Market ........................................................................................................................ 7 
+Table 2.2: Age of Household Head and Mail Volume .................................................................................................... 8 
+Table 2.3: Household Income and Mail Volume............................................................................................................. 8 
+Table 2.4: Education of Household Head and Mail Volume ........................................................................................... 9 
+Table 2.5: Homeownership and Mail Volume................................................................................................................. 9 
+Table 2.6: MSA Classification and Mail Volume............................................................................................................. 9 
+Table 2.7: Age of Household Head and Mail Volume Shares ...................................................................................... 10 
+Table 3.1: Total Postal Service Correspondence Volumes .......................................................................................... 11 
+Table 3.2: Household Correspondence by Mail Flow ................................................................................................... 11 
+Table 3.3: Household Correspondence Mail Received by Contents ............................................................................ 12 
+Table 3.4: Household Correspondence Mail Sent by Contents ................................................................................... 12 
+Table 3.5: Correspondence Mail Volumes by Age of Household Head ....................................................................... 14 
+Table 3.6: Correspondence Mail Volumes by Education of Household Head .............................................................. 15 
+Table 4.1: Transaction Mail Received and Sent........................................................................................................... 17 
+Table 4.2: Bills and Statements Received by Household by Industry .......................................................................... 20 
+Table 4.3: Mail Share of Total Bills and Statements Received by Households ............................................................ 20 
+Table 4.4: Reasons for Receiving Bills and Statements by Mail .................................................................................. 24 
+Table 4.5: Bill Payment Shares by Method .................................................................................................................. 24 
+Table 4.6: Reasons for Paying Bills by Mail by Households that Pay Bills by Mail ...................................................... 25 
+Table 5.1: Advertising Mail Received by Households by Mail Classification ................................................................ 26 
+Table 5.2: Volumes of Marketing and First-Class Ads by Industry ............................................................................... 28 
+Table 5.3: Advertising Mail Received by Age of Household Head ............................................................................... 29 
+Table 5.4: Households Considering a Response to Advertising Mail Piece ................................................................. 32 
+Table 5.5: Reading and Response Rates to Marketing Mail Advertising by Past Relationship .................................... 33 
+Table 5.6: Yearly Number of Potential Responses by Income ..................................................................................... 34 
+Table 6.1: Postal Service Periodical Type by Year ...................................................................................................... 35 
+Table 6.2: Households that Receive Periodicals .......................................................................................................... 36 
+Table 6.3: Periodicals Received by Age of Household Head ....................................................................................... 39 
+Table 6.4: Periodicals Received by MSA Classification ............................................................................................... 39 
+Table 7.1: Total Postal Service Package Volumes ...................................................................................................... 41 
+Table 7.2: Reasons for Using the USPS to Send Packages ........................................................................................ 45 
+ 
+--- PDF PAGE 5 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    List of Figures 
+List of Figures 
+Figure 2.1: Mail Pieces by Age and Homeownership ................................................................................................... 10 
+Figure 3.1: Correspondence Mail Volumes by Age of Household Head ...................................................................... 13 
+Figure 3.2: Correspondence Mail Volumes by Household Income .............................................................................. 14 
+Figure 3.3: Correspondence Mail Volumes by Education of Household Head............................................................. 15 
+Figure 3.4: Correspondence Mail Volumes by Homeownership .................................................................................. 16 
+Figure 3.5: Correspondence Mail Volumes by MSA Classification .............................................................................. 16 
+Figure 4.1: Transactions Mail Volumes by Age of Household Head ............................................................................ 18 
+Figure 4.2: Transactions Mail Volumes by Household Income .................................................................................... 19 
+Figure 4.3: Transactions Mail Volumes by Education of Household Head ................................................................... 19 
+Figure 4.4: Mail Presentment Shares by Age of Household Head ............................................................................... 21 
+Figure 4.5: Mail Presentment Shares by Household Income ....................................................................................... 22 
+Figure 4.6: Mail Presentment Shares by Education of Household Head ..................................................................... 22 
+Figure 4.7: Mail Presentment Shares by Homeownership ........................................................................................... 23 
+Figure 4.8: Mail Presentment Shares by MSA Classification ....................................................................................... 23 
+Figure 4.9: Mail Payment Shares by Age of Household Head ..................................................................................... 25 
+Figure 5.1: Advertising Volumes Received by Households by Sender Industry ........................................................... 27 
+Figure 5.2: Advertising Mail Received by Age of Household Head .............................................................................. 28 
+Figure 5.3: Advertising Mail Received by Household Income ...................................................................................... 29 
+Figure 5.4: Advertising Mail Received by Education of Household Head .................................................................... 30 
+Figure 5.5: Advertising Mail Received by Homeownership .......................................................................................... 30 
+Figure 5.6: Advertising Mail Received by MSA Classification ...................................................................................... 31 
+Figure 5.7: Advertising Mail Reading Trends ............................................................................................................... 31 
+Figure 5.8: Advertising Mail Reading Rates by Household Demographics .................................................................. 32 
+Figure 5.9: Advertising Mail Reading and Response Rates by Sender Industry .......................................................... 33 
+Figure 6.1: Periodicals Received by Age of Household Head ...................................................................................... 36 
+Figure 6.2: Periodicals Received by Household Income .............................................................................................. 37 
+Figure 6.3: Periodicals Received by Education of Household Head ............................................................................ 37 
+Figure 6.4: Periodicals Received by Homeownership .................................................................................................. 38 
+Figure 6.5: Periodicals Received by MSA Classification .............................................................................................. 38 
+Figure 7.1: Package Volumes by Age of Household Head .......................................................................................... 41 
+Figure 7.2: Packages Received by Age of Household Head ........................................................................................ 42 
+Figure 7.3: Package Volumes by Household Income................................................................................................... 42 
+Figure 7.4: Package Volumes by Education of Household Head ................................................................................. 43 
+Figure 7.5: Package Volumes by Homeownership ....................................................................................................... 43 
+Figure 7.6: Package Volumes by MSA Classification ................................................................................................... 44 
+Figure 7.7: Packages Received by MSA Classification ................................................................................................ 44 
+--- PDF PAGE 6 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    E X E C U T I V E  S U M M A R Y  i  
+Executive Summary 
+This report documents the findings of the United States Postal Service’s Household Diary Study (HDS) for 
+Fiscal Year (FY) 2024. The main objectives of the study are to: 
+• Measure the types and volumes of mail sent and received by U.S. households, 
+• Track trends in mail usage over time, and 
+• Compare mail usage by household demographic characteristics. 
+The report examines these trends in the context of changes and developments in the markets in which the 
+U.S. Postal Service operates: correspondence, transactions, advertising, periodicals, and package deliveries.  
+Background 
+The Household Diary Study survey, conducted each year since 1987, collects information about households’ 
+use of mail and how usage changes over time.  The HDS consists of two surveys of households. The first 
+survey is a preliminary recruitment survey which gathers information about household demographics and  
+methods the household uses to pay and receive bills and statements, household attitudes toward mail 
+advertising, and other information related to their use of the mail. The second survey is a mail diary in which 
+households report the volumes and types of mail they received and sent during a given week.   
+The FY 2024 report covers Government Fiscal Year 2024, which ran from October 1, 2023, to September 
+30, 2024, with comparisons to 2014 and 2019, as appropriate. 
+Overview 
+As seen in Table E.1, in 2024, U.S. households received an average of 6 44 pieces of mail from non -
+households. Households sent an average of 19 pieces to non -households and there was an average of 1 9 
+pieces of mail sent from one household to another. Overall, total mail received or sent by households equaled 
+682 pieces per household in 2024. 
+The total volume of household mail can be estimated by multiplying the pieces per household by the total of 
+132.2 million U.S, households in 2024. That calculation produces an estimate of total household mail in 
+2024 of 90.2 billion pieces, or 80% of the 112.5 billion pieces of mail delivered by the USPS. The remaining 
+20% consists of mail from non-households to non-households, primarily businesses and governments.   
+Table E.1: Mail Received and Sent by Households 
+Mail Flows Pieces per 
+Household 
+All Households 
+(Billions) 
+Non-Household to Household 644.2 85.2 
+Household to Non-Household  18.8 2.5 
+Household to Household  18.9 2.5 
+Total Household Mail  682.0 90.2 
+Total USPS Mail — 112.5 
+Household Mail Share  — 80% 
+Sources: HDS Diary Sample, FY 2024, RPW Reports. Notes: Totals may not sum due to 
+rounding. Total USPS Mail Received and Sent by All Households found in RPW. 
+--- PDF PAGE 7 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    E X E C U T I V E  S U M M A R Y  ii  
+Mail Markets 
+The Household Diary Study examines mail by the markets the U.S. Postal Service serves. This design at 
+times cuts across mail classes to provide a foundation for understanding mail flows and the marketplace 
+changes that affect them. Table E.2 shows household mail volumes by market for 2014, 2019, and 2024. 
+Of the 682 pieces of mail received and sent per household in 2024, 97 pieces were correspondence mail and 
+111 pieces were transactions mail. Most household mail was advertising mail with 410 pieces received per 
+household in 2024. In addition, households received an average of 20 periodicals in 2024 and received or 
+sent 52 packages. 
+Table E.2: Household Mail Volume Sent and Received by Mail Market Served 
+(Pieces per Household per Year) 
+Market 2014 2019 2024 Change  
+2014 – 2024 
+Change 
+2019 - 2024 
+Correspondence 135.1 117.5 97.2 -28% -17% 
+Transactions 214.7 159.1 111.0 -48% -30% 
+Advertising 673.5 587.8 409.9 -39% -30% 
+Periodicals 43.3 32.4 19.9 -54% -39% 
+Packages 28.3 37.7 51.8 83% 37% 
+Other 21.2 14.7 6.0 -72% -59% 
+Total 1074.7 921.8 682.0 -37% -26% 
+Source: HDS Diary Sample. Notes: Correspondence and packages exclude double-counted pieces 
+reported as both sent and received by households. Advertising includes First -Class advertising-
+enclosed mail that is also included in another category but excluded from total to avoid double-
+counting. Other includes unclassified First-Class Mail, and CDs and DVD sent by First-Class Mail. 
+Total household mail has been in decline for nearly twenty years. As shown in Table E.2, mail per household 
+fell 37% from 2014 to 2024 and 26% from 2019 to 2024. Most of this decline is due to the ongoing shift of 
+mail to various electronic alternatives available online and through other technologies. In addition, the social 
+and economic disruptions caused by the COVID-19 pandemic negatively impacted many mail categories, 
+most substantially advertising mail.   
+Focusing on the past ten years, per household volumes of correspondence mail declined 28%, transactions 
+mail declined 48%, advertising mail declined 39%, and periodicals mail declined 54%. Note that because 
+the total number of U.S. households grew 10% over the past decade, the declines in total mail volumes were 
+less than the declines measured on a per household basis.   
+The exception to this decline in mail volume was seen with packages which increased 83% from 2014 to 
+2024, and 37% from 2019 to 2024. The increase in package volumes is a result of the growth in online 
+shopping and e-commerce over the past decade, along with the surge in online shopping during the pandemic.   
+However, except for the benefit that growing use of  online shopping has had on USPS package volumes, 
+technological changes have mostly harmed mail volumes. A related development is the greater decline in 
+mail volumes among younger households, which are more likely to be comfortable with using technological 
+alternatives to the mail. This effect is presented in Table E.3 which shows trends in correspondence mail 
+received and sent by age of the household head. 
+--- PDF PAGE 8 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    E X E C U T I V E  S U M M A R Y  iii  
+Table E.3: Correspondence Mail Volumes by Age of Household Head 
+(Pieces per Household per Year) 
+Age of Household 
+Head 2014 2019 2024 % change 
+2014-2024 
+% change 
+2019-2024 
+Received 
+18 to 34 94.0 72.3 52.0 -45% -28% 
+35 to 54 123.3 101.9 87.7 -29% -14% 
+55 and Older 141.9 132.1 114.9 -19% -13% 
+All households 124.7 109.9 93.2 -25% -15% 
+Sent 
+18 to 34 19.8 11.1 3.8 -81% -66% 
+35 to 54 31.8 20.9 11.6 -64% -45% 
+55 and Older 46.8 36.1 22.1 -53% -39% 
+All households 35.5 26.0 14.9 -58% -43% 
+Source: HDS Diary Sample. 
+Households headed by someone 18 to 34 years old received an average of 52 pieces of correspondence mail 
+in 2024 while households headed by someone aged 55 or older received an average of 115 pieces. Moreover, 
+younger households saw a greater decline in correspondence mail received, with their volume falling 45% 
+from 2014 to 2024 compared with a 19% decline for the older households. Age differences in correspondence 
+mail sent were even greater. The youngest households sent fewer than 4 pieces of correspondence mail in 
+2024, 81% less than in 2014. 
+More evidence of how technological developments are affecting the mail is found in Tables E.4 which 
+shows that household bills payments and household bills and statements received have shifted from the 
+mail to electronic alternatives. For example, in 2014, households paid 33% of their bills by mail; by 2024 
+that share had dropped to 13% with 85% of household bills paid electronically. Table E.4 also shows that 
+the share of bills and statements received by mail fell from 77% in 2014 to 52% in 2024.  
+Table E.4: Shares of Household Bills Paid vs. Bills and Statements Received  
+Household Bills Paid by Method 
+Shares 2014 2019 2024 
+By Mail 33% 23% 13% 
+Electronically 62% 73% 85% 
+In Person 4% 3% 2% 
+Household Bills and Statements Received by Method 
+Shares 2014 2019 2024 
+By Mail 77% 65% 52% 
+Electronically only 23% 35% 48% 
+Source: HDS Recruitment Sample. Notes: the 2014  sample covers the period 2014q2 to 
+2014q4 due to lack of data in 2014q1. By Mail includes Bills and Statements that may also be 
+received electronically. 
+Advertising mail accounted for 60% of all household mail in 2024. Although advertising mail has declined 
+over the past decade, it continues to be an effective way of reaching both existing and prospective 
+--- PDF PAGE 9 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    E X E C U T I V E  S U M M A R Y  iv  
+customers. Table E.5 shows that 59% of advertising mail sent to existing customers is read by the recipients, 
+and for 15% of this mail the recipient says they are considering responding to the mailing. R eading and 
+response rates are lower for prospective customers – those that do not  have a past relationship with the 
+mailer – but they are still an indication that direct mail continues to be an effective way for businesses to 
+expand their customer base.   
+Table E.5: Reading and Response Rates to Marketing Mail Advertising by Past Relationship  
+(Percentage of Pieces) 
+Past Business Relationship 
+with Recipient Reading Rate Response 
+Rate 
+Existing Customers 59% 15% 
+Prospects 26% 2% 
+All Recipients 42% 8% 
+Source: HDS Diary Sample, FY 2024. Note: Totals may not sum due to 
+rounding. Response rate is percentage of pieces for which household is 
+considering a response to the advertising.   
+Periodical mail volumes recorded in this report include only periodicals delivered by the USPS. Table E.6 
+shows that in 2024, households received an average of 20 periodicals, of which a little more than 12 were 
+magazines, with newspapers being the second largest periodical category at about 6 pieces per household 
+per year. Table E.6 also shows that magazines received have fallen 64% over the past ten years while 
+newspapers received have fallen just 6%. However, the small decline in newspapers received is primarily 
+because most of the decline in newspaper circulation occurred in the years before 2014. 
+Table E.6: Postal Service Periodical Type by Year 
+(Pieces per Household per Year) 
+Periodical Type 2014 2019 2024 % change 
+2014-2024  
+% change 
+2019-2024  
+Magazines 34.3 23.6 12.4 -64% -48% 
+Newspapers 6.5 5.6 6.1 -6% 8% 
+Newsletters 1.7 2.4 1.1 -39% -55% 
+Unclassified 0.8 0.8 0.4 -56% -58% 
+Total Periodicals 43.3 32.4 19.9 -54% -39% 
+Source: HDS Diary Sample. Note: Totals may not sum due to rounding.  
+As discussed above, Table E.2 showed that packages are the only major postal market that has grown over 
+the past decade. Table E.7 shows that most of this growth has occurred in more rural, less urbanized areas. 
+Households living in one of the thirty largest Metropolitan Statistical Areas (MSAs) received 58% more 
+packages in 2024 than in 2014 while households living in other MSAs received 95% more packages. While 
+these increases are impressive, they pale in comparison to the 238% increase in the per household packages 
+received by households living outside of MSAs. These data demonstrate that while the Postal Service has 
+benefited from the general growth in the package market over the past decade, it is particularly well -
+positioned in less urbanized areas which are often underserved by USPS competitors.   
+ 
+--- PDF PAGE 10 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    E X E C U T I V E  S U M M A R Y  v  
+Table E.7: Packages Received by MSA Classification 
+(Pieces per Household per Year) 
+  2014 2019 2024 % change 
+2014-2024 
+% change 
+2019-2024 
+Largest MSA 25.6 32.9 40.4 58% 23% 
+Other MSAs 26.2 37.6 51.1 95% 36% 
+Non-MSAs 19.4 40.4 65.6 238% 62% 
+Source: HDS Diary Sample. 
+ 
+--- PDF PAGE 11 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y         Chapter 1:  I N T R O D U C T I O N- V O L U M E S  & T R E N D S 1  
+Chapter 1: Introduction – Volumes & 
+Trends 
+The United States Postal Service Household Diary Study (HDS) Report documents the findings of the Fiscal 
+Year (FY) 2024 study. The HDS measures the mail sent and received by U.S. households, tracks volume 
+trends over time, and compares mail usage by households’ demographic characteristics. 
+The Survey 
+The Household Diary Study survey, conducted each year since 1987, collects information about U. S. 
+household use of the mail and how usage changes over time. The types of information covered by the survey 
+include: 
+• Volumes and types of mail sent and received, 
+• Demographics of mail users, 
+• Attitudes toward mail and advertising, 
+• Bill payment behavior. 
+The data generated by the recruitment survey and 
+mail diary are the basis of the analysis in this report. 
+The 2024 HDS report covers the 2024 government 
+fiscal year which ran from October 1, 2023, 
+through September 30, 2024. Data for 2014 and 
+2019 are also reported on a fiscal year basis. 
+Findings are used to assist in market research, 
+forecasting, and strategic planning within the Postal Service and can be viewed by the public on the Postal 
+Rate Commission website. 
+U.S. Postal Service Volumes 
+This section reviews all mail volumes processed by the Postal Service, as reported in RPW (Revenue, Piece, 
+Weight) reports, and shown in Table 1.1. The data includes mail to and from households , as well as non-
+household to non-household mail. All other sections of the report will focus exclusively on household mail. 
+Mail Classes 
+• First-Class Mail is used to send transactional mail, correspondence, and advertising, and is limited 
+to letters, cards and large envelopes weighing 13 ounces or less. 
+• Marketing Mail includes advertisements and marketing packages weighing less than 16 ounces. For 
+the most part, Marketing Mail is comprised of letters, cards, and flats, although it contains a few 
+postcards and packages as well. Marketing Mail is divided into Commercial and Nonprofit 
+categories, the latter being mail sent by nonprofit agencies at reduced postage rates.  
+• Periodicals are magazines, newspapers, and newsletters, and are predominantly flat-shaped. 
+The Survey Consists of Two Parts: 
+An entry, or recruitment interview , 
+conducted by phone or Web, collects 
+demographic and attitudinal information 
+from about 9,800 households. 
+These households then receive a mail 
+diary, which collects information on the 
+mail the household sends and receives in 
+a one-week period. Annually, about 5,500 
+households complete the diary. 
+--- PDF PAGE 12 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y         Chapter 1:  I N T R O D U C T I O N- V O L U M E S  & T R E N D S 2  
+• Package and Shipping Services is used to deliver merchandise, books, catalogs, and media. 
+• Competitive Mail consists primarily of packages and parcels delivered by the Postal Service, which 
+also face direct competition from other delivery companies. 
+As shown in Table 1.1, the Postal Service delivered 112.5 billion pieces of mail, in 2024, a decrease of 21% 
+from 142.6 billion pieces delivered in 2019. The decrease was due largely to lower volumes of First-Class 
+Mail and Marketing Mail, which fell 20% and 24%,  respectively. From 2014 to 2024, total mail volume 
+declined 28%. The decline in First -Class Mail was primarily due to the shift of correspondence and 
+transactions mail to internet and other digital transmissions. First-Class Mail has been in decline for the past 
+two decades and fell 31% from 2014 to 2024. In 2024, First-Class Mail represented about 40% of all mail 
+delivered by the Postal Service. 
+Table 1.1: Total Mail Volume: FY 2014, 2019, and 2024 
+(Billions of Pieces) 
+Mail Classification 2014 2019 2024 
+% change 
+2014-
+2024 
+% change 
+2019-
+2024 
+           
+Market Dominant Mail:           
+First-Class Mail 64.3 55.3 44.4 -31% -20% 
+            
+Marketing Mail:           
+Commercial 67.6 63.6 47.4 -30% -26% 
+Nonprofit 12.8 12.1 10.2 -20% -16% 
+Total Marketing Mail 80.4 75.7 57.5 -28% -24% 
+            
+Periodicals 6.0 4.6 2.7 -55% -41% 
+            
+USPS and Free Mail 0.5 0.3 0.4 -23% 17% 
+Package Services Mail 0.5 0.6 0.4 -22% -31% 
+Total Market Dominant Mail 151.7 136.5 105.5 -30% -23% 
+            
+Total Competitive Mail 3.8 6.0 6.9 83% 15% 
+Total All Mail 155.5 142.6 112.5 -28% -21% 
+Source: RPW Reports. Notes: Totals may not sum due to rounding. Revenue Pieces and Weight (RPW) 
+Reports: used to track operational data and represent all mail processed by the USPS. They are distinct 
+from the Household Diary Study. 
+The decline in Marketing Mail (consisting mostly of advertising materials) reflected a rapid increase in 
+marketers’ use of digital and mobile advertising, as well as declines related to the economic and social 
+changes occurring during the 2020-2021 pandemic. Although Marketing Mail volume in 2024 was lower 
+than in 2014 or 2019 there have been individual years in which Marketing Mail volume increased, most 
+recently in 2021 and 2022. In 2024, Marketing Mail represented 51% of all mail delivered by the Postal 
+Service.
+--- PDF PAGE 13 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y         Chapter 1:  I N T R O D U C T I O N- V O L U M E S  & T R E N D S 3  
+Periodicals (primarily newspapers and magazines) have been in decline for more than two decades due to 
+drops in circulation and the shift of publications and information to the internet. From 2019 to 2024, 
+Periodicals Mail fell 41%, and in the most recent year accounted for 2.4% of all USPS mail. 
+In contrast to the other mail classes, Competitive Mail has increased due to the growth in online shopping 
+and e-commerce activity. In 2024, Competitive Mail volume was 15% greater than in 2019 and 83% greater 
+than in 2014 . Competitive Mail represented 6% of total USPS  volume in 2024 but because of its higher 
+revenue per piece, it represented more than 40% of total USPS revenues. 
+Mail Flows: Sender and Recipient  
+Mail volume can be broken into four basic flows, based on the sender and the recipient. These flows are: 
+1) Household to household, 
+2) Household to non-household, 
+3) Non-household to household, and 
+4) Non-household to non-household, which is not measured by the Household Diary Study. 
+Table 1.2 presents volumes by type of mail flow as a percentage of the total. Most of the mail delivered by USPS 
+is sent by non -households to households (76%), with just 20% of the mail sent between non -households 
+(primarily businesses and governments). Only small fractions of mail volume are sent from one household to 
+another household (2%) or from a household to a non-household (2%). Put another way, only about 4% of total 
+USPS mail is sent by households.   
+Table 1.2: Total Domestic Mail Flows: 2024 
+(Percent of Total Mail Delivered by USPS) 
+Sent By: 
+Received By: 
+Household Non-Household 
+Household 2% 2% 
+Non-Household 76% 20% 
+Source: HDS Survey, RPW Reports, FY 2024.  
+Table 1.3 presents these data in two other forms , pieces per household per year  and total annual volume 
+across all households in the U.S. Many of the subsequent results in this report are presented in terms of pieces 
+per household per year.  
+In 2024, households received an average of 644 pieces from non -households. Households sent about 19 
+pieces to non-households during the year. Another 19 pieces were household-to-household mail.   
+The total volume sent to or received by households in 2024 is estimated by multiplying the 682 total pieces 
+of mail per household by the 132.2 million U.S. households in 2024. Total household mail is estimated to 
+be 90.2 billion pieces representing 80% of the 112.5 billion pieces of mail delivered by the USPS.  
+--- PDF PAGE 14 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y         Chapter 1:  I N T R O D U C T I O N- V O L U M E S  & T R E N D S 4  
+Table 1.3: Mail Received and Sent by Households in 2024 
+Mail Flows Pieces per 
+Household 
+All Households 
+(Billions) 
+Non-Household to Household 644.2 85.2 
+Household to Non-Household  18.8 2.5 
+Household to Household  18.9 2.5 
+Total Household Mail  682.0 90.2 
+Total USPS Mail — 112.5 
+Household Mail Share  — 80% 
+Source: HDS Diary Sample, FY 2024. Note: Totals may not sum due to rounding. 
+Table 1.4 below shows mail received and sent by households in 2014, 2019, and 2024 in terms of pieces 
+per household per year. 
+Table 1.4: Mail Received and Sent by Households 2014, 2019, 2024 
+(Pieces per Household per Year) 
+Mail Flows 2014 2019 2024 
+% Change 
+2014-
+2024 
+% Change 
+2019-
+2024 
+Non-Household to Household 984.1 861.8 644.2 -35% -25% 
+Household to Non-Household 57.8 35.3 18.8 -67% -47% 
+Household to Household 32.7 24.7 18.9 -42% -23% 
+Total Household Mail  1074.7 921.8 682.0 -37% -26% 
+Total US Households (millions) 123.2 128.6 132.2 7% 3% 
+Source: HDS Diary Sample. Note: Totals may not sum due to rounding. 
+Non-household-to-household mail declined 35% from 2014 to 2024, and 25% from 2019 to 2024. The most 
+dramatic decrease in mail flows was observed in household-to-non-household mail, which declined by 67% 
+from 2014 to 2024 . A likely reason that this category fell more than others was the increased use of the 
+internet and other technologies for paying bills and corresponding with businesses and governments.  
+Household-to-household mail experienced a sizeable decrease with a 42% decline in the last decade.  A 
+major cause for this decline is the migration to online and electronic alternatives of correspondence by mail 
+between households.   
+Overall, total household mail fell from 1,075 pieces per household in 2014 to 922 pieces per household in 
+2019 and to 682 pieces per household in 2024, a total decline of 37% over the past decade. Note that because 
+the total number of U.S. households increased over the past ten years, the percentage decline in total 
+household mail has been somewhat less than the percentage decline in pieces per household. 
+ 
+ 
+ 
+ 
+ 
+--- PDF PAGE 15 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y         Chapter 1:  I N T R O D U C T I O N- V O L U M E S  & T R E N D S 5  
+Mail Markets  
+While the USPS RPW report organizes mail by class, the HDS annual report organizes mail by the markets 
+in which the Postal Service operates. In many cases, the mail markets and mail classes are identical. In 
+some cases, the mail markets and classes differ. The markets analyzed in this report include the following:  
+Correspondence Mail consists of First-Class Mail that is used solely or primarily to deliver (non -sales-
+related) communications, such as letters, greeting cards, and communications between households and 
+businesses.  
+Transactions Mail consists of First -Class bills and statements, including mail payments by households, 
+and other transactions mail.  
+Marketing and Advertising Mail  includes Marketing Mail as well as First -Class Mail that includes 
+advertising, and other small categories of advertising mail. 
+Periodicals consist of magazines, newspapers, and other publications delivered in the mail.  
+Packages consist of packages delivered by the Postal Service, including packages sent by and received by 
+households.   
+Table 1.5 presents mail sent and received by households in 2024, organized by the above mail markets, 
+presented in terms of average number of pieces per household.   
+Correspondence and transaction mail held similar market shares, 14% and 16% respectively. 
+The advertising market was by far the largest in 2024, accounting for 60% of total household mail. This 
+may come as no surprise, considering mail advertisements’ ability to connect local businesses with local 
+customers.  
+Periodicals now account for a very small portion of total household mail, about 3%, with many magazines 
+and newspapers transitioning to online formats.  Packages accounted for 8% of pieces sent or received by 
+households in 2024. 
+Table 1.5: Pieces Received and Sent per Household - Markets 
+Mail Market Pieces per 
+Household per Year 
+Share of Total 
+Household Mail 
+Correspondence 97.2 14% 
+Transactions 111.0 16% 
+Advertising 409.9 60% 
+Periodicals 19.9 3% 
+Packages 51.8 8% 
+Other 6.0 1% 
+Total Household Mail  682.0 — 
+Source: HDS Survey , FY 2024. Notes: Correspondence, transactions and packages exclude 
+double-counted pieces reported as both sent and received by households. Advertising includes 
+13.9 pieces per year of First -Class advertising-enclosed mail that is also included in another 
+category but excluded from total to avoid double -counting. Other includes unclassified First -
+Class Mail, and CDs and DVD sent by First-Class Mail.  
+ 
+--- PDF PAGE 16 ---
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y         Chapter 1:  I N T R O D U C T I O N- V O L U M E S  & T R E N D S 6  
+Report Organization 
+The remainder of this report is organized as follows: 
+Chapter 2: Demographics and Mail Usage  
+Chapter 3: Correspondence Mail   
+Chapter 4: Transactions Mail  
+Chapter 5: Advertising Mail  
+Chapter 6: Periodicals  
+Chapter 7: Packages  
+In addition, there are two appendices to the report: 
+Appendix A contains a set of tables for major classes and types of mail. 
+Appendix B documents the study methodology and discusses how the data were collected, weighted, and 
+adjusted, and compares demographic data in the sample to that of the entire U.S. population based on 
+Census data. 
+A copy of the instruments used to administer the survey is available upon request. 
+ 
+--- PDF PAGE 17 ---
+ 
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y            Chapter 2:  D E M O G R A P H I C S  A N D  M A I L  U S A G E 7  
+Chapter 2: Demographics and Mail Usage 
+Introduction 
+This chapter provides an overview of demographic trends and other factors affecting mail flows and usage. 
+The breakouts introduced provide the framework for much of the analyses in later chapters. 
+Mail Volume and Demographics 
+Table 2.1 illustrates changes in mail volumes and changes in various measures of the size of the U.S. Postal 
+Market. The mail volumes presented here include both household and non -household mail. Subsequent 
+sections will look at household demographics and household mail. 
+Table 2.1: Mail Volume and Measures of the Size of the Mail Market  
+  2014 2019 2024 % Change 
+2014-2024 
+% Change 
+2019-2024 
+Total Mail Volume 
+(billions) 156 143 112 -28% -21% 
+Delivery Points 
+(millions) 154 160 169 10% 5% 
+Households 
+(millions) 123 129 132 7% 3% 
+Source: U.S. Postal Service – Total Mail Volume and Delivery Points, U.S. Census Bureau - Households. 
+From 2014 to 2024, total mail volume fell 28%, from 156 billion pieces to 112 billion . During this same 
+period, the number of Postal Service delivery points grew 10%, or about 1% per year, a rate that continued 
+from 2019 to 2024. The total number of U.S households grew at a somewhat slower pace, 7% over the past 
+10 years and 3% over the past 5 years. Regardless of the measure, the volume of mail has declined while 
+the number of mail users grew. 
+ 
+ 
+ 
+ 
+Tables 2.2 through 2.6 illustrate how certain households’ demographic characteristics can affect mail usage 
+more significantly than others. Note that several of the demographic variables presented in this section are 
+aligned with Census data through a weighting process described in Appendix B. 
+Table 2.2 shows that mail volume is strongly correlated with the age of the household head. Households 
+headed by someone aged 65 or older received or sent 41% of all household mail  in 2024, far above their 
+29% share of the U.S. population. Conversely, household heads aged 18 to 34 made up 20% of households 
+but only accounted for 11% of the total household mail. The shares of mail received or sent by households 
+aged 35 to 64 are close to their shares of total households  though even within these age groups, older 
+households mail share was somewhat greater than their population share. 
+ 
+The last decade saw significant declines in
+mail volumes even as household formation 
+and delivery points continued to rise. 
+--- PDF PAGE 18 ---
+ 
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y            Chapter 2:  D E M O G R A P H I C S  A N D  M A I L  U S A G E 8  
+Table 2.2: Age of Household Head and Mail Volume 
+(Pieces per Household per Year) 
+Age of Household Head Received Sent Share of 
+total mail 
+Share of 
+households 
+18 to 34 359.3 8.5 11% 20% 
+35-44 518.1 16.3 14% 17% 
+45-54 667.1 28.8 16% 16% 
+55-64 723.6 33.6 19% 17% 
+65 and Over 917.8 55.8 41% 29% 
+Source: HDS Diary Sample, FY 2024. 
+Table 2.3 shows the relationship between household income and household mail received and sent . The 
+volume of mail received per household increases as household income increases. For mail sent, the 
+relationship between pieces per household and household income is less clear. Combining received and 
+sent mail we see that higher income households ($100,000 and above) share of the mail is greater than their 
+share of population while households with incomes below $65,000 have a lower share of mail than their 
+share of households. 
+Table 2.3: Household Income and Mail Volume 
+(Pieces per Household per Year) 
+Household Income 
+(Thousands) Received Sent Share of 
+total mail 
+Share of 
+households 
+Under $25,000 420.7 19.5 7% 10% 
+$25,000-$34,999 495.2 31.1 8% 10% 
+$35,000-$49,999 610.4 23.9 12% 12% 
+$50,000-$64,999 636.9 33.8 10% 10% 
+$65,000-$79,999 644.2 33.8 11% 11% 
+$80,000-$99,999 649.3 32.2 12% 12% 
+$100,000-$119,999 730.8 29.3 12% 11% 
+$120,000-$149,999 793.5 37.8 10% 8% 
+$150,000 or More 847.9 30.6 20% 15% 
+Source: HDS Diary Sample, FY 2024. 
+As Table 2.4 highlights, education is another demographic factor that impacts the volume of household 
+mail received with pieces per household increasing as educational attainment increases. Generally, more 
+educated households also sent more mail. However, the relationship between education and mail volumes 
+is not as strong as that of age or income. For each education level, the share of mail is not much different 
+from the share of households. 
+ 
+ 
+ 
+ 
+ 
+--- PDF PAGE 19 ---
+ 
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y            Chapter 2:  D E M O G R A P H I C S  A N D  M A I L  U S A G E 9  
+Table 2.4: Education of Household Head and Mail Volume 
+(Pieces per Household per Year) 
+Educational Attainment of Household Head Received Sent Share of 
+total mail 
+Share of 
+households 
+Up to 12th Grade (No Diploma) 557.8 23.9 5% 6% 
+High School Graduate 625.4 29.4 25% 26% 
+Some College or Technical School Graduate 670.4 34.5 21% 21% 
+College Graduate 696.7 32.2 49% 47% 
+Source: HDS Diary Sample, FY 2024. 
+Table 2.5 shows that homeowners received and sent about twice as much mail as renters. However, it should 
+be noted that homeownership is also correlated with age and income, two other factors which also affect 
+mail volume.   
+Table 2.5: Homeownership and Mail Volume 
+(Pieces per Household per Year) 
+Homeownership Status Received Sent Share of 
+total mail 
+Share of 
+households 
+Homeowner 794.4 37.8 79% 66% 
+Renter 410.9 17.8 21% 34% 
+Source: HDS Diary Sample, FY 2024. 
+Table 2.6 presents mail volumes depending on whether the household lives in one of the 30 largest MSAs 
+(Metropolitan Statistical Areas) in the U.S., another MSA, or outside of an MSA. Total mail volumes sent 
+and received are not very different across the different MSA classifications. However, as later chapters will 
+show, there are some types of mail where differences between more urbanized and more rural households 
+are important.   
+Table 2.6: MSA Classification and Mail Volume 
+(Pieces per Household per Year) 
+MSA Classification Received Sent Share of 
+total mail 
+Share of 
+households 
+Largest MSA 693.9 30.3 46% 44% 
+Other MSA 642.4 33.0 40% 42% 
+Non-MSA 627.9 29.0 13% 14% 
+Source: HDS Diary Sample, FY 2024. 
+Table 2.7 shows changes over time in the different age group’s share of total mail and share of total 
+households. This table illustrates a recurring theme regarding household mail – that it is increasingly 
+skewed toward older households. For example, in 20 14, households headed by someone age 65 or over 
+accounted for 30% of all household mail and 23% of all households. By 2024, the 65 or o ver age group 
+accounted for 41% of all mail and 29% of all households. 
+In contrast, younger households – those headed by someone aged 18 to 34 – saw their share of total mail 
+fall from 14% in 2014 to 11% in 2024, far below their 20% share of total households in 2024. 
+ 
+--- PDF PAGE 20 ---
+ 
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y            Chapter 2:  D E M O G R A P H I C S  A N D  M A I L  U S A G E 10  
+Table 2.7: Age of Household Head and Mail Volume Shares 
+(Pieces per Household per Year) 
+Age of 
+Household 
+Head 
+2014 2019 2024 
+Share of 
+total mail 
+Share of 
+households 
+Share of 
+total mail 
+Share of 
+households 
+Share of 
+total mail 
+Share of 
+households 
+18 to 34 14% 22% 12% 20% 11% 20% 
+35-44 15% 18% 13% 17% 14% 17% 
+45-54 20% 19% 18% 18% 16% 16% 
+55-64 21% 18% 21% 19% 19% 17% 
+65 and Over 30% 23% 36% 27% 41% 29% 
+Source: HDS Diary Sample, FY 2024. 
+Figure 2.1 illustrates the differences in mail volume between homeowners and renters across age groups. 
+Given that homeownership is strongly correlated with the age of household heads, this figure helps isolate 
+the effect of homeownership by comparing renters and homeowners within the same age categories. As 
+shown, homeowners receive approximately 50% more mail pieces than renters within each age group. 
+Figure 2.1: Mail Pieces by Age and Homeownership 
+(Pieces per Household per Year) 
+ 
+Source: HDS Diary Sample, FY 2024. 
+ 
+476
+702
+942
+310
+426
+585
+18-34
+ 35-54
+ 55 and Over
+Homeowner Renter
+--- PDF PAGE 21 ---
+ 
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    Chapter 3:  C O R R E S P O N D E N C E  M A I L 11  
+Chapter 3: Correspondence Mail 
+Introduction 
+This chapter examines the flow of correspondence mail from household to household and between 
+households and businesses, including letters, greeting cards, invitations, and announcements. In several 
+cases, this chapter, and others following it, examine comparisons in data between 2014, 2019, and 
+2024, providing an illustration of mail trends over time. In 2024, correspondence mail represented 14% of 
+all household mail. 
+Correspondence Mail Volume 
+Correspondence mail has declined steadily since the early 2000’s, when both personal and business 
+communications began migrating to the internet. As shown in Table 3.1, correspondence mail received by 
+households fell 25% from 2014 and 2024. Over the same period, correspondence mail sent fell 58%, 
+indicating that households are more comfortable using alternatives to the mail for sending correspondence 
+than receiving it. In 2024, households received an average of 93 pieces of correspondence mail and sent an 
+average of 15 pieces. Total correspondence mail received by or sent by households was 97 pieces per year. 
+The total is less than the sum of the individual received and sent volumes because household-to-household 
+correspondence mail is included in both the received and sent categories, but this double-count is removed 
+from the total. 
+Table 3.1: Total Postal Service Correspondence Volumes 
+(Pieces per Household per Year) 
+  2014 2019 2024 % change 
+2014-2024 
+% change 
+2019-2024 
+Received 124.7 109.9 93.2 -25% -15% 
+Sent 35.5 26.0 14.9 -58% -43% 
+Total 135.1 117.5 97.2 -28% -17% 
+Source: HDS Diary Sample. Note: Total is adjusted for double count of pieces sent and 
+received between households. 
+Table 3.2 shows changes in the flow of mail from households and non-households. From 2019 to 2024, first-
+class correspondence mail sent from households to other households and from households to non-households 
+fell 24% and 47%, respectively. Correspondent mail from non-households to households fell just 13%.  
+Table 3.2: Household Correspondence by Mail Flow 
+(Pieces per Household per Year) 
+Mail Flow 2014 2019 2024 % change 
+2014-2024 
+% change 
+2019-2024 
+Household to household 29.2 21.9 16.6 -43% -24% 
+Non-household to household 95.5 88.0 76.5 -20% -13% 
+Household to non-household 10.3 7.6 4.1 -61% -47% 
+Total 135.1 117.5 97.2 -28% -17% 
+Source: HDS Diary Sample. Note: Totals may not sum due to rounding. 
+--- PDF PAGE 22 ---
+ 
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    Chapter 3:  C O R R E S P O N D E N C E  M A I L 12  
+Correspondence mail received by households is somewhat varied as seen in Table 3.3 . The largest 
+component is notices/announcements/business invitations at 39 pieces per household in 2024. The volume 
+of this category has been fairly stable  over time. Other s izeable types of correspondence mail received 
+include greeting cards, and correspondence related to taxes  and insurance. T otal correspondence mail  
+received fell from 125 pieces per household in 2014 to 93 per household in 2024, a decline of 25%.  
+Table 3.3: Household Correspondence Mail Received by Contents 
+(Pieces per Household per Year) 
+Type of Mail 2014 2019 2024 % change 
+2014-2024 
+% change 
+2019-2024 
+Notice/Announcement/Business Invitation 45.2 39.7 39.1 -14% -2% 
+Greeting card 23.9 18.1 15.5 -35% -14% 
+Insurance Related (EOBs, etc.) 20.5 19.9 12.2 -41% -39% 
+Tax Related 9.1 9.4 8.2 -10% -12% 
+Letter or Invitation from a Friend or Relative 8.4 6.0 3.4 -59% -44% 
+Other Correspondence Received 17.6 16.7 14.8 -16% -11% 
+Total Correspondence Mail Received 124.7 109.9 93.2 -25% -15% 
+Source: HDS Diary Sample. Note: Totals may not sum due to rounding. 
+Table 3.4 shows that most correspondence mail sent consists of greeting cards, representing 9.4 of the 14.9 
+pieces sent in 2024. Holiday greeting cards fell only 9% from 2019 to 2024, compared to a fall of 45% for 
+other greeting cards. On average, households sent less than two personal letters in 2024, 78% less than in 
+2014. Total correspondence mail sent fell 58% from 2014 to 2024 and 43% from 2019 to 2024. 
+Table 3.4: Household Correspondence Mail Sent by Contents 
+(Pieces per Household per Year) 
+Type of Mail 2014 2019 2024 % change 
+2014-2024 
+% change 
+2019-2024 
+Holiday/Seasons Greeting card 7.0 5.2 4.7 -32% -9% 
+Other Greeting card 11.6 8.6 4.7 -59% -45% 
+Letter/Invitation/Announcement 8.6 5.2 1.9 -78% -63% 
+Tax Related 1.7 1.3 0.6 -63% -52% 
+Completed form/Application/Paperwork 2.7 1.5 1.0 -63% -32% 
+Other Correspondence Sent 4.1 4.3 1.9 -54% -56% 
+Total Correspondence Mail Sent 35.5 26.0 14.9 -58% -43% 
+Source: HDS Diary Sample. Note: Totals may not sum due to rounding. 
+--- PDF PAGE 23 ---
+ 
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    Chapter 3:  C O R R E S P O N D E N C E  M A I L 13  
+Correspondence Mail and Household Characteristics 
+The following figures categorize correspondence mail sent and received by households according to the 
+demographic characteristics developed in Chapter 2. Figure 3.1 shows that household age is a key 
+determinant of household correspondence mail. Households headed by someone 55 or older received more 
+than twice as many pieces as households headed by someone aged 18 to 34. The age difference in mail sent 
+is even greater with the oldest households sending almost six times as much correspondence mail as the 
+youngest households. 
+Figure 3.1: Correspondence Mail Volumes by Age of Household Head 
+(Pieces per Household per Year) 
+ 
+Source: HDS Diary Sample, FY 2024. 
+Table 3.5 looks at changes in correspondence mail over the past ten years by age of household head. Not 
+only do younger households receive less mail than older households, but their decline in mail volume has 
+also been greater. From 2014 to 2024, households headed by someone aged 18 to 34 years old saw a 45% 
+decline in correspondence mail received, compared with declines of 29% for the 35 to 54 age group and 
+19% for the 55 and over age group. Since 2019, the age difference is even greater with the decline a mong 
+younger households being twice as great as for the other age groups.  
+Table 3.5 also shows that correspondence mail sent by the 18 to 34 age group fell 81% from 2014 to 2024, 
+and 66% from 2019 to 2024, reflecting their greater communication through use of digital technologies.  
+  
+52.0
+87.7
+114.9
+3.8 11.6
+22.1
+18 to 34
+ 35 to 54
+ 55 and Over
+Received Sent
+--- PDF PAGE 24 ---
+ 
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    Chapter 3:  C O R R E S P O N D E N C E  M A I L 14  
+Table 3.5: Correspondence Mail Volumes by Age of Household Head 
+(Pieces per Household per Year)  
+Age of Household Head 2014 2019 2024 % Change 
+2014-2024 
+% Change 
+2019-2024 
+Received 
+18 to 34 94.0 72.3 52.0 -45% -28% 
+35 to 54 123.3 101.9 87.7 -29% -14% 
+55 and Over 141.9 132.1 114.9 -19% -13% 
+All households 124.7 109.9 93.2 -25% -15% 
+Sent 
+18 to 34 19.8 11.1 3.8 -81% -66% 
+35 to 54 31.8 20.9 11.6 -64% -45% 
+55 and Over 46.8 36.1 22.1 -53% -39% 
+All households 35.5 26.0 14.9 -58% -43% 
+Source: HDS Diary Sample. 
+Figure 3.2 shows that household income also affects the volume  of correspondence mail received.  
+Households with an annual income over $100,000 received about 40% more correspondence mail than 
+households earning less than $35,000 and about 15% more than households earning between $35,000 and 
+$100,000. On the other hand, there is not a clear relationship between household income and 
+correspondence mail sent with all income groups sending about 15 pieces per  household in 2024. 
+Figure 3.2: Correspondence Mail Volumes by Household Income 
+(Pieces per Household per Year) 
+ 
+Source: HDS Diary Sample, FY 2024. 
+An interesting result is found in Figure 3.3 which looks at correspondence mail by education of the 
+household head. Mail received is about the same across all education levels, ranging between 92 and 100 
+pieces per year. Education has more of an impact on correspondence mail sent with households headed by 
+someone without a high school diploma sending an average of just 7 pieces per year. The other education 
+groups sent roughly twice as much. 
+ 
+73.5
+90.1 89.4
+104.0
+15.4 12.0 16.0 14.7
+Under $35K
+ $35K to $65K
+ $65K to $100K
+ Over $100K
+Received Sent
+--- PDF PAGE 25 ---
+ 
+2 0 2 4  H O U S E H O L D  D I A R Y  S T U D Y    Chapter 3:  C O R R E S P O N D E N C E  M A I L 15  
+Figure 3.3: Correspondence Mail Volumes by Education of Household Head 
+(Pieces per Household per Year) 
+ 
+Source: HDS Diary Sample, FY 2024. 
+Table 3.6 shows how correspondence mail volumes have changed over time for different education levels. 
+College graduates had the largest decline in correspondence received in the last decade, dropping 35% from 
+2014 to 2024. Meanwhile, household heads witho ut a high school diploma experienced a 4% increase in 
+mail received in the last decade. However, these households saw significantly greater declines in 
+correspondence mail sent, with those without a high school diploma sending 71% less than a decade ago, 
+and those with some college or technical school sending 46% less. 
+Table 3.6: Correspondence Mail Volumes by Education of Household Head 
+(Pieces per Household per Year)  
+Education of Household Head 2014 2019 2024 % change 
+2014-2024 
+% change 
+2019-2024 
+Received 
+Up to 12th Grade (No Diploma) 95.2 103.0 99.3 4% -4% 
+High School Graduate 112.5 108.7 93.0 -17% -14% 
+Some College or Technical School 123.2 109.4 92.0 -25% -16% 
+College Graduate 143.4 112.9 93.2 -35% -17% 
+All households 124.7 109.9 93.2 -25% -15% 
+Sent 
+Up to 12th Grade (No Diploma) 25.0 19.5 7.3 -71% -62% 
+High School Graduate 31.2 22.1 13.6 -57% -38% 
+Some College or Technical School 34.1 25.1 18.3 -46% -27% 
+College Graduate 42.8 30.3 15.2 -65% -50% 
+All households 35.5 26.0 14.9 -58% -43% 
+Source: HDS Diary Sample. 
+ 
+ 
+99.3 93.0 92.0 93.2
+7.3 13.6 18.3 15.2
+Up to 12th Grade (No
+Diploma)
+High School Graduate
+ Some College or
+Technical School
+College Graduate
+ Received Sent

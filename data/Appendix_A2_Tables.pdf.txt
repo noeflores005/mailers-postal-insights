@@ -1,0 +1,964 @@
+--- PDF PAGE 1 ---
+1987 2006 2007 1987 2006 2007
+Personal:
+Holiday card 3.2 1.7 1.4 0.55 0.44 0.35
+Other greeting cards 1.7 0.9 1.0 0.29 0.22 0.24
+Letter 2.7 0.7 0.7 0.46 0.19 0.18
+Package 0.1 0.1 0.1 0.01 0.01 0.01
+Invitations 0.7 0.4 0.4 0.12 0.10 0.10
+Announcements 0.2 0.1 0.1 0.03 0.02 0.02
+Other personal 0.5 0.2 0.1 0.09 0.05 0.03
+Total Personal 9.1 4.0 3.8 1.55 1.04 0.94
+Business or Nonfederal Government: 
+Advertising Only 5.2 6.6 6.0 0.89 1.74 1.50
+Notice of order 1.4 1.8 2.1 0.23 0.46 0.54
+Bill/invoice/premium /onesans 14.7 12.3 12.5 2.52 3.21 3.11
+Financial statement 5.0 4.4 4.7 0.87 1.17 1.18
+Payment 1.9 0.9 0.9 0.32 0.24 0.24
+Rebate 0.1 0.1 0.1 0.01 0.03 0.03
+Greeting card 0.3 0.3 0.3 0.05 0.07 0.06
+Invitation or announcement 1.5 2.1 2.1 0.26 0.55 0.52
+Sweepstakes 0.1 0.0 0.1 0.01 0.00 0.02
+Receipts for direct deposit 0.0 0.0 0.0 0.01 0.13 0.22
+Insurance policy /twosans 0.2 0.5 0.9 0.03 0.13 0.22
+Tax forms 0.0 0.3 0.3 0.01 0.07 0.09
+CD/DVD/Video game N/A N/A 0.4 N/A 0.00 0.11
+Other business or government 6.7 0.9 0.8 1.14 0.23 0.19
+Packages 0.1 0.4 0.2 0.02 0.11 0.05
+Total Business or Government 37.2 30.6 31.4 6.37 8.16 8.07
+Social/Charitable/Political/Nonprofit:
+Announcement/meeting 1.3 1.1 1.5 0.22 0.30 0.37
+Request for donation 0.4 0.5 0.5 0.07 0.12 0.12
+Confirmation of donation 0.2 0.2 0.2 0.03 0.06 0.05
+Bill/invoice/premium 0.3 0.1 0.1 0.04 0.04 0.03
+Educational acceptances 0.1 0.0 0.0 0.02 0.00 0.00
+Other social/charitable/political/nonprofit 1.2 0.3 0.2 0.20 0.07 0.06
+Total Social/Charitable/Political/Nonprofit 3.5 2.2 2.5 0.58 0.59 0.62
+Don't know/No answer 0.6 1.9 1.6 0.11 0.49 0.41
+Total Mail Received by Households 50.4 38.7 39.3 8.61 10.27 10.04
+/onesansIncludes credit card statement/bill.
+/twosansEstimates for 2006 and 2007 include Insurance Related Mail.
+Note: Totals may not sum due to rounding.
+Content
+Percent of Total Mail 
+Received by Households
+Pieces Per Household 
+Per Week
+Table A2-1
+First-Class Mail Contents of Mail Received by Households
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+--- PDF PAGE 2 ---
+1987 2006 2007 1987 2006 2007
+Quarter One 2.42 1.77 1.61 6.49 7.80 6.50
+Quarter Two 1.56 0.73 0.59 6.38 7.83 7.15
+Quarter Three 1.16 0.71 0.69 6.56 7.30 6.95
+Quarter Four 1.04 0.64 0.54 6.00 7.48 6.80
+* Includes credit card statement/bill.
+Quarter Total Personal Total Business or Nonfederal 
+Government*
+Table A2-2
+First-Class Mail Received -- Content by Quarter
+(Pieces Per Household Per Week)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+--- PDF PAGE 3 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007
+Financial:
+Credit Card 7.0 20.5 13.8 0.4 3.6 2.1 0.1 0.4 0.2
+Bank 7.0 8.0 8.3 0.4 1.4 1.3 0.1 0.1 0.1
+Securities 5.4 1.7 1.5 0.3 0.3 0.2 0.0 0.0 0.0
+Money Market 0.2 0.3 0.3 0.0 0.1 0.0 0.0 0.0 0.0
+Insurance 7.8 5.4 6.2 0.4 0.9 1.0 0.1 0.1 0.1
+Mortgage 3.7 6.6 6.9 0.2 1.1 1.1 0.0 0.1 0.1
+Other Financial 1.1 0.6 0.7 0.1 0.1 0.1 0.0 0.0 0.0
+Total Financial 32.2 43.2 37.7 1.7 7.5 5.8 0.3 0.8 0.6
+Merchants:
+Supermarkets 0.0 1.1 0.8 0.0 0.2 0.1 0.0 0.0 0.0
+Deprtment Store 7.0 5.2 4.0 0.4 0.9 0.6 0.1 0.1 0.1
+Mail Order 8.5 4.8 3.6 0.4 0.8 0.6 0.1 0.1 0.1
+Specialty Store 9.3 8.3 10.6 0.5 1.4 1.6 0.1 0.1 0.2
+Publisher 10.8 4.2 3.8 0.6 0.7 0.6 0.1 0.1 0.1
+Land Promotion 3.8 0.9 1.1 0.2 0.2 0.2 0.0 0.0 0.0
+Online Auction N/A N/A 0.1 N/A N/A 0.0 N/A N/A 0.0
+Restaurant 0.2 0.3 0.4 0.0 0.1 0.1 0.0 0.0 0.0
+Consumer packaged goods 1.0 3.2 4.2 0.1 0.6 0.6 0.0 0.1 0.1
+Auto dealers 2.2 3.2 4.5 0.1 0.6 0.7 0.0 0.1 0.1
+Service stations 0.1 1.0 1.7 0.0 0.2 0.3 0.0 0.0 0.0
+Other Merchants 3.2 1.6 1.6 0.2 0.3 0.2 0.0 0.0 0.0
+Total Merchants 46.1 33.8 36.2 2.4 5.9 5.6 0.4 0.6 0.5
+Services:
+Telephone 1.9 2.2 2.3 0.1 0.4 0.4 0.0 0.0 0.0
+Other utility 0.7 0.6 0.7 0.0 0.1 0.1 0.0 0.0 0.0
+Medical 1.7 3.0 2.9 0.1 0.5 0.4 0.0 0.1 0.0
+Other professional 1.7 1.8 1.2 0.1 0.3 0.2 0.0 0.0 0.0
+Leisure service 7.7 6.4 7.8 0.4 1.1 1.2 0.1 0.1 0.1
+Cable TV 0.8 1.0 1.3 0.0 0.2 0.2 0.0 0.0 0.0
+Computer 0.6 0.8 0.9 0.0 0.1 0.1 0.0 0.0 0.0
+Craftsman 0.1 0.1 0.5 0.0 0.0 0.1 0.0 0.0 0.0
+Other Services 2.9 2.9 5.1 0.1 0.5 0.8 0.0 0.1 0.1
+Total Services 17.5 18.8 22.9 0.9 3.3 3.5 0.2 0.3 0.3
+Federal government N/A 2.3 1.6 N/A 0.4 0.3 N/A 0.0 0.0
+Nonfederal government 1.0 0.8 0.6 0.0 0.1 0.1 0.0 0.0 0.0
+Social/Charitable/Political/Nonprofit 0.0 0.4 0.2 0.0 0.1 0.0 0.0 0.0 0.0
+Don't Know/No Answer 3.2 0.7 0.7 0.2 0.1 0.1 0.0 0.0 0.0
+Total Advertising-Only Mail Received 
+by Households 100.0 100.0 100.0 5.2 17.4 15.3 0.9 1.7 1.5
+Note: Totals may not sum due to rounding.
+Table A2-3
+Use of First-Class Advertising-Only Mail -- by Industry
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+Pieces Per 
+Household Per WeekIndustry
+Percent of First-Class 
+"Advertising Only"
+Percent of Total First 
+Class Mail
+--- PDF PAGE 4 ---
+1987 2006 2007
+< $7K 18.6 15.6 24.9
+$7K - $9.9K 21.1 22.6 24.7
+$10K - $14.9K 25.5 21.9 21.8
+$15K - $19.9K 23.4 26.1 28.5
+$20K - $24.9K 24.3 30.0 28.8
+$25K - $29.9K 25.5
+$30K - $34.9K 27.0
+$35K - $49.9K 29.5 30.1 28.7
+$50K - $64.9K 29.4 31.0 27.4
+$65K - $79.9K 29.9 32.0 29.8
+$80K - $99.9K 33.3 31.2 29.8
+$100K+ 31.6 32.2 30.3
+/onesans Includes advertising only, advertising enclosed, and business invitations/announcements.
+Table A2-4
+Percentage of First-Class Mail Containing Advertising by Household Income
+(Percentage of Pieces)
+Postal Fiscal Years 1987, 2006 and 2007
+(Recruitment and Diary Data)
+Income
+First-Class Mail
+29.4 27.0
+--- PDF PAGE 5 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007
+Financial:
+Credit Card 12.2 34.1 22.8 14.0 20.2 19.0 13.7 23.1 19.8
+Bank 10.5 9.0 8.9 5.5 7.4 8.4 6.8 7.7 8.5
+Securities 9.5 5.7 4.0 1.4 1.0 1.2 3.1 2.0 1.8
+Money Market 1.1 0.7 0.4 0.2 0.2 0.2 0.4 0.3 0.2
+Insurance 13.0 7.6 8.2 9.5 8.2 7.7 10.3 8.1 7.8
+Mortgage 1.6 1.5 1.4 0.4 1.9 2.1 0.6 1.9 2.0
+Other Financial 1.4 0.7 0.4 0.4 0.4 0.4 0.6 0.5 0.4
+Total Financial 49.3 59.4 46.2 31.4 39.3 39.1 35.0 43.5 40.6
+Merchants:
+Supermarkets 0.0 0.0 0.2 0.0 0.1 0.1 0.0 0.1 0.1
+Deprtment Store 3.7 1.4 1.7 9.4 4.2 4.2 8.1 3.6 3.7
+Mail Order 4.6 2.4 2.1 2.3 1.6 1.7 2.6 1.8 1.8
+Other Store 1.2 1.0 1.1 1.8 1.8 1.9 1.6 1.6 1.8
+Publisher 8.2 5.2 5.6 6.8 3.1 3.3 7.0 3.6 3.8
+Land Promotion 0.5 0.1 0.1 0.1 0.0 0.0 0.2 0.0 0.0
+Online auction N/A N/A 0.1 N/A N/A 0.1 N/A N/A 0.1
+Restaurant 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Consumer packaged goods/manufacturers 0.7 1.1 1.2 0.1 0.4 0.6 0.2 0.6 0.7
+Auto dealers 0.3 0.5 0.4 0.0 0.1 0.1 0.1 0.2 0.2
+Service stations 0.0 0.0 0.0 0.0 0.1 0.1 0.0 0.1 0.1
+Other Merchants 0.8 0.7 11.8 0.7 0.2 0.3 0.7 0.3 2.7
+Total Merchants 21.1 12.5 24.4 21.2 11.8 12.4 21.2 11.9 14.9
+Services:
+Telephone 3.6 2.3 1.9 11.8 12.6 11.3 10.3 10.5 9.3
+Other utility 3.1 2.6 3.0 14.4 12.4 12.6 12.1 10.3 10.6
+Medical 3.8 4.1 4.0 8.6 8.1 8.9 7.6 7.3 7.9
+Other professional 1.0 0.9 0.8 0.4 0.5 0.4 0.6 0.6 0.5
+Leisure service 1.6 1.6 3.2 0.7 0.6 0.6 0.9 0.8 1.1
+Cable TV 0.5 1.0 0.9 3.5 5.4 5.0 2.9 4.5 4.1
+Computer 0.1 0.3 0.1 0.0 0.4 0.4 0.0 0.4 0.3
+Craftsman 0.1 0.0 0.1 0.1 0.0 0.0 0.1 0.0 0.1
+Other services 1.8 1.2 2.2 1.0 1.3 1.5 1.2 1.2 1.7
+Total Services 15.6 14.0 16.2 40.5 41.2 40.7 35.5 35.6 35.6
+Federal government N/A 2.6 2.3 N/A 0.7 0.7 N/A 1.1 1.0
+Nonfederal government 10.0 2.2 1.8 2.1 2.5 2.6 2.2 2.4 2.4
+Social/Charitable/Political/Nonprofit 2.6 9.2 8.6 3.6 4.3 4.3 5.0 5.4 5.2
+Don't know/No answer 1.4 0.2 0.5 1.2 0.1 0.2 1.2 0.1 0.3
+Total Nonhousehold Mail Received
+by Households
+Pieces per household per week 0.5 0.7 0.7 2.1 2.6 2.5 2.7 3.3 3.2
+Note: Totals may not sum to 100 due to rounding.
+Table A2-5
+First-Class Mail Usage of Reply Envelopes -- by Industry
+(Percentage of Pieces)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+100.0100.0 100.0 100.0 100.0100.0 100.0 100.0 100.0
+BRM CRM Total Reply MailIndustry
+--- PDF PAGE 6 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007
+Business or Nonfederal Government:
+Advertising Only 33.7 47.1 31.5 5.2 4.1 3.1 11.0 13.0 9.0
+Notice of Order 3.0 3.6 3.6 1.6 1.0 1.2 2.0 1.6 1.7
+Bill/invoice/premium* 19.0 19.9 22.3 75.3 84.7 84.9 63.2 71.3 71.9
+Financial Statement 6.4 6.9 6.2 3.2 3.1 3.4 4.0 3.9 3.9
+Payment 1.54 0.4 0.4 0.4 0.2 0.3 0.8 0.3 0.3
+Rebate 0.1 0.0 0.1 0.0 0.0 0.1 0.0 0.0 0.1
+Greeting Card 0.6 0.6 0.5 0.1 0.2 0.2 0.2 0.2 0.2
+Invitation 4.7 6.6 6.6 0.6 1.1 1.0 1.5 2.3 2.2
+CD/DVD/Video Game N/A N/A 14.4 N/A N/A 0.0 N/A N/A 3.0
+Other business or nonfederal government 20.9 6.0 5.9 10.0 1.2 1.6 12.2 2.2 2.5
+Total Business or Nonfederal Government 89.9 91.1 91.4 96.4 95.7 95.8 95.1 94.7 94.9
+Social/Charitable/Political/Nonprofit
+Announcement/meeting 1.8 2.0 2.2 0.5 0.9 1.0 0.9 1.1 1.3
+Request for donation 4.4 5.2 5.0 1.2 2.1 2.1 1.8 2.8 2.7
+Confirmation of donation 0.5 0.6 0.5 0.2 0.6 0.4 0.3 0.6 0.4
+Bill/invoice/premium 0.4 0.3 0.3 0.9 0.6 0.5 0.8 0.5 0.5
+Other social/charitable/political/nonprofit 3.2 0.8 0.6 0.8 0.2 0.2 1.3 0.3 0.3
+Total Social/Charitable/Political/Nonprofit 10.2 8.9 8.6 3.6 4.3 4.2 4.9 0.0 0.0
+Total Received by Households 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+Pieces Per Household Per Week 0.5 0.7 0.7 2.1 2.6 2.5 2.7 3.3 3.2
+*Includes credit card statement/bill.
+Note: Totals may not sum due to rounding.
+Table A2-6
+First-Class Mail -- Enclosure of Reply Envelopes -- by Content
+(Percentage of Pieces)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+BRM
+Industry
+CRM Total Reply Mail
+--- PDF PAGE 7 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007 1987 2006 2007
+Financial:
+Credit Card 13.0 21.3 17.1 59.2 48.6 54.2 20.9 26.7 25.8 7.0 3.4 2.9
+Bank 5.3 5.2 5.0 11.1 16.2 18.1 75.3 76.0 74.4 8.3 2.6 2.5
+Securities 18.2 10.5 7.0 10.4 7.4 8.0 64.8 78.1 82.4 6.7 4.0 2.6
+Money Market 24.2 9.7 6.8 15.2 12.5 11.3 54.4 76.0 79.1 6.2 1.9 2.9
+Insurance 10.2 6.1 5.9 29.6 25.0 21.0 50.6 65.0 68.2 9.5 3.9 4.9
+Mortgage 8.9 4.7 4.2 9.0 22.4 23.8 72.6 71.9 70.8 9.6 1.0 1.2
+Total Financial 9.7 10.5 8.3 24.4 26.8 26.7 57.6 59.5 61.8 8.2 3.2 3.2
+Merchants:
+Supermarkets N/A 1.0 6.7 N/A 12.2 10.4 N/A 85.0 79.1 N/A 1.9 3.8
+Deprtment Store 5.4 3.9 5.1 54.4 44.8 48.7 33.4 47.7 40.7 6.9 3.7 5.4
+Mail Order 15.1 11.0 11.5 30.4 28.5 35.5 46.8 57.8 48.7 7.7 2.8 4.2
+Other Store 3.0 2.6 2.7 18.4 18.9 18.2 73.1 76.2 76.8 5.5 2.3 2.3
+Publisher 15.1 19.6 22.0 44.4 45.1 48.4 32.2 30.0 27.8 8.2 5.3 1.7
+Land Promotion 6.2 3.2 3.1 5.7 2.9 2.6 78.0 91.2 90.7 10.2 2.8 3.6
+Online auction N/A N/A 8.3 N/A N/A 20.6 N/A N/A 69.5 N/A N/A 1.5
+Restaurant 12.3 0.0 1.2 0.0 0.0 0.0 74.8 93.7 98.8 12.9 6.3 0.0
+Consumer packaged goods/manufacturers 8.8 6.0 6.1 5.0 8.9 11.8 67.0 82.7 79.5 19.3 2.4 2.6
+Auto dealers 3.5 4.4 3.2 2.6 2.2 3.3 86.9 90.9 91.0 7.0 2.6 2.5
+Service stations 0.7 0.8 0.9 11.6 9.9 4.5 84.2 88.3 94.3 3.6 1.0 0.3
+Total Merchants 8.8 7.2 13.5 35.2 27.2 25.9 47.8 62.2 57.4 8.1 3.4 3.2
+Services:
+Telephone 5.1 3.4 3.1 67.7 70.3 68.3 17.1 21.3 24.9 10.0 5.0 3.7
+Other utility 3.3 3.7 4.2 60.0 68.6 67.1 28.7 24.5 25.6 8.0 3.2 3.1
+Medical 4.3 4.7 4.5 38.2 36.1 38.4 49.6 56.3 54.6 8.0 2.9 2.5
+Other professional 6.0 4.7 5.2 10.9 10.6 11.3 72.3 82.9 80.7 10.8 1.7 2.7
+Leisure service 5.8 6.1 11.4 9.7 8.6 7.5 75.0 84.1 79.0 9.5 1.1 2.2
+Cable TV 2.2 3.5 3.2 63.3 72.6 72.1 24.8 20.4 22.5 9.7 3.5 2.2
+Computer 4.0 5.0 2.0 6.6 26.7 25.8 80.1 64.9 68.2 9.3 3.5 4.0
+Craftsman 2.7 8.2 6.6 14.2 4.5 8.7 66.4 87.3 82.7 16.7 0.0 2.0
+Total Services 4.4 4.2 4.8 45.9 47.9 46.2 40.5 44.6 46.0 9.2 3.3 2.9
+Federal government N/A 6.6 7.6 N/A 7.3 8.2 N/A 82.6 82.1 N/A 3.4 2.0
+Nonfederal government 4.2 4.2 3.6 13.3 18.3 20.1 74.9 74.9 73.7 7.6 2.5 2.6
+Social/Charitable/Political/Nonprofit 9.1 10.2 9.1 13.0 18.5 17.2 64.3 66.2 67.9 13.7 5.1 5.8
+Total Nonhousehold Mail Received 7.7 7.9 7.9 30.5 30.5 30.0 52.3 58.0 58.5 9.6 3.6 3.6
+Pieces per household per week 0.5 0.7 0.7 2.1 2.6 2.5 3.6 4.9 4.9 0.7 0.3 0.3
+Note: Percents are row percentages within each Industry classification. 
+Table A2-7
+First-Class Mail -- Industry Usage of Reply Envelopes 
+(Percentage of Pieces From Each Industry That Contain Reply Mail)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+Don't Know/
+No AnswerIndustry Business Reply Courtesy Reply No Reply Mail
+--- PDF PAGE 8 ---
+1987 2006 2007 1987 2006 2007
+Financial:
+Credit Card 2.9 4.3 3.7 0.50 1.08 0.89
+Bank 6.2 4.7 4.9 1.06 1.18 1.18
+Securities 1.6 1.5 1.6 0.28 0.37 0.39
+Money Market 0.1 0.2 0.2 0.02 0.05 0.04
+Insurance 3.9 3.4 3.8 0.68 0.85 0.93
+Mortgage 0.6 0.9 0.9 0.10 0.22 0.23
+Other financial 0.5 0.3 0.2 0.08 0.07 0.05
+Total Financial 15.8 15.1 15.4 2.72 3.80 3.70
+Merchants:
+Supermarkets 0.0 0.1 0.1 0.00 0.03 0.02
+Deprtment Store 2.1 1.0 0.9 0.37 0.24 0.22
+Mail Order 0.9 0.6 0.5 0.16 0.15 0.12
+Other Store 1.2 1.0 1.1 0.21 0.25 0.27
+Publisher 1.9 0.7 0.7 0.33 0.18 0.17
+Land Promotion 0.3 0.1 0.1 0.05 0.02 0.02
+Online auction N/A N/A 0.0 N/A N/A 0.01
+Restaurant 0.0 0.0 0.0 0.00 0.01 0.01
+Consumer packaged goods/manufacturers 0.3 0.5 0.5 0.04 0.13 0.13
+Auto dealers 0.2 0.3 0.4 0.04 0.08 0.09
+Service stations 0.0 0.1 0.1 0.00 0.02 0.03
+Other Merchants 0.5 0.5 0.9 0.08 0.12 0.22
+Total Merchants 7.4 4.9 5.4 1.28 1.22 1.31
+Services:
+Telephone 2.2 1.8 1.7 0.37 0.46 0.42
+Other utility 3.0 1.9 2.0 0.51 0.47 0.47
+Medical 2.8 2.3 2.4 0.47 0.58 0.59
+Other professional 0.5 0.5 0.4 0.09 0.12 0.10
+Leisure service 0.9 0.7 0.8 0.15 0.18 0.19
+Cable TV 0.7 0.8 0.7 0.12 0.19 0.17
+Computer 0.1 0.2 0.1 0.01 0.04 0.04
+Craftsman 0.1 0.0 0.1 0.01 0.00 0.01
+Other Services 0.8 0.6 0.9 0.14 0.16 0.21
+Total Services 11.1 8.8 9.1 1.87 2.21 2.20
+Federal government N/A 1.0 0.8 N/A 0.26 0.20
+Nonfederal government 2.0 1.4 1.4 0.34 0.35 0.33
+Social/Charitable/Political/Nonprofit 3.4 2.4 2.6 0.59 0.61 0.63
+Don't Know/No Answer 0.9 0.2 0.2 0.14 0.04 0.06
+Total Industry Mail to Households 40.6 33.8 35.0 6.94 8.49 8.42
+Totals may not sum due to rounding.
+Note: Pieces per Household per Week totals do not match those in Table A2-1 due to the exclusion of 
+Personal Mail, Packages, and Mail Pieces for which no response was given to Mail Type. 
+Table A2-8
+First-Class Mail -- Industry Mail to Households
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+Pieces Per Household Per 
+Week
+Percent of Non-Household 
+Mail Received by HouseholdsIndustry
+--- PDF PAGE 9 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007 1987 2006 2007
+Financial:
+Credit Card 1.8 6.5 6.1 0.3 0.6 0.6 0.1 N/A N/A 0.0 N/A N/A
+Bank 1.0 2.5 2.5 0.2 0.2 0.2 3.2 6.6 6.7 0.6 0.7 0.7
+Securities 0.1 0.1 0.1 0.0 0.0 0.0 0.7 2.4 2.7 0.1 0.2 0.3
+Money Market 0.0 0.0 0.0 0.0 0.0 0.0 0.1 0.3 0.3 0.0 0.0 0.0
+Insurance 1.6 3.8 3.8 0.3 0.4 0.4 0.3 0.8 0.9 0.1 0.1 0.1
+Mortgage 0.1 0.5 0.7 0.0 0.1 0.1 0.0 0.2 0.2 0.0 0.0 0.0
+Other Financial 0.1 0.1 0.1 0.0 0.0 0.0 0.1 0.2 0.2 0.0 0.0 0.0
+Total Financial 4.7 13.5 13.4 0.8 1.3 1.3 4.5 10.5 11.0 0.8 1.0 1.1
+Merchants:
+Supermarkets 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Deprtment Store 1.3 1.3 1.3 0.2 0.1 0.1 0.0 0.0 0.0 0.0 0.0 0.0
+Mail Order 0.2 0.3 0.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Other Store 0.4 0.7 0.7 0.1 0.1 0.1 0.0 0.0 0.0 0.0 0.0 0.0
+Publisher 0.9 0.8 0.8 0.2 0.1 0.1 0.0 0.0 0.0 0.0 0.0 0.0
+Land Promotion 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Online Auction N/A N/A 0.0 N/A N/A 0.0 N/A N/A 0.0 N/A N/A 0.0
+Restaurant 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Consumer packaged goods 0.0 0.2 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Auto dealers 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Service stations 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Other Merchants 0.1 0.1 0.1 0.0 0.0 0.0 0.0 0.1 0.1 0.0 0.0 0.0
+Total Merchants 2.9 3.4 3.7 0.5 0.3 0.4 0.1 0.2 0.2 0.0 0.0 0.0
+Services:
+Telephone 1.6 3.9 3.6 0.3 0.4 0.4 0.0 0.0 0.0 0.0 0.0 0.0
+Other utility 2.4 4.3 4.5 0.4 0.4 0.4 0.0 0.0 0.0 0.0 0.0 0.0
+Medical 1.7 3.3 3.3 0.3 0.3 0.3 0.1 0.1 0.2 0.0 0.0 0.0
+Other professional 0.1 0.2 0.2 0.0 0.0 0.0 0.0 0.1 0.1 0.0 0.0 0.0
+Leisure service 0.1 0.2 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Cable TV 0.5 1.7 1.5 0.1 0.2 0.1 0.0 0.0 0.0 0.0 0.0 0.0
+Computer 0.0 0.1 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Craftsman 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Other Services 0.2 0.5 0.4 0.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total Services 6.7 14.1 13.8 1.2 1.4 1.3 0.2 0.4 0.4 0.0 0.0 0.0
+Federal government N/A 0.2 0.2 N/A 0.0 0.0 N/A 0.3 0.4 N/A 0.0 0.0
+Nonfederal government 0.3 0.8 0.7 0.1 0.1 0.1 0.1 0.2 0.2 0.0 0.0 0.0
+Social/Charitable/Political/Nonprofit 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Don't Know/No Answer 0.2 0.1 0.1 0.0 0.0 0.0 0.1 0.0 0.1 0.0 0.0 0.0
+Total Bills or Statements Received by
+Households
+* Includes credit card statement/bill.
+Note: Totals may not sum due to rounding.
+Table A2-9
+First-Class Mail -- Bills and Statements
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+1.111.6 12.1 0.9 1.12.6 3.2 3.1 5.014.9 32.1 31.9
+Industry
+StatementsBills*
+Pieces Per 
+Household per Week
+Percent of Total 
+First-Class
+Pieces Per 
+Household per Week
+Percent of Total 
+First-Class
+--- PDF PAGE 10 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007
+Financial:
+Credit Card 3.6 5.4 6.7 0.1 0.3 0.4 0.0 0.0 0.0
+Bank 8.9 7.8 10.0 0.1 0.4 0.5 0.0 0.0 0.1
+Securities 5.3 4.1 4.6 0.1 0.2 0.2 0.0 0.0 0.0
+Money Market 0.1 1.1 0.5 0.0 0.1 0.0 0.0 0.0 0.0
+Insurance 7.4 9.0 6.4 0.1 0.5 0.3 0.0 0.0 0.0
+Mortgage 2.5 3.2 3.0 0.0 0.2 0.2 0.0 0.0 0.0
+Other financial 1.7 1.5 0.9 0.0 0.1 0.0 0.0 0.0 0.0
+Total Financial 29.5 32.0 32.3 0.5 1.8 1.7 0.1 0.2 0.2
+Merchants:
+Supermarkets 0.0 0.4 0.6 0.0 0.0 0.0 0.0 0.0 0.0
+Deprtment Store 2.8 1.2 2.0 0.0 0.1 0.1 0.0 0.0 0.0
+Mail Order 1.0 1.1 1.8 0.0 0.1 0.1 0.0 0.0 0.0
+Other Store 4.6 1.7 2.8 0.1 0.1 0.2 0.0 0.0 0.0
+Publisher 3.6 1.5 3.2 0.1 0.1 0.2 0.0 0.0 0.0
+Land Promotion 0.9 0.5 0.3 0.0 0.0 0.0 0.0 0.0 0.0
+Online auction N/A N/A 0.1 N/A N/A 0.0 N/A N/A 0.0
+Restaurant 0.2 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Consumer packaged goods/manufacturers 2.3 2.6 2.2 0.0 0.1 0.1 0.0 0.0 0.0
+Auto dealers 0.6 0.7 1.3 0.0 0.0 0.1 0.0 0.0 0.0
+Service stations 0.3 0.2 0.2 0.0 0.0 0.0 0.0 0.0 0.0
+Other Merchants 4.1 3.6 3.2 0.1 0.2 0.2 0.0 0.0 0.0
+Total Merchants 20.4 13.7 17.9 0.3 0.8 1.0 0.1 0.1 0.1
+Services:
+Telephone 2.6 1.6 1.6 0.0 0.1 0.1 0.0 0.0 0.0
+Other utility 1.6 1.7 1.3 0.0 0.1 0.1 0.0 0.0 0.0
+Medical 11.0 14.3 14.3 0.2 0.8 0.8 0.0 0.1 0.1
+Other professional 5.2 4.7 4.1 0.1 0.3 0.2 0.0 0.0 0.0
+Leisure service 9.9 3.4 3.2 0.2 0.2 0.2 0.0 0.0 0.0
+Cable TV 0.3 1.0 0.7 0.0 0.1 0.0 0.0 0.0 0.0
+Computer 0.9 0.4 0.7 0.0 0.0 0.0 0.0 0.0 0.0
+Craftsman 0.5 0.1 0.2 0.0 0.0 0.0 0.0 0.0 0.0
+Other Services 4.9 3.1 5.2 0.1 0.2 0.3 0.0 0.0 0.0
+Total Services 36.9 30.4 31.3 0.6 1.7 1.7 0.1 0.2 0.2
+Federal government N/A 10.1 5.9 N/A 0.6 0.3 N/A 0.1 0.0
+Nonfederal government 9.7 12.3 10.3 0.2 0.7 0.5 0.0 0.1 0.1
+Social/Charitable/Political/Nonprofit 0.0 0.7 0.5 0.0 0.0 0.0 0.0 0.0 0.0
+Don't Know/No Answer 3.5 0.7 1.8 0.1 0.0 0.1 0.0 0.0 0.0
+ Total Business Invitations/Announcements 
+   Mail Received by Households
+Note: Totals may not sum due to rounding.
+Table A2-10
+Use of First-Class Business Invitations/Announcements Mail -- by Industry
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+0.50.50.3100.0 100.0 100.0 1.5 4.9 5.0
+Percent of 
+First-Class 
+Business Invitations 
+and 
+Announcements
+Percent of Total 
+First Class Mail
+Pieces Per 
+Household Per 
+WeekIndustry
+--- PDF PAGE 11 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007
+Financial:
+Credit Card 18.3 25.1 20.3 1.3 2.0 1.7 0.22 0.32 0.26
+Bank 11.7 13.9 13.6 0.8 1.1 1.1 0.14 0.18 0.18
+Securities 4.2 2.1 2.2 0.3 0.2 0.2 0.05 0.03 0.03
+Money Market 0.8 0.2 0.1 0.0 0.0 0.0 0.01 0.00 0.00
+Insurance 4.2 2.7 4.1 0.3 0.2 0.3 0.05 0.03 0.05
+Mortgage 0.8 1.2 1.3 0.0 0.1 0.1 0.01 0.02 0.02
+Other Financial 5.8 0.2 0.2 0.0 0.0 0.0 0.07 0.00 0.00
+Total Financial 40.0 45.5 41.8 2.8 3.6 3.4 0.48 0.59 0.54
+Merchants:
+Supermarkets 0.0 0.1 0.1 0.0 0.0 0.0 0.00 0.00 0.00
+Deprtment Store 14.2 6.2 5.7 1.0 0.5 0.5 0.17 0.08 0.07
+Mail Order 2.5 1.1 1.3 0.2 0.1 0.1 0.03 0.01 0.02
+Other Store 2.5 2.0 2.4 0.2 0.2 0.2 0.03 0.03 0.03
+Publisher 5.0 1.7 1.7 0.4 0.1 0.1 0.06 0.02 0.02
+Land Promotion 0.0 0.0 0.1 0.0 0.0 0.0 0.00 0.00 0.00
+Online auction N/A N/A 0.1 N/A N/A 0.0 N/A N/A 0.00
+Restaurant 0.0 0.0 0.1 0.0 0.0 0.0 0.00 0.00 0.00
+Consumer packaged goods 0.0 0.5 1.1 0.0 0.0 0.1 0.00 0.01 0.01
+Auto dealers 0.0 0.2 0.2 0.0 0.0 0.0 0.00 0.00 0.00
+Service stations 0.0 0.1 0.1 0.0 0.0 0.0 0.00 0.00 0.00
+Other Merchants 0.8 0.3 3.9 0.1 0.0 0.3 0.01 0.00 0.05
+Total Merchants 25.8 12.4 16.7 1.8 1.0 1.4 0.31 0.16 0.22
+Services:
+Telephone 8.3 13.6 12.7 0.6 1.1 1.0 0.10 0.18 0.17
+Other utility 8.3 8.4 8.3 0.6 0.7 0.7 0.10 0.11 0.11
+Medical 1.7 1.2 1.4 0.1 0.1 0.1 0.02 0.02 0.02
+Other professional 1.7 0.2 0.2 0.0 0.0 0.0 0.02 0.00 0.00
+Leisure service 0.0 0.8 1.2 0.1 0.1 0.1 0.00 0.01 0.02
+Cable TV 4.2 6.8 5.0 0.3 0.5 0.4 0.05 0.09 0.07
+Computer 0.0 0.4 0.4 0.0 0.0 0.0 0.00 0.00 0.01
+Craftsman 0.0 0.0 0.0 0.0 0.0 0.0 0.00 0.00 0.00
+Other Services 0.8 0.9 1.4 0.1 0.1 0.1 0.01 0.01 0.02
+Total Services 25.0 32.4 30.6 1.7 2.5 2.5 0.30 0.42 0.40
+Federal government N/A 0.5 0.8 N/A 0.0 0.1 N/A 0.01 0.01
+Nonfederal government 0.8 0.9 1.1 0.1 0.1 0.1 0.01 0.01 0.01
+Social/Charitable/Political/Nonprofit 7.5 8.2 8.7 0.5 0.6 0.7 0.09 0.11 0.11
+Don't Know/No Answer 0.8 0.1 0.3 0.1 0.0 0.0 0.01 0.00 0.00
+   Total Advertising Enclosed 
+   Mail Received by Households
+ /onesans 
+Does not include "Advertising Only" mail.
+Note: Totals may not sum due to rounding.
+Table A2-11
+Use of First-Class Advertising-Enclosed Mail /onesans-- by Industry
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+1.307.9 8.2 1.20 1.29100.0 100.0 7.0100.0
+Industry Breakdown 
+of First-Class 
+Household Mail That 
+is "Advertising 
+Enclosed"
+Percent of Total First 
+Class Mail
+Pieces Per 
+Household Per WeekIndustry
+--- PDF PAGE 12 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007 1987 2006 2007
+Pieces per household per week 3.2 2.5 5.5 5.6 7.0 6.7 8.5 9.4 9.3 12.4 12.6 11.8
+Table A2-14
+First-Class Mail Received -- by Number of Financial Accounts and Insurance Policies
+Postal Fiscal Years 1987, 2006 and 2007
+(Recruitment and Diary Data)
+High (10+)
+Number of Accounts and Policies
+None Low (1-5) Medium (6-9)
+--- PDF PAGE 13 ---
+Table A2-15
+First-Class Mail Received -- by Number of Credit Cards
+Postal Fiscal Years 1987, 2006 and 2007
+(Recruitment and Diary Data)
+Number of Credit Cards
+2007200619872007200720061987 1987
+Pieces per Household per Week 4.8 5.8 6.2 12.312.813.210.110.87.3 8.3 8.3 9.9
+High (8+)
+20072006
+None Low (1-3)
+2006
+Medium (4-7)
+1987
+--- PDF PAGE 14 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007 1987 2006 2007
+Personal 1.6 0.5 0.6 0.8 0.6 0.6 1.2 0.6 0.7 1.5 0.9 0.9
+Business or Nonfederal Government:
+Advertising 0.4 1.0 0.8 0.3 0.9 0.8 0.7 1.4 1.3 1.0 1.8 1.6
+Invitation/Announcement 0.1 0.1 0.1 0.1 0.2 0.3 0.2 0.5 0.4 0.3 0.5 0.5
+Bill* 1.5 2.6 1.1 1.8 2.5 2.5 2.6 3.1 3.0 3.0 3.4 3.4
+Financial Statement 0.6 1.0 0.6 0.4 0.8 0.6 0.6 0.8 1.0 1.0 1.1 1.2
+Other /onesans 0.7 1.0 0.8 1.0 1.3 1.5 1.5 1.2 1.6 1.9 1.6 1.9
+     Total Business or Nonfederal Government 3.3 5.8 3.4 3.6 5.7 5.8 5.6 7.0 7.4 7.2 8.4 8.5
+Social/Charitable/Political/Nonprofit 0.3 0.6 1.2 0.3 0.4 0.2 0.5 0.4 0.4 0.8 0.8 1.0
+Total 5.3 6.8 5.2 4.7 6.7 6.6 7.3 8.0 8.5 9.6 10.2 10.5
+70 - 74 75+
+1987 2006 2007 1987 2006 2007 1987 2006 2007 1987 2006 2007 2007
+Personal 1.8 1.1 0.9 1.8 1.1 1.1 1.7 1.5 1.1 1.9 1.4 1.0 1.1
+Business or Nonfederal Government:
+Advertising 1.1 2.1 1.7 1.1 2.0 1.7 1.0 2.0 1.8 0.7 1.5 1.3 1.2
+Invitation/Announcement 0.4 0.6 0.6 0.3 0.6 0.6 0.4 0.6 0.6 0.2 0.6 0.4 0.5
+Bill* 3.1 3.6 3.5 2.7 3.6 3.4 2.0 2.9 3.2 1.6 2.5 2.6 2.4
+Financial Statement 1.1 1.3 1.3 1.1 1.3 1.3 0.9 1.3 1.5 0.8 1.2 1.2 1.1
+Other /onesans 2.1 1.8 1.9 2.0 2.1 1.9 1.8 2.2 2.2 1.9 2.2 2.0 2.3
+     Total Business or Nonfederal Government 7.8 9.4 9.1 7.2 9.6 8.9 6.1 9.0 9.3 5.2 8.1 7.6 7.5
+Social/Charitable/Political/Nonprofit 0.7 0.7 0.7 0.7 0.7 0.6 0.5 0.7 0.7 0.5 0.6 0.7 0.0
+Total 10.4 11.2 10.8 9.9 11.4 10.6 8.5 11.2 11.1 7.6 10.1 9.3 8.5
+/onesans Includes pieces for which no response was given for Mail Type. 
+*Includes credit card statement/bill.
+Note: Totals may not sum due to rounding.
+65 - 69 70+
+Table A2-16
+First-Class Mail Receipt -- Content by Age of Head of Household
+(Pieces Per Household Per Week)
+Postal Fiscal Years 1987, 2006 and 2007
+(Recruitment and Diary Data)
+Contents
+Contents
+45 - 54 55 - 64
+18 - 21 22 - 24 25 - 34 35 - 44
+--- PDF PAGE 15 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007 1987 2006 2007
+Personal 1.1 1.1 1.0 1.1 0.4 0.5 1.3 0.9 0.8 1.5 1.0 1.0
+Business or Nonfederal Government:
+Advertising 0.5 1.3 1.2 0.6 1.0 0.9 0.7 1.6 1.4 0.9 1.8 1.4
+Invitation/Announcement 0.1 0.4 0.7 0.1 0.3 0.5 0.2 0.5 0.5 0.3 0.5 0.5
+Bill* 1.7 2.5 2.4 2.0 2.7 2.7 2.4 3.3 3.2 2.6 3.3 3.1
+Financial Statement 0.4 0.7 0.8 0.6 0.6 0.7 0.7 1.1 1.1 0.9 1.2 1.1
+Other /onesans 1.2 1.4 1.5 1.6 1.6 1.9 1.6 1.7 1.7 1.7 1.7 1.9
+Total Business or Nonfederal Government 3.9 6.3 6.6 4.9 6.2 6.7 5.6 8.2 7.9 6.4 8.6 8.0
+Social/Charitable/Political/Nonprofit 0.2 0.4 0.4 0.3 0.3 0.4 0.4 0.4 0.5 0.6 0.6 0.5
+Total 5.4 7.9 8.0 6.5 7.0 7.6 7.4 9.5 9.2 8.5 10.1 9.4
+1987 2006 2007 1987 2006 2007 1987 2006 2007
+Personal 1.3 1.3 0.9 1.9 1.3 1.1 2.7 1.5 1.3
+Business or Nonfederal Government
+Advertising 0.9 1.9 1.7 1.2 2.1 1.7 1.5 2.3 1.9
+Invitation/Announcement 0.3 0.7 0.5 0.4 0.7 0.5 0.6 0.7 0.6
+Bill* 2.5 3.1 3.2 3.1 3.4 3.3 3.4 3.5 3.2
+Financial Statement 0.9 1.4 1.2 1.2 1.4 1.5 1.7 1.6 1.6
+Other /onesans 1.8 1.8 1.9 2.2 1.8 2.0 2.9 2.1 2.2
+Total Business or Nonfederal Government 6.4 8.8 8.5 8.1 9.3 9.0 10.1 10.3 9.4
+Social/Charitable/Political/Nonprofit 0.4 0.4 0.8 0.9 0.8 0.8 1.7 1.2 1.1
+Total 8.2 10.5 10.2 11.0 11.4 10.9 14.6 12.9 11.9
+/onesans Includes pieces for which no response was given for Mail Type. 
+* Includes credit card statement/bill.
+Note: Totals may not sum due to rounding.
+Table A2-17
+First-Class Mail Receipt -- Content by Education of Head of Household
+(Pieces Per Household Per Week)
+Postal Fiscal Years 1987, 2006 and 2007
+(Recruitment and Diary Data)
+Some College
+Post GraduateContents
+< 8th Grade Some High School High School
+College GraduateTechnical School
+Contents
+--- PDF PAGE 16 ---
+1987 2006 2007 1987 2006 2007 1987 2006 2007 1987 2006 2007
+Personal 0.9 0.4 0.2 1.3 0.5 0.4 1.1 0.4 0.6 1.5 0.6 0.6
+Business or Nonfederal Government:
+Advertising 0.3 0.4 0.4 0.5 0.6 0.8 0.6 0.6 0.7 0.7 0.9 0.9
+Invitation/Announcement 0.1 0.3 0.2 0.1 0.2 0.2 0.1 0.3 0.2 0.2 0.4 0.4
+Bill* 1.2 1.5 1.4 1.5 2.0 1.9 1.9 1.7 1.7 2.3 2.1 2.2
+Financial Statement 0.2 0.3 0.3 0.4 0.7 0.8 0.6 0.5 0.9 0.7 0.6 0.5
+Other /onesans 1.4 1.4 1.5 1.3 1.7 1.3 1.5 1.0 1.4 1.3 1.5 1.4
+     Total Business or Nonfederal Government 3.2 3.9 3.8 3.8 5.0 5.0 4.7 4.1 4.9 5.2 5.4 5.4
+Social/Charitable/Political/Nonprofit 0.2 0.2 0.2 0.3 0.3 0.3 0.3 0.2 0.3 0.5 0.3 0.7
+Total 4.3 4.5 4.2 5.5 5.7 5.7 6.2 4.8 5.8 7.3 6.4 6.7
+1987 2006 2007 1987 2006 2007 1987 2006 2007 1987 2006 2007
+Personal 1.3 0.8 0.5 1.5 0.8 1.1 1.8 0.8 1.1 1.7 1.0 0.8
+Business or Nonfederal Government:
+Advertising 0.6 1.2 1.0 0.8 1.5 1.2 1.0 1.5 1.2 1.1 1.6 1.3
+Invitation/Announcement 0.2 0.4 0.3 0.2 0.5 0.4 0.4 0.5 0.4 0.4 0.5 0.5
+Bill* 2.6 2.3 2.3 2.5 2.9 2.5 2.9 2.9 2.5 3.2 3.2 3.1
+Financial Statement 0.8 0.7 0.6 0.9 0.9 0.8 0.9 0.9 0.8 1.1 1.0 1.0
+Other /onesans 1.5 1.3 1.4 1.9 1.7 1.6 1.9 1.7 1.6 2.1 1.8 1.7
+       Total Business or Nonfederal Government 5.7 5.8 5.6 6.3 7.5 6.4 7.1 7.5 6.4 7.9 8.1 7.5
+Social/Charitable/Political/Nonprofit 0.4 0.4 0.4 0.6 0.4 0.5 0.7 0.4 0.5 0.8 0.4 0.5
+Total 7.5 7.1 6.5 8.5 8.7 8.0 9.8 8.7 8.0 10.4 9.5 8.9
+1987 2006 2007 1987 2006 2007 1987 2006 2007 1987 2006 2007
+Personal 2.1 1.1 0.9 2.2 1.1 1.0 2.1 1.3 1.1 2.7 1.4 1.1
+Business or Nonfederal Government:
+Advertising 1.5 1.7 1.4 2.1 2.0 1.7 2.4 2.3 1.9 2.4 2.8 2.2
+Invitation/Announcement 0.4 0.6 0.5 0.4 0.6 0.7 0.6 0.7 0.6 0.7 0.8 0.7
+Bill* 3.5 3.5 3.3 3.9 3.6 3.6 4.2 3.9 3.5 4.6 4.1 3.8
+Financial Statement 1.5 1.2 1.2 1.8 1.3 1.3 1.8 1.6 1.5 2.0 1.8 1.8
+Other /onesans 2.5 1.7 2.0 3.3 1.5 1.8 3.1 2.1 2.0 3.2 2.0 2.4
+     Total Business or Nonfederal Government 9.4 8.6 8.4 11.5 9.1 9.2 12.1 10.6 9.5 12.9 11.5 10.8
+Social/Charitable/Political/Nonprofit 1.0 0.5 0.5 1.1 0.7 0.7 1.2 0.9 0.7 1.6 1.1 1.0
+Total 12.6 10.2 9.8 14.9 10.9 10.9 15.5 12.8 11.4 17.5 14.0 13.0
+/onesans Includes pieces for which no response was given for Mail Type. 
+* Includes credit card statement/bill
+Note: 2006/2007 Estimates for Income Levels $25K-$29.9K are identical to those in $30K-$34.9K since categories used to collect data only included $25K-$34.9K. 
+Totals may not sum due to rounding.
+Table A2-18
+First-Class Receipt -- Content by Income
+(Pieces Per Household Per Week)
+Postal Fiscal Years 1987, 2006 and 2007
+(Recruitment and Diary Data)
+$100K+$65K - $79.9K
+$15K - $19.9K$10K - $14.9
+$35K - $49.9K$30K - $34.9K
+Contents
+Contents
+<Under $7K $7K - $9.9K
+Contents $80K - $99.9K$50K - $64.9K
+$20K - $24.9K $25K - $29.9K
+--- PDF PAGE 17 ---
+1987 2006 2007
+Business or nonfederal government advertising only 48.8 81.8 81.1
+Notice of order 36.1 69.8 67.3
+Bill/invoice/premium* 68.9 83.7 84.2
+Financial Statement 60.8 85.0 86.7
+Payment 42.3 62.6 62.8
+Rebate /onesans 27.3 79.8 77.8
+Greeting card 25.3 38.6 31.7
+Invitation/announcement 28.5 65.3 66.6
+Sweepstakes /onesans 77.5 71.2 95.7
+Insurance policy /onesans 59.5 83.2 83.3
+Tax forms /onesans 25.3 69.7 69.2
+CD/DVD/Video game N/A N/A 92.8
+Other business or government 49.7 65.1 65.5
+Total Business or Nonfederal Government 56.7 79.7 80.1
+Social/Charitable/Political/Nonprofit announcement/meeting 10.3 34.5 35.8
+Request for donation 19.9 52.3 53.5
+Confirmation of donation /onesans 11.8 39.7 35.1
+Bill /onesans 29.9 49.3 47.0
+Education /onesans 37.8 54.3 72.6
+Other social/charitable/political/nonprofit 18.0 32.5 29.0
+Total Social/Charitable/Political/Nonprofit 16.5 39.3 39.2
+Total Nonpersonal Mail Received by Households 53.9 76.9 77.1
+Pieces per Household Per Week 3.74 6.44 6.41
+ /onesans Fluctuation may be due to small sample sizes.
+* Includes credit card statement/bill.
+Note: Percents are row percentages within each Mail Type. 
+Totals may not sum due to rounding.
+PercentContent
+Table A2-19
+First-Class Mail -- Percent of Nonpersonal Mail Received by 
+Households Which is Sent Presort -- by Content
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+--- PDF PAGE 18 ---
+1987 2006 2007
+Financial:
+Credit Card 76.9 97.3 96.4
+Bank 59.1 86.0 87.3
+Securities 37.6 79.7 80.9
+Money Market /onesans 52.4 80.1 85.9
+Insurance 62.2 86.0 86.4
+Mortgage 19.0 60.0 64.7
+Total Financial 58.9 86.8 87.1
+Merchants:
+Supermarkets N/A 73.0 83.9
+Deprtment Store 73.5 93.7 92.8
+Mail Order 50.0 84.3 82.9
+Other Store 33.1 75.6 77.9
+Publisher 58.9 85.9 85.6
+Land Promotion /onesans 61.9 84.5 78.1
+Online auction N/A 0.0 49.7
+Restaurant /onesans 50.0 43.2 52.0
+Consumer packaged goods 30.8 72.5 80.1
+Auto dealers /onesans 45.5 72.6 77.2
+Service stations /onesans 14.3 78.8 81.8
+Total Merchants 55.0 79.6 80.0
+Services:
+Telephone 84.4 66.3 70.2
+Other utility 81.2 86.6 83.4
+Medical 35.9 62.8 65.2
+Other professional 7.8 42.6 44.9
+Leisure service 31.1 70.9 74.6
+Cable TV 57.3 80.6 79.7
+Computer /onesans 15.4 82.3 80.0
+Craftsman /onesans 22.2 27.1 28.1
+Total Services 56.7 69.3 70.7
+Federal government N/A 83.4 78.0
+Nonfederal government 54.0 69.6 68.9
+Social/Charitable/Political/Nonprofit 16.5 40.2 39.7
+Total Nonhousehold Mail Received by households 53.9 73.5 74.9
+Pieces per household per week 3.7 6.8 6.8
+ /onesans Fluctuation may be due to small sample sizes.
+Note: Percents are row percentages within each Industry classification. 
+Percent Sent PresortIndustry
+Table A2-20
+Total Percentage of Industry's First-Class Mail Received by 
+Households Which is Sent Presort
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+--- PDF PAGE 19 ---
+Household-to-household 9.4 6.4 4.6
+Household-to-nonhousehold 12.3 13.9 15.1
+Nonhousehold-to-household 39.2 46.9 41.2
+Unidentified incoming 0.6 2.9 2.2
+Unidentified outgoing 1.4 0.8 1.0
+   Subtotal 62.9 71.0 64.1
+Nonhousehold-to-nonhousehold 37.1 29.0 35.9
+   Total 100.0 100.0 100.0
+Note: Totals may not sum due to rounding.
+Base: RPW Total, First-Class Envelopes.  
+Table A2-21
+First-Class Mail -- Total Envelopes by Sector
+(Percentage of Pieces)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+Sector 1987 2006 2007
+--- PDF PAGE 20 ---
+1987 2006 2007
+Personal:
+Holiday/seasons' greeting cards 3.3 2.8 2.3
+Other greeting cards 1.7 1.4 1.5
+Invitation 1.2 0.5 0.6
+Letter from a friend or relative 2.6 1.2 1.2
+Announcement 0.1 0.1 0.1
+Other personal 0.5 0.3 0.2
+   Total Personal 9.4 6.4 5.9
+Business or Nonfederal Government:
+Advertising only 4.5 6.4 5.1
+Notice or confirmation of order 1.2 2.5 2.9
+Bill* 15.1 20.4 20.4
+Financial statement 5.3 7.4 7.8
+Payment 2.0 1.5 1.5
+Rebate 0.0 0.1 0.1
+Holiday/greeting card 0.2 0.4 0.3
+Invitation/announcement 1.3 2.6 2.5
+Sweepstakes 0.0 0.0 0.1
+Other insurance related 0.2 0.8 1.4
+Tax 0.0 0.4 0.5
+CD/DVD/Video game N/A 0.0 0.7
+Other business or nonfederal government 6.7 1.3 1.2
+   Total Business or Nonfederal Government 36.4 43.9 44.7
+Social/Charitable/Political/Nonprofit:
+Announcement 1.2 1.3 1.6
+Request for donation 0.4 0.7 0.7
+Thank you for donation 0.2 0.4 0.3
+Bill 0.2 0.2 0.2
+Education acceptances 0.1 0.0 0.0
+Other social/charitable/political/nonprofit 0.7 0.4 0.3
+   Total Social/Charitable/Political/Nonprofit 2.8 3.0 3.2
+Don't Know/No answer 0.6 2.9 2.5
+   Total Envelopes Received by Households 49.2 56.2 56.3
+   Pieces Per Household Per Week 8.11 8.69 8.40
+* Includes credit card statement/bill.
+Base: RPW Total, First-Class Envelopes.  
+Note: Totals may not sum due to rounding.
+Percentage of Total EnvelopesContent
+Table A2-22
+First-Class Mail -- Total Envelopes by Content 
+(Percentage of Total Envelopes)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+--- PDF PAGE 21 ---
+Financial:
+Credit card 2.7 6.8 5.8
+Bank 5.7 7.3 7.5
+Securities 1.5 2.3 2.5
+Money Market 0.1 0.3 0.3
+Insurance 3.6 5.1 5.7
+Mortgage 0.5 1.0 1.0
+Other financial 0.4 0.4 0.3
+   Total Financial 14.5 23.1 23.1
+Merchants:
+Supermarkets N/A 0.1 0.1
+Department store 1.8 1.1 1.1
+Mail order 0.7 0.6 0.5
+Other store 0.9 0.8 0.9
+Publisher 1.6 0.9 0.9
+Land Promotion 0.2 0.0 0.1
+Online auction N/A N/A 0.1
+Restaurant 0.0 0.0 0.0
+Consumer packaged goods 0.2 0.6 0.6
+Auto dealers 0.2 0.3 0.4
+Service stations 0.0 0.0 0.1
+Other merchants 0.3 0.6 1.3
+   Total Merchants 5.9 5.0 5.8
+Services:
+Telephones 2.0 2.9 2.7
+Other Utility 2.4 2.8 2.9
+Medical 2.4 3.2 3.3
+Other professional 0.4 0.7 0.6
+Leisure service 0.7 0.6 0.6
+Cable TV 0.6 1.2 1.1
+Computer 0.1 0.2 0.2
+Craftsman 0.1 0.0 0.1
+Other Services 0.6 0.7 0.8
+   Total Services 9.2 12.2 12.3
+Federal government N/A 1.3 1.1
+Nonfederal government 1.7 1.9 1.9
+Social/charitable/political/nonprofit 2.9 3.1 3.2
+Don't know/No answer 0.5 0.2 0.3
+   Total Envelopes Received by Households from Non-Households 34.6 46.9 47.9
+   Pieces Per Household Per Week 6.4 7.3 7.1
+Base: RPW Total, First-Class Envelopes.  
+Table A2-23
+First-Class Mail -- Total Envelopes by Industry
+(Percentage of Total Envelopes )
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+200720061987Industry
+--- PDF PAGE 22 ---
+Sector 1987 2006 2007
+Household-to-household 12.5 12.7 12.2
+Household-to-nonhousehold 17.3 30.5 34.0
+Nonhousehold-to-household 25.2 30.5 31.3
+Unidentified incoming 0.5 2.5 2.1
+Unidentified outgoing 2.5 1.9 2.3
+Subtotal 58.0 78.1 81.8
+Nonhousehold-to-nonhousehold 42.0 21.9 18.2
+   Total 100.0 100.0 100.0
+Base: RPW Total, First-Class Envelopes.  
+Note: Totals may not sum due to rounding.
+Table A2-24
+First-Class Mail -- Nonpresort Envelopes by Sector 
+(Percentage of Total Envelopes)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+--- PDF PAGE 23 ---
+Household-to-household 9.2 2.1 2.6
+Household-to-nonhousehold 8.5 3.7 3.5
+Nonhousehold-to-household 56.8 54.0 59.2
+Unidentified incoming 0.6 1.1 1.0
+Unidentified outgoing 0.0 0.5 0.6
+   Subtotal 75.1 61.4 66.9
+Nonhousehold-to-nonhousehold 24.9 38.6 33.1
+   Total 100.0 100.0 100.0
+Base: RPW Total, First-Class Cards.   
+Note: Totals may not sum due to rounding.
+Table A2-25
+First-Class Mail -- Total Cards by Sector
+(Percentage of Total Cards)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+Sector 1987 2006 2007
+--- PDF PAGE 24 ---
+Financial:
+Credit card 0.2 0.7 0.6
+Bank 0.2 2.0 2.5
+Securities 0.2 0.5 0.6
+Money Market 0.0 0.1 0.1
+Insurance 1.1 3.1 4.1
+Mortgage 1.3 3.9 3.9
+Other financial 0.3 0.3 0.4
+   Total Financial 3.2 10.5 12.3
+Merchants:
+Supermarkets 0.0 0.3 0.2
+Department store 4.2 2.8 2.1
+Mail order 5.0 1.9 1.3
+Other store 6.4 6.2 6.6
+Publisher 4.0 2.1 1.4
+Land Promotion 1.1 0.5 0.4
+Online auction N/A N/A 0.0
+Restaurant 0.2 0.2 0.3
+Consumer packaged goods 0.3 1.4 2.2
+Auto dealers 0.6 0.9 1.4
+Service stations 0.3 1.0 1.2
+Other merchants 2.2 1.1 1.1
+   Total Merchants 24.4 18.5 18.3
+Services:
+Telephone 0.3 0.7 0.9
+Other Utility 7.9 2.1 2.5
+Medical 4.7 5.0 5.1
+Other professional 1.0 0.8 0.6
+Leisure service 4.0 3.5 4.1
+Cable TV 1.0 0.4 0.7
+Computer 0.2 0.4 0.5
+Craftsman 0.0 0.1 0.3
+Other Services 2.7 2.3 4.4
+   Total Services 21.7 15.4 19.0
+Federal government N/A 2.2 1.4
+Nonfederal government 1.4 2.2 1.8
+Social/charitable/political/nonprofit 5.9 5.0 6.2
+Don't know/No answer N/A 0.2 0.3
+Total Mail Recieved by Households 56.7 54.0 59.2
+Pieces Per Household Per Week 0.4 0.5 0.6
+Base: RPW Total, First-Class Cards.   
+Note: Totals may not sum due to rounding.
+Table A2-26
+First-Class Mail -- Total Cards by Industry
+(Percentage of Total Cards)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+Industry 1987 2006 2007
+--- PDF PAGE 25 ---
+Personal:
+Holiday/seasons' greeting cards 0.9 0.3 0.3
+Other greeting cards 1.1 0.3 0.6
+Invitation 1.7 0.8 0.6
+Letter from a friend or relative 3.9 0.5 0.7
+Announcement 0.2 0.1 0.2
+Other personal 1.4 0.1 0.1
+   Total Personal 9.2 2.1 2.6
+Business or Nonfederal Government:
+Advertising only 22.2 31.6 34.1
+Notice or confirmation of order 5.1 4.3 5.9
+Bill* 10.6 3.3 3.4
+Financial statement 0.1 0.4 0.8
+Payment 0.1 0.2 0.2
+Rebate 0.1 0.5 0.4
+Holiday/greeting card 0.8 0.9 0.7
+Invitation/announcement 7.3 6.6 6.4
+Sweepstakes 0.4 0.1 0.2
+Receipts for direct deposit 0.2 0.0 0.0
+Other insurance related 0.1 0.2 0.3
+Tax 0.0 0.2 0.2
+CD/DVD/Video game N/A 0.0 0.0
+Other business or nonfederal government 3.9 0.9 0.6
+   Total Business or Nonfederal Government 50.9 49.3 53.2
+Social/Charitable/Political/Nonprofit:
+Announcement 4.0 3.6 5.1
+Request for donation 0.3 0.4 0.3
+Thank you for donation 0.3 0.2 0.1
+Bill 0.1 0.1 0.0
+Education acceptances 0.0 0.4 0.4
+Other social/charitable/political/nonprofit 1.2 1.1 1.0
+   Total Social/Charitable/Political/Nonprofit 5.9 5.8 6.9
+Don't Know/No answer 0.6 1.1 1.0
+   Total 66.6 58.4 63.8
+   Pieces Per Household Per Week 0.5 0.5 0.6
+Base: RPW Total, First-Class Cards.   
+* Includes credit card statement/bill.
+Table A2-27
+First-Class Mail -- Total Cards by Content
+(Percentage of Total Cards)
+Postal Fiscal Years 1987, 2006 and 2007
+(Diary Data)
+Content 1987 2006 2007
