@@ -53,3 +53,5 @@ footer{font-size:12px;color:#526476}
 
 /* Independent visual identity: navy, light neutrals, one teal accent. */
 nav::before{font-family:system-ui,sans-serif;font-size:28px;font-weight:750;color:#26384b}h1{font-family:system-ui,sans-serif;font-size:38px;font-weight:650;letter-spacing:-1px}.metric{font-family:system-ui,sans-serif;font-weight:650;font-variant-numeric:tabular-nums}nav::after{content:"CHALLENGE X · MAILERS\A Independent student project\A Not an official USPS product";font-size:11px;line-height:1.8;letter-spacing:0;color:#526476}body{--ink:#26384b;--green:#236f74;--paper:#f5f7fa;--line:#dce2e9;--muted:#526476}.notice.warn{border-color:#526476;background:#f0f3f7}.grid .card:first-child{background:#edf3f7}header small{color:#43556a}blockquote{font-family:system-ui,sans-serif;font-size:19px}footer{color:#43556a}
+
+.panel.active{animation:none}
