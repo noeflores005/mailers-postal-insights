@@ -1,0 +1,3 @@
+# No packages required to view dashboard.html or run app.py.
+# Only PDF re-extraction with ingest.py needs:
+pypdf>=5,<7
